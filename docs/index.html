@@ -28,6 +28,7 @@
     <title>We fight with cards</title>
 
     <!-- Bootstrap core CSS -->
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 
     <!-- Custom styles for this template -->
@@ -36,47 +37,93 @@
 
 <body>
 
-<nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse fixed-top">
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <a class="navbar-brand" href="#">Navbar</a>
+<div class="container-fluid">
+    <div class="row main">
+        <nav class="nav">
+            <a class="nav-link nav-icon" href="/">
+                <img src="images/Icon.png" class="main-icon" />
+            </a>
+            <a class="nav-link" href="/about.html">about</a>
+            <a class="nav-link" href="/about.html">blog</a>
+            <a class="nav-link" href="/about.html">advertise</a>
+        </nav>
 
-    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-        <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Link</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled" href="#">Disabled</a>
-            </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown01">
-                    <a class="dropdown-item" href="#">Action</a>
-                    <a class="dropdown-item" href="#">Another action</a>
-                    <a class="dropdown-item" href="#">Something else here</a>
-                </div>
-            </li>
-        </ul>
-        <form class="form-inline my-2 my-lg-0">
-            <input class="form-control mr-sm-2" type="text" placeholder="Search">
-            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-        </form>
+
     </div>
-</nav>
+    <div class="row main">
+        <div id="header" class="col-12 col-lg-6 col-md-8">
+            <h1>We fight with cards</h1>
+            <p class="hero">
+                A weekly newsletter with top news, articles, decks and banter
+                about your favourite <strong>digital card games</strong>.
+            </p>
 
-<div class="container">
+            <div class="form mt-5">
+                <form action="//facebook.us9.list-manage.com/subscribe/post?u=a70281e2cd8892265f8028139&amp;id=909bf03ce6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 
-    <div class="starter-template">
-        <h1>Bootstrap starter template</h1>
-        <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
+                    <div class="form-group form-inline ml-lg-5">
+                        <label class="mr-2" for="mce-EMAIL">Email: </label>
+                        <input type="email" value="" name="EMAIL" class="required email form-control col-sm-6" id="mce-EMAIL">
+                    </div>
+
+                    <div class="ml-lg-5 mb-2"><strong>I'm interested in:</strong></div>
+
+                    <div class="form-group row ml-lg-5">
+                        <div class="col-lg-5 col-md-8">
+                            <div class="form-check">
+                                <label for="mce-group[27193]-27193-0" class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="1" name="group[27193][1]" id="mce-group[27193]-27193-0">
+                                    Hearthstone
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <label for="mce-group[27193]-27193-1" class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="2" name="group[27193][2]" id="mce-group[27193]-27193-1">
+                                    Gwent
+                                </label>
+                            </div>
+                        </div>
+                        <div class="col-lg-5 col-md-8">
+                            <div class="form-check">
+                                <label for="mce-group[27193]-27193-1" class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="2" name="group[27193][2]" id="mce-group[27193]-27193-1">
+                                    Shadowverse
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <label for="mce-group[27193]-27193-1" class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="2" name="group[27193][2]" id="mce-group[27193]-27193-1">
+                                    Eternal
+                                </label>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="form-check">
+                                <label for="mce-group[27193]-27193-1" class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" id="checkbox-other">
+                                    Other<br>
+                                    <input type="text" value="" name="OTHERGAME" class="form-control form-control-sm" id="mce-OTHERGAME">
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group ml-lg-5">
+                        <div id="mce-responses" class="mb-2">
+                            <div class="alert alert-danger" role="alert" id="mce-error-response" style="display:none"></div>
+                            <div class="alert alert-success" role="alert" id="mce-success-response" style="display:none"></div>
+                        </div>
+
+                        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a70281e2cd8892265f8028139_909bf03ce6" tabindex="-1" value=""></div>
+                        <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success">Subscribe</button>
+                    </div>
+                </form>
+            </div>
+        </div>
     </div>
 
-</div><!-- /.container -->
+</body>
 
 
 <!-- Bootstrap core JavaScript
@@ -85,4 +132,41 @@
 <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script></body>
+
+<script type='text/javascript'>(function($) {
+    var error = function(msg) {
+        $('#mce-error-response').css('display', 'none').text('');
+        if (msg) $('#mce-error-response').css('display', 'block').text(msg);
+        return false;
+    };
+
+    var success = function(msg) {
+        $('#mce-error-success').css('display', 'none').text('');
+        if (msg) $('#mce-error-success').css('display', 'block').text(msg);
+    };
+
+    function isValidEmailAddress(emailAddress) {
+        var pattern = /^([a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+(\.[a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+)*|"((([ \t]*\r\n)?[ \t]+)?([\x01-\x08\x0b\x0c\x0e-\x1f\x7f\x21\x23-\x5b\x5d-\x7e\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|\\[\x01-\x09\x0b\x0c\x0d-\x7f\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))*(([ \t]*\r\n)?[ \t]+)?")@(([a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.)+([a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.?$/i;
+        return pattern.test(emailAddress);
+    };
+
+    $('#mc-embedded-subscribe').click(function(e){
+        e.preventDefault();
+        error();
+        if (!isValidEmailAddress($('#mce-EMAIL').val())) {
+            return error('Please enter a valid email address.');
+        }
+        else if ($('form input[type=checkbox]:checked').length == 0) {
+            return error('Please select at least one game.');
+        }
+        else if ($('#checkbox-other:checked').length > 0 && $('#mce-OTHERGAME').val() == '') {
+            return error('Which game are we missing?');
+        }
+
+        success();
+        $('form').submit();
+        return true;
+    });
+}(jQuery));
+</script>
 </html>
