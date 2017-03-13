@@ -69,3 +69,7 @@ p.hero strong {
 .grey {
     color: #ccc
 }
+
+#mc-embedded-subscribe{
+    border-radius: 10px;
+}
