@@ -28,6 +28,9 @@ h1 {
     letter-spacing: 0;
     margin-top: 1em;
 }
+h4 {
+    margin-top: 2em;
+}
 p.hero {
     font-weight: 100;
     font-size: 24px;
