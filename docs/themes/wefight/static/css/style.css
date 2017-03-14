@@ -1,0 +1,82 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    color: #1F1F1F;
+}
+
+.main .nav .nav-link {
+    margin-right: 2em;
+    line-height: 4em;
+    color: slategrey;
+}
+.main .nav .nav-link:hover {
+    color: #0DB865;
+}
+
+.main .nav .nav-link.nav-icon {
+    border-right: 1px solid #ccc;
+    margin-right: 4em;
+    padding: .5em 4em .5em 0;
+}
+
+.main {
+    margin: 2.5%;
+}
+
+h1 {
+    font-size: 44px;
+    font-weight: 700;
+    letter-spacing: 0;
+    margin-top: 1em;
+}
+p.hero {
+    font-weight: 100;
+    font-size: 24px;
+    line-height: 38px;
+    color: #8E8E8E;
+    margin-top: 38px;
+    background: #fff;
+}
+p.hero strong {
+    font-weight: 700;
+}
+
+.red {
+    color: red;
+}
+
+.grey {
+    color: #ccc
+}
+
+#mc-embedded-subscribe{
+    border-radius: 10px;
+}
+
+
+
+@media (min-width: 768px) {
+    body {
+        background: url('/images/bg.png') no-repeat bottom right;
+        background-attachment: fixed;
+    }
+}
+
+@media (max-width: 575px) {
+    body {
+        background: url('/images/bg.png') no-repeat bottom right;
+        background-attachment: fixed;
+        background-size: cover;
+        background-size: 80%;
+    }
+
+    h1 {
+        font-size: 32px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    #header {
+        background: url('/images/axe.png') no-repeat right 2em;
+        padding-right: 100px;
+    }
+}

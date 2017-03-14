@@ -1,0 +1,4 @@
+languageCode = "en-us"
+title = "We fight with cards"
+baseURL = "http://wefightwithcards.com/"
+theme = "wefight"

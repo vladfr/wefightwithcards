@@ -1,0 +1,110 @@
+{{ partial "header.html" . }}
+
+<div class="row main">
+    <div class="col-12 col-lg-6 col-md-8">
+
+        <div class="form mt-2">
+            <form action="//facebook.us9.list-manage.com/subscribe/post?u=a70281e2cd8892265f8028139&amp;id=909bf03ce6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+                <div class="form-group form-inline ml-lg-5">
+                    <label class="mr-2" for="mce-EMAIL">Email: </label>
+                    <input type="email" value="" name="EMAIL" class="required email form-control col-sm-6" id="mce-EMAIL">
+                </div>
+
+                <div class="ml-lg-5 mb-2"><strong>I'm interested in:</strong></div>
+
+                <div class="form-group row ml-lg-5">
+                    <div class="col-lg-5 col-md-8">
+                        <div class="form-check">
+                            <label for="mce-group[27193]-27193-0" class="form-check-label">
+                                <input class="form-check-input" type="checkbox" value="1" name="group[27193][1]" id="mce-group[27193]-27193-0">
+                                Hearthstone
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <label for="mce-group[27193]-27193-1" class="form-check-label">
+                                <input class="form-check-input" type="checkbox" value="2" name="group[27193][2]" id="mce-group[27193]-27193-1">
+                                Gwent
+                            </label>
+                        </div>
+                    </div>
+                    <div class="col-lg-5 col-md-8">
+                        <div class="form-check">
+                            <label for="mce-group[27193]-27193-1" class="form-check-label">
+                                <input class="form-check-input" type="checkbox" value="2" name="group[27193][2]" id="mce-group[27193]-27193-1">
+                                Shadowverse
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <label for="mce-group[27193]-27193-1" class="form-check-label">
+                                <input class="form-check-input" type="checkbox" value="2" name="group[27193][2]" id="mce-group[27193]-27193-1">
+                                Eternal
+                            </label>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="form-check">
+                            <label for="mce-group[27193]-27193-1" class="form-check-label">
+                                <input class="form-check-input" type="checkbox" id="checkbox-other">
+                                Other<br>
+                                <input type="text" value="" name="OTHERGAME" class="form-control form-control-sm" id="mce-OTHERGAME">
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group ml-lg-5">
+                    <div id="mce-responses" class="mb-2">
+                        <div class="alert alert-danger" role="alert" id="mce-error-response" style="display:none"></div>
+                        <div class="alert alert-success" role="alert" id="mce-success-response" style="display:none"></div>
+                    </div>
+
+                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a70281e2cd8892265f8028139_909bf03ce6" tabindex="-1" value=""></div>
+                    <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success">Subscribe</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<script type='text/javascript'>(function($) {
+    var error = function(msg) {
+        $('#mce-error-response').css('display', 'none').text('');
+        if (msg) $('#mce-error-response').css('display', 'block').text(msg);
+        return false;
+    };
+
+    var success = function(msg) {
+        $('#mce-error-success').css('display', 'none').text('');
+        if (msg) $('#mce-error-success').css('display', 'block').text(msg);
+        ga('send', 'event', 'email', 'subscribe');
+    };
+
+    function isValidEmailAddress(emailAddress) {
+        var pattern = /^([a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+(\.[a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+)*|"((([ \t]*\r\n)?[ \t]+)?([\x01-\x08\x0b\x0c\x0e-\x1f\x7f\x21\x23-\x5b\x5d-\x7e\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|\\[\x01-\x09\x0b\x0c\x0d-\x7f\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))*(([ \t]*\r\n)?[ \t]+)?")@(([a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.)+([a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.?$/i;
+        return pattern.test(emailAddress);
+    };
+
+    $('#mc-embedded-subscribe').click(function(e){
+        e.preventDefault();
+        error();
+        if (!isValidEmailAddress($('#mce-EMAIL').val())) {
+            return error('Please enter a valid email address.');
+        }
+        else if ($('form input[type=checkbox]:checked').length == 0) {
+            return error('Please select at least one game.');
+        }
+        else if ($('#checkbox-other:checked').length > 0 && $('#mce-OTHERGAME').val() == '') {
+            return error('Which game are we missing?');
+        }
+
+        success();
+        $('form').submit();
+        return true;
+    });
+}(jQuery));
+</script>
+
+{{ partial "footer.html" . }}
