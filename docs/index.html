@@ -148,6 +148,7 @@
     var success = function(msg) {
         $('#mce-error-success').css('display', 'none').text('');
         if (msg) $('#mce-error-success').css('display', 'block').text(msg);
+        ga('send', 'event', 'email', 'subscribe');
     };
 
     function isValidEmailAddress(emailAddress) {
