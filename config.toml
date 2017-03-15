@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "We fight with cards"
+title = "We fight with cards - Weekly newsletter about Digital Card Games"
 baseURL = "http://wefightwithcards.com/"
 theme = "wefight"
 publishDir= "docs"
