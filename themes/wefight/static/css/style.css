@@ -73,7 +73,30 @@ p.hero strong {
     }
 
     h1 {
-        font-size: 32px;
+        font-size: 28px;
+        margin: 0;
+    }
+    p.hero {
+        font-size: 18px;
+    }
+
+    form .btn-success {
+        width: 100%;
+    }
+
+    nav .nav-icon {
+        border: 0!important;
+        width: 100%;
+        display: block;
+    }
+    nav img {
+        height: 32px;
+    }
+
+    .main { margin: 0 }
+
+    form {
+        line-height: 2em;
     }
 }
 

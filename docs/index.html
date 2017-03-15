@@ -55,14 +55,16 @@
 
 <div class="container-fluid">
     <div class="row main">
-        <nav class="nav">
-            <a class="nav-link nav-icon pl-1" href="/">
-                <img src="/images/Icon.png" class="main-icon" />
-            </a>
-            <a class="nav-link" href="/about">about</a>
-            <a class="nav-link hidden-xs-down" href="/about">blog</a>
-            
-        </nav>
+        <div class="col-12">
+            <nav class="nav">
+                <a class="nav-link nav-icon" href="/">
+                    <img src="/images/Icon.png" class="main-icon" />
+                </a>
+                <a class="nav-link" href="/about">about</a>
+                <a class="nav-link hidden-xs-down" href="/about">blog</a>
+                
+            </nav>
+        </div>
     </div>
 
 
@@ -120,8 +122,7 @@
                     </div>
                     <div class="col-12">
                         <div class="form-check">
-                            <label for="checkbox-other" class="form-check-label">
-                                <input class="form-check-input" type="checkbox" id="checkbox-other">
+                            <label for="mce-OTHERGAME" class="form-check-label">
                                 Other<br>
                                 <input type="text" value="" name="OTHERGAME" class="form-control form-control-sm" id="mce-OTHERGAME">
                             </label>
@@ -139,6 +140,7 @@
                     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a70281e2cd8892265f8028139_909bf03ce6" tabindex="-1" value=""></div>
                     <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success">Subscribe</button>
                 </div>
+                <p class="small text-center">One email per week, starts in April. No spam!</p>
             </form>
         </div>
     </div>
@@ -187,9 +189,6 @@
         }
         else if ($('form input[type=checkbox]:checked').length == 0) {
             return error('Please select at least one game.');
-        }
-        else if ($('#checkbox-other:checked').length > 0 && $('#mce-OTHERGAME').val() == '') {
-            return error('Which game are we missing?');
         }
 
         success();
