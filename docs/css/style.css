@@ -3,6 +3,10 @@ body {
     color: #1F1F1F;
 }
 
+.content, form {
+    background: rgba(255,255,255,0.9);
+}
+
 .main .nav .nav-link {
     margin-right: 2em;
     line-height: 4em;
@@ -37,7 +41,7 @@ p.hero {
     line-height: 38px;
     color: #8E8E8E;
     margin-top: 38px;
-    background: #fff;
+    background: rgba(255,255,255,0.9);
 }
 p.hero strong {
     font-weight: 700;
@@ -80,7 +84,7 @@ p.hero strong {
         font-size: 18px;
     }
 
-    form .btn-success {
+    form .btn-success, form .btn-wrapper {
         width: 100%;
     }
 
@@ -97,6 +101,9 @@ p.hero strong {
 
     form {
         line-height: 2em;
+    }
+    form p.small {
+        line-height: 1.2em;
     }
 }
 
