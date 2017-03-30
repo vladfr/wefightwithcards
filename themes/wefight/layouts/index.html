@@ -6,7 +6,7 @@
     <div class="col-12 col-lg-8 col-md-8">
 
         <div class="form mt-2">
-            <form action="//facebook.us9.list-manage.com/subscribe/post?u=a70281e2cd8892265f8028139&amp;id=909bf03ce6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <form action="//facebook.us9.list-manage.com/subscribe/post-json?u=a70281e2cd8892265f8028139&amp;id=909bf03ce6&c=?" method="get" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 
                 <div class="ml-lg-5 mb-2"><strong>I'm interested in:</strong></div>
 
@@ -45,28 +45,18 @@
                             </label>
                         </div>
                     </div>
-                    <div class="col-12">
-                        <div class="form-check form-inline">
-                            <label for="mce-OTHERGAME" class="form-check-label">
-                                Other: &nbsp; 
-                                <input type="text" value="" name="OTHERGAME" class="form-control form-control-sm" id="mce-OTHERGAME">
-                            </label>
-                        </div>
-                    </div>
                 </div>
 
                 <div class="form-group form-inline ml-lg-5">
                     <label class="mr-2" for="mce-EMAIL"></label>
                     <input type="email" value="" name="EMAIL" class="required email form-control col-sm-6" id="mce-EMAIL" placeholder="Your email address">
-                    <div class="btn-wrapper text-center pl-1 py-2">
                         <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success">Subscribe</button>
-                    </div>
                 </div>
 
                 <div class="form-group ml-lg-5">
                     <div id="mce-responses" class="mb-2">
                         <div class="alert alert-danger" role="alert" id="mce-error-response" style="display:none"></div>
-                        <div class="alert alert-success" role="alert" id="mce-success-response" style="display:none"></div>
+
                     </div>
 
                     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
@@ -74,6 +64,11 @@
 
                 </div>
                 <p class="small text-dim text-center">One email per week. No spam and it's easy to unsubscribe</p>
+                <div class="alert alert-success" role="alert" id="mce-success-response" style="display:none">
+                    <p><b>You are awesome!</b></p>
+                    <p>Thanks for joining us! You'll receive an email shortly &mdash; please click the link inside to confirm. </p>
+                    <p>You'll get the newsletter on Fridays. I'd love to get your feedback, so be sure to stay in touch: <a href="https://twitter.com/fightwithcards">@fightwithcards on Twitter</a></p>
+                </div>
             </form>
         </div>
     </div>
@@ -98,14 +93,11 @@
 <script type='text/javascript'>(function($) {
     var error = function(msg) {
         $('#mce-error-response').css('display', 'none').text('');
-        if (msg) $('#mce-error-response').css('display', 'block').text(msg);
-        return false;
-    };
+        if (msg) $('#mce-error-response').css('display', 'block').html(msg);
 
-    var success = function(msg) {
-        $('#mce-error-success').css('display', 'none').text('');
-        if (msg) $('#mce-error-success').css('display', 'block').text(msg);
-        ga('send', 'event', 'email', 'subscribe');
+        state_reset();
+
+        return false;
     };
 
     function isValidEmailAddress(emailAddress) {
@@ -113,18 +105,60 @@
         return pattern.test(emailAddress);
     };
 
-    $('#mc-embedded-subscribe').click(function(e){
+    function register($form) {
+        $.ajax({
+            method: $form.attr('method'),
+            url: $form.attr('action'),
+            data: $form.serialize(),
+            cache       : false,
+            dataType    : 'jsonp',
+            jsonpCallback:      'c',
+            contentType: "application/json; charset=utf-8",
+        })
+            .done(function(data) {
+                if (data.result != "success") {
+                    $('#mc-embedded-subscribe').attr('disabled', false);
+                    error(data.msg);
+                } else {
+                    state_done();
+                }
+            })
+            .fail(function(data) {
+                error("Could not connect to the registration server. Please try again later.");
+            });
+    }
+
+    var state_reset = function () {
+        $('#mc-embedded-subscribe')
+            .attr('disabled', false)
+            .text('Subscribe');
+    };
+    var state_done = function () {
+        $('#mc-embedded-subscribe')
+            .attr('disabled', true)
+            .addClass('btn-confirm')
+            .text('Confirm');
+
+        $('#mce-success-response').css('display', 'block');
+        ga('send', 'event', 'email', 'subscribe');
+    };
+
+    var state_sending = function() {
+        $('#mc-embedded-subscribe')
+            .attr('disabled', true)
+            .text('Sending...');
+    };
+
+    $('#mc-embedded-subscribe-form').submit(function(e) {
         e.preventDefault();
+
         error();
         if (!isValidEmailAddress($('#mce-EMAIL').val())) {
             return error('Please enter a valid email address.');
         }
-        else if ($('form input[type=checkbox]:checked').length == 0) {
-            return error('Please select at least one game.');
-        }
 
-        success();
-        $('form').submit();
+        state_sending();
+        register($(this));
         return true;
     });
 }(jQuery));
