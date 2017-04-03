@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>We fight with cards - Weekly newsletter about Digital Card Games</title>
-    <link>http://wefightwithcards.com/index.xml</link>
-    <description>Recent content on We fight with cards - Weekly newsletter about Digital Card Games</description>
+    <title>Archives on We fight with cards - Weekly newsletter about Digital Card Games</title>
+    <link>http://wefightwithcards.com/archives/index.xml</link>
+    <description>Recent content in Archives on We fight with cards - Weekly newsletter about Digital Card Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Apr 2017 13:31:11 +0300</lastBuildDate>
-    <atom:link href="http://wefightwithcards.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://wefightwithcards.com/archives/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Issue #1 - Spoiler season!</title>
@@ -598,84 +598,6 @@
 &lt;h2 id=&#34;past-issues&#34;&gt;Past issues&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://wefightwithcards.com/archives/issue_1/&#34;&gt;Issue #1 - Spoiler season&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About - We fight with cards</title>
-      <link>http://wefightwithcards.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://wefightwithcards.com/about/</guid>
-      <description>&lt;div class=&#34;col-lg-8 col-md-12&#34; style=&#34;background: rgba(255,255,255,0.9)&#34;&gt;
-    &lt;h3&gt;About&lt;/h3&gt;
-
-    &lt;p&gt;Hello! I&#39;m &lt;a href=&#34;https://twitter.com/vladfr&#34;&gt;Vlad&lt;/a&gt;, nice to meet you!&lt;/p&gt;
-    &lt;p&gt;I&#39;m a software developer and consultant. I play Hearthstone regularly, but I wanted to get into other card games as well. I thought of doing this newsletter to discover a new game with a good community and keep up to date. &lt;/p&gt;
-
-
-    &lt;div class=&#34;row&#34;&gt;
-        &lt;div class=&#34;col-12 col-md-8 ml-lg-5 mt-2&#34;  style=&#34;background: rgba(255,255,255,0.9);&#34;&gt;
-            &lt;h4&gt;What kind of content will I get?&lt;/h4&gt;
-            &lt;p&gt;
-                I plan to include the most relevant links &amp;amp; updates from the community. These can be reddit posts, blog posts, developer updates, state of the meta etc.
-            &lt;/p&gt;
-            &lt;h4&gt;I selected 2 games. What will I see?&lt;/h4&gt;
-            &lt;p&gt;
-                There will be a General section with news from across the industry. Then, each game will have its own Section. You&#39;ll only receive the sections you signed up for.
-                &lt;br&gt;&lt;br&gt;I&#39;ll also include snapshots of other games being added, so you can track more games if you want.
-            &lt;/p&gt;
-            &lt;h4&gt;I want free packs!&lt;/h4&gt;
-            &lt;p&gt;Me too, son, me too...&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-
-
-    &lt;h3 class=&#34;mt-5&#34;&gt;Blog&lt;/h3&gt;
-    &lt;p&gt;Coming soon!&lt;/p&gt;
-
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Thanks! We&#39;ll be in touch - We fight with cards</title>
-      <link>http://wefightwithcards.com/confirm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://wefightwithcards.com/confirm/</guid>
-      <description>&lt;div class=&#34;col-lg-6 col-md-8&#34; style=&#34;background: rgba(255,255,255,0.9)&#34;&gt;
-    &lt;h1&gt;You are even more awesome!&lt;/h1&gt;
-
-    &lt;div class=&#34;media ml-3 mt-5&#34;&gt;
-        &lt;img class=&#34;d-flex mr-3 rounded-circle&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;http://wefightwithcards.com/vlad.png&#34;&gt;
-        &lt;div class=&#34;media-body&#34;&gt;
-            &lt;h5 class=&#34;mt-0&#34;&gt;Got it! You are confirmed.&lt;/h5&gt;
-            &lt;p&gt;The newsletter goes out every Friday &amp;mdash; you can &lt;a href=&#34;#&#34;&gt;see the latest issue now&lt;/a&gt;.&lt;/p&gt;
-
-            &lt;p&gt;BTW, I want to hear your thoughts! Catch me on &lt;a href=&#34;http://twitter.com/FightWithCards&#34;&gt;Twitter @FightWithCards&lt;/a&gt;, or shoot me a line at vlad@wefightwithcards.com&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Thanks! We&#39;ll be in touch - We fight with cards</title>
-      <link>http://wefightwithcards.com/thankyou/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://wefightwithcards.com/thankyou/</guid>
-      <description>&lt;div class=&#34;col-lg-6 col-md-8&#34; style=&#34;background: rgba(255,255,255,0.9)&#34;&gt;
-    &lt;h1&gt;You are awesome!&lt;/h1&gt;
-
-    &lt;p class=&#34;hero&#34;&gt;Thanks a bunch for signing up!&lt;/p&gt;
-    &lt;p&gt;You&#39;ll need to confirm your email address. Just click on the link in the email you just received. This helps to keep spammers at bay!&lt;/p&gt;
-    &lt;p&gt;Please bear with me as I build this. Expect the first issue at &lt;strong&gt;the beginning of April&lt;/strong&gt;. &lt;/p&gt;
-
-&lt;/div&gt;
 </description>
     </item>
     
