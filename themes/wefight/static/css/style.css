@@ -132,4 +132,33 @@ p.hero strong {
     }
 }
 
+.join-note {
+    position: fixed;
+    bottom: 0;
+    background: #67D8A5;
+    padding: 10px;
+    margin: 0;
+    left: 0;
+    font-weight: bold;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    z-index: 1000;
+}
+.join-note .btn, .join-note .btn:hover, .join-note .btn:visited, .join-note .btn:active {
+    background: #fff;
+    font-weight: bold;
+    border-radius: 6px;
+    margin-left: 5px;
+}
+
+@media (max-width: 575px) {
+    .join-note {
+        padding: 2px 5px;
+    }
+    .join-note .btn {
+        padding: 5px;
+    }
+}
+
 .tether-element,.tether-element *,.tether-element :after,.tether-element :before,.tether-element:after,.tether-element:before{box-sizing:border-box}.tether-element{position:absolute;display:none}.tether-element.tether-open{display:block}
