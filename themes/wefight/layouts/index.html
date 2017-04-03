@@ -145,6 +145,8 @@
             .text('Confirm');
 
         $('#mce-success-response').css('display', 'block');
+        $.scrollTo($('#mce-success-response'), {duration: 350});
+
         ga('send', 'event', 'email', 'subscribe');
     };
 
