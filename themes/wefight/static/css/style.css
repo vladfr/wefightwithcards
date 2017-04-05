@@ -7,6 +7,9 @@ body {
     background: rgba(250,250,250,0.9);
 }
 
+nav li {
+    cursor: pointer;
+}
 .navbar-nav {
     margin-left: 100px;
 }
@@ -23,7 +26,7 @@ input.email {
     color: slategrey;
 }
 .main .nav .nav-link:hover {
-    color: #0DB865;
+    color: #34C566;
 }
 
 .main .nav .nav-link.nav-icon {
@@ -160,9 +163,8 @@ p.hero strong {
 }
 
 .join-note {
-    position: fixed;
-    bottom: 0;
-    background: #67D8A5;
+    top: 0;
+    background: #34C566;
     padding: 10px;
     margin: 0;
     left: 0;
@@ -177,6 +179,13 @@ p.hero strong {
     font-weight: bold;
     border-radius: 6px;
     margin-left: 5px;
+    color: #0DB865;
+    text-decoration: none;
+}
+.join-note a {
+    color: #fff;
+    text-decoration: underline;
+    line-height: 1.25em;
 }
 
 @media (max-width: 575px) {

@@ -23,7 +23,7 @@ input.email {
     color: slategrey;
 }
 .main .nav .nav-link:hover {
-    color: #0DB865;
+    color: #34C566;
 }
 
 .main .nav .nav-link.nav-icon {
@@ -161,8 +161,8 @@ p.hero strong {
 
 .join-note {
     position: fixed;
-    bottom: 0;
-    background: #67D8A5;
+    top: 0;
+    background: #2fae58;
     padding: 10px;
     margin: 0;
     left: 0;
