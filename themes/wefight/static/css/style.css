@@ -3,8 +3,18 @@ body {
     color: #1F1F1F;
 }
 
-.content, form {
-    background: rgba(255,255,255,0.9);
+.content, form, .email-box {
+    background: rgba(250,250,250,0.9);
+}
+
+.navbar-nav {
+    margin-left: 100px;
+}
+
+input.email {
+    width: 70%!important;
+    max-width: 500px;
+    text-align:center;
 }
 
 .main .nav .nav-link {
@@ -57,15 +67,36 @@ p.hero strong {
     color: #ccc
 }
 
+.email-box {
+    border-top: 1px solid gray; border-bottom: 1px solid gray; padding: 10px 0; margin: 10px 0;
+}
+.email-box input.form-control {
+    width: 70% !important;
+    max-width: 500px;
+    text-align: center;
+}
+
 @media (min-width: 768px) {
-    body {
+    .container-fluid {
         background: url('/images/bg.png') no-repeat bottom right;
         background-attachment: fixed;
     }
 }
 
+@media (max-width: 992px) {
+    .img-responsive {
+        height: 200px;
+        overflow: hidden;
+        position: relative;
+    }
+    .img-responsive img {
+        position: absolute;
+        top: 0;
+    }
+}
+
 @media (max-width: 575px) {
-    body {
+    .container-fluid {
         background: url('/images/bg.png') no-repeat bottom right;
         background-attachment: fixed;
         background-size: cover;
@@ -78,10 +109,6 @@ p.hero strong {
     }
     p.hero {
         font-size: 18px;
-    }
-
-    form .btn-success, form .btn-wrapper {
-        width: 100%;
     }
 
     nav .nav-icon {
@@ -159,6 +186,16 @@ p.hero strong {
     .join-note .btn {
         padding: 5px;
     }
+
+    .heading {
+        color: #fff;
+        margin-top: -50px;
+    }
+    .bleed-mobile {
+        padding: 0;
+    }
 }
+
+
 
 .tether-element,.tether-element *,.tether-element :after,.tether-element :before,.tether-element:after,.tether-element:before{box-sizing:border-box}.tether-element{position:absolute;display:none}.tether-element.tether-open{display:block}
