@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+
+<div class="row main">
+    <div class="col">
+    <h1 id="title">{{ .Title }}</h1>
+
+    {{ range .Data.Pages }}
+        {{ .Render "li"}}
+    {{ end }}
+
+    </div>
+</div>
+
+{{ partial "footer.html" . }}
