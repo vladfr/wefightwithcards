@@ -33,7 +33,7 @@
     <meta name="twitter:title" content="{{ $.Param "twitter.title" | default .Title }}">
     <meta name="twitter:description" content="{{ $.Param "twitter.description" | default ($.Param "meta.description") }}">
     {{ if $.Param "twitter.image" }}
-        <meta name="twitter:image" content="{{ $.Param "twitter.image" }}">
+        <meta name="twitter:image" content="{{ $.Param "twitter.image" | absURL }}">
     {{ end }}
 
     <title>{{ .Title }}</title>
