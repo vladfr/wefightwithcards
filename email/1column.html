@@ -50,48 +50,21 @@
             padding:0;
             width:100% !important;
         }
-        #bodyCell{
-            padding:20px;
-        }
         #templateContainer{
             width:600px;
-        }
-        /*
-        @tab Page
-        @section background style
-        @tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
-        @theme page
-        */
-        body,#bodyTable{
-            /*@editable*/background-color:#DEE0E2;
-        }
-        /*
-        @tab Page
-        @section background style
-        @tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
-        @theme page
-        */
-        #bodyCell{
-            /*@editable*/border-top:4px solid #efefef;
-        }
-        /*
-        @tab Page
-        @section email border
-        @tip Set the border for your email.
-        */
-        #templateContainer{
-            /*@editable*/border:1px solid #efefef;
+            width: 100%;
+            max-width: 600px;
         }
         #templateSummary{
             background-color:#070530;
             color:#fff;
-            border-top:3px solid #67D8A5;
+            border-top:3px solid #28C762;
         }
         #templateSummary .bodyContent{
             color:#fff;
         }
         #templateSummary a{
-            color:#67D8A5;
+            color:#28C762;
         }
         /*
         @tab Page
@@ -118,8 +91,8 @@
         }
         h1:before{
             content:'#';
-            color:#0DB865;
-            font-family:Verdana;
+            color:#28C762;
+            font-family:Verdana, Arial, sans-serif;
         }
         /*
         @tab Page
@@ -254,7 +227,7 @@
             /*@editable*/vertical-align:bottom;
         }
         .headerContent small{
-            /*@editable*/color:#808080;
+            /*@editable*/color: #575757;
             /*@editable*/font-size:11px;
             /*@editable*/font-weight:100;
             /*@editable*/line-height:155%;
@@ -313,6 +286,17 @@
             height:auto;
             max-width:560px;
         }
+
+        .bodyContent ul {
+            margin: 0 0 0 16px; padding: 0;
+        }
+        .bodyContent ul li {
+            margin: 14px 0;
+        }
+
+        #yourGames span {
+            margin:0; padding: 0 10px 0 0;
+        }
         /*
         @tab Footer
         @section footer style
@@ -320,6 +304,9 @@
         @theme footer
         */
         #templateFooter{
+            width: 600px;
+            width: 100%;
+            max-width: 600px;
             /*@editable*/background-color:#F4F4F4;
         }
         /*
@@ -358,11 +345,6 @@
             body{
                 width:100% !important;
                 min-width:100% !important;
-            }
-
-        }	@media only screen and (max-width: 480px){
-            #bodyCell{
-                padding:10px !important;
             }
 
         }	@media only screen and (max-width: 480px){
@@ -448,9 +430,11 @@
             @tip Make the header content text larger in size for better readability on small screens. We recommend a font size of at least 16px.
             */
             .headerContent{
-                /*@editable*/font-size:14px !important;
-                /*@editable*/line-height:18px !important;
+                /*@editable*/font-size:18px !important;
+                /*@editable*/line-height:24px !important;
             }
+            .headerContent small a { display: block }
+
 
         }	@media only screen and (max-width: 480px){
             /*
@@ -459,8 +443,8 @@
             @tip Make the body content text larger in size for better readability on small screens. We recommend a font size of at least 16px.
             */
             .bodyContent{
-                /*@editable*/font-size:14px !important;
-                /*@editable*/line-height:18px !important;
+                /*@editable*/font-size:16px !important;
+                /*@editable*/line-height:24px !important;
             }
 
         }	@media only screen and (max-width: 480px){
@@ -474,12 +458,8 @@
                 /*@editable*/line-height:14px !important;
             }
 
-        }	@media only screen and (max-width: 480px){
-            .footerContent a{
-                display:block !important;
-            }
-
-        }</style></head>
+        }
+    </style></head>
 <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
 <center>
     <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable">
@@ -514,7 +494,7 @@
                                         </small>
                                     </td>
                                     <td class="headerContentImg">
-                                        <img src="https://wefightwithcards.com/images/logo.png">
+                                        <img src="https://wefightwithcards.com/images/new_icon.png" width="64" height="64"/>
                                     </td>
                                 </tr>
                             </table>
@@ -666,7 +646,7 @@
 
                             </table>
 
-                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <div border="0" cellpadding="0" cellspacing="0" width="100%">
                                 <tr>
                                     <td valign="top" colspan="2" class="bodyContent" mc:edit="body_streamers">
                                         <h1>Streamers of the week</h1>
@@ -687,6 +667,28 @@
                                         </p>
                                     </td>
                                 </tr>
+                                <tr>
+                                    <td valign="top" class="bodyContent">
+                                        <p style="color: #A9A9A9; font-weight: bold; ">
+                                            __DONE__
+                                        </p>
+                                        <div mc:edit="body_end">
+                                            <p><strong>Can this be better?</strong> Hit reply, I want to know what you think!</p>
+                                        </div>
+                                        <p>
+                                            Want more content for a game? Just <a href="*|UPDATE_PROFILE|*">select it in your preferences</a>
+                                        </p>
+                                        <p id="yourGames">
+                                            <span>Your games:</span>
+                                            *|INTERESTED:Hearthstone|*<span>Hearthstone</span>*|END:INTERESTED|*
+                                            *|INTERESTED:Gwent|*<span>Gwent</span>*|END:INTERESTED|*
+                                            *|INTERESTED:Eternal|*<span>Eternal</span>*|END:INTERESTED|*
+                                            *|INTERESTED:Shadowverse|*<span>Shadowverse</span>*|END:INTERESTED|*
+                                            *|INTERESTED:Elder Scrolls Legends|*<span>Elder Scrolls Legends</span>*|END:INTERESTED|*
+                                        </p>
+                                        <p>Not a subscriber? Join us at <a href="https://wefightwithcards.com/">https://wefightwithcards.com/</a></p>
+                                    </td>
+                                </tr>
                             </table>
 
                             <!-- // END BODY -->
@@ -698,24 +700,23 @@
                             <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateFooter">
                                 <tr>
                                     <td valign="top" class="footerContent" mc:edit="footer_content00">
-                                        <a href="*|TWITTER:PROFILEURL|*">Follow on Twitter</a>&nbsp;&nbsp;&nbsp;<a href="*|FACEBOOK:PROFILEURL|*">Friend on Facebook</a>&nbsp;&nbsp;&nbsp;<a href="*|FORWARD|*">Forward to Friend</a>&nbsp;
+                                        Stay in touch! You can <a href="*|TWITTER:PROFILEURL|*">Follow us on Twitter</a>, or <a href="*|FACEBOOK:PROFILEURL|*">Like us on Facebook</a>.
+
                                     </td>
                                 </tr>
                                 <tr>
                                     <td valign="top" class="footerContent" style="padding-top:0;" mc:edit="footer_content01">
-                                        <em>Copyright &copy; *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.</em>
-                                        <br>
                                         *|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
-                                        <br>
                                         <br>
                                         <strong>Our mailing address is:</strong>
                                         <br>
                                         *|HTML:LIST_ADDRESS_HTML|* *|END:IF|*
                                     </td>
                                 </tr>
+
                                 <tr>
-                                    <td valign="top" class="footerContent" style="padding-top:0; padding-bottom:40px;" mc:edit="footer_content02">
-                                        <a href="*|UNSUB|*">unsubscribe from this list</a>&nbsp;&nbsp;&nbsp;<a href="*|UPDATE_PROFILE|*">update subscription preferences</a>&nbsp;
+                                    <td valign="top" class="footerContent" style="padding-top:0;" mc:edit="footer_content02">
+                                        You can <a href="*|FORWARD|*">forward to a friend</a> or <a href="*|UNSUB|*">unsubscribe</a>.
                                     </td>
                                 </tr>
                             </table>
