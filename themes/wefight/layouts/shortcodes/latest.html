@@ -1,0 +1,3 @@
+{{ range first 1 (where .Site.Pages "Section" "archives") }}
+    {{ .Permalink }}
+{{ end }}
