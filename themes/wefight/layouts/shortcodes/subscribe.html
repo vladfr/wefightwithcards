@@ -30,6 +30,10 @@
         </div>
 
 
+        {{ if .Get "gwent" }}
+            <input style="display: none" type="checkbox" value="2" name="group[27193][2]" checked="checked">
+        {{ end }}
+
         {{ if .Get "games" }}
         <div class="ml-lg-5 mb-2"><strong>I'm interested in:</strong></div>
 
