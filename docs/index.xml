@@ -6,8 +6,645 @@
     <description>Recent content on We fight with cards - Weekly newsletter about Digital Card Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Apr 2017 16:51:11 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 29 Apr 2017 16:51:11 +0300</lastBuildDate>
     <atom:link href="http://wefightwithcards.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Issue #5 - Pick your poison</title>
+      <link>http://wefightwithcards.com/archives/issue_5/</link>
+      <pubDate>Sat, 29 Apr 2017 16:51:11 +0300</pubDate>
+      
+      <guid>http://wefightwithcards.com/archives/issue_5/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+    #outlook a{
+        padding:0;
+    }
+    .ReadMsgBody{
+        width:100%;
+    }
+    .ExternalClass{
+        width:100%;
+    }
+    .ExternalClass,.ExternalClass p,.ExternalClass span,.ExternalClass font,.ExternalClass td,.ExternalClass div{
+        line-height:100%;
+    }
+    body,table,td,p,a,li,blockquote{
+        -webkit-text-size-adjust:100%;
+        -ms-text-size-adjust:100%;
+    }
+    table,td{
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+    }
+    img{
+        -ms-interpolation-mode:bicubic;
+    }
+    body{
+        margin:0;
+        padding:0;
+    }
+    img{
+        border:0;
+        height:auto;
+        line-height:100%;
+        outline:none;
+        text-decoration:none;
+    }
+    table{
+        border-collapse:collapse !important;
+    }
+    body,#bodyTable,#bodyCell{
+        height:100% !important;
+        margin:0;
+        padding:0;
+        width:100% !important;
+    }
+    #templateContainer{
+        width:100%;
+        max-width:600px;
+    }
+    #templateSummary{
+        background-color:#070530;
+        color:#fff;
+        border-top:3px solid #28C762;
+    }
+    #templateSummary .bodyContent{
+        color:#fff;
+    }
+    #templateSummary a{
+        color:#28C762;
+    }
+    h1{
+        color:#202020 !important;
+        border-bottom:1px solid #ccc;
+        padding-bottom:10px;
+        display:block;
+        font-family:Helvetica;
+        font-size:16px;
+        font-style:normal;
+        font-weight:bold;
+        line-height:100%;
+        letter-spacing:normal;
+        margin-top:0;
+        margin-right:0;
+        margin-bottom:10px;
+        margin-left:0;
+        text-align:left;
+    }
+    h1:before{
+        content:&#39;#&#39;;
+        color:#28C762;
+        font-family:Verdana, Arial, sans-serif;
+    }
+    h2{
+        color:#404040 !important;
+        display:block;
+        font-family:Helvetica;
+        font-size:20px;
+        font-style:normal;
+        font-weight:bold;
+        line-height:100%;
+        letter-spacing:normal;
+        margin-top:0;
+        margin-right:0;
+        margin-bottom:10px;
+        margin-left:0;
+        text-align:left;
+    }
+    h3{
+        color:#606060 !important;
+        display:block;
+        font-family:Helvetica;
+        font-size:16px;
+        font-style:italic;
+        font-weight:normal;
+        line-height:100%;
+        letter-spacing:normal;
+        margin-top:0;
+        margin-right:0;
+        margin-bottom:10px;
+        margin-left:0;
+        text-align:left;
+    }
+    h4{
+        color:#808080 !important;
+        display:block;
+        font-family:Helvetica;
+        font-size:14px;
+        font-style:italic;
+        font-weight:normal;
+        line-height:100%;
+        letter-spacing:normal;
+        margin-top:0;
+        margin-right:0;
+        margin-bottom:10px;
+        margin-left:0;
+        text-align:left;
+    }
+    #templatePreheader{
+        background-color:#fff;
+    }
+    .preheaderContent{
+        color:#808080;
+        font-family:Helvetica;
+        font-size:11px;
+        line-height:125%;
+        text-align:left;
+    }
+    .preheaderContent a:link,.preheaderContent a:visited,.preheaderContent a .yshortcuts{
+        color:#606060;
+        font-weight:normal;
+        text-decoration:underline;
+    }
+    #templateHeader{
+        background-color:#fff;
+    }
+    .headerContentImg{
+        text-align:right;
+        padding-right:20px;
+        padding:20px;
+    }
+    .headerContentImg img{
+        width:48px;
+        height:48px;
+    }
+    .headerContent{
+        color:#000;
+        font-family:Helvetica, Arial, sans-serif;
+        font-size:24px;
+        font-weight:bold;
+        line-height:100%;
+        padding-top:0;
+        padding-right:0;
+        padding-bottom:20px;
+        padding-left:20px;
+        text-align:left;
+        vertical-align:bottom;
+    }
+    .headerContent small{
+        color:#575757;
+        font-size:11px;
+        font-weight:100;
+        line-height:155%;
+    }
+    .headerContent a:link,.headerContent a:visited,.headerContent a .yshortcuts{
+        color:#1866df;
+        font-weight:normal;
+        text-decoration:underline;
+    }
+    #headerImage{
+        height:auto;
+        max-width:600px;
+    }
+    table{
+        background-color:#fff;
+    }
+    .bodyContent{
+        color:#505050;
+        font-family:Helvetica;
+        font-size:14px;
+        line-height:150%;
+        padding-top:20px;
+        padding-right:20px;
+        padding-bottom:20px;
+        padding-left:20px;
+        text-align:left;
+    }
+    .bodyContent a:link,.bodyContent a:visited,.bodyContent a .yshortcuts{
+        color:#1866df;
+        font-weight:normal;
+        text-decoration:underline;
+    }
+    .bodyContent img{
+        display:inline;
+        height:auto;
+        max-width:560px;
+    }
+    .bodyContent ul{
+        margin:0 0 0 16px;
+        padding:0;
+    }
+    .bodyContent ul li{
+        margin:14px 0;
+    }
+    #yourGames span{
+        margin:0;
+        padding:0 10px 0 0;
+    }
+    #templateFooter{
+        width:100%;
+        max-width:600px;
+        background-color:#F4F4F4;
+    }
+    .footerContent{
+        color:#808080;
+        font-family:Helvetica;
+        font-size:10px;
+        line-height:150%;
+        padding-top:20px;
+        padding-right:20px;
+        padding-bottom:20px;
+        padding-left:20px;
+        text-align:left;
+    }
+    .footerContent a:link,.footerContent a:visited,.footerContent a .yshortcuts,.footerContent a span{
+        color:#606060;
+        font-weight:normal;
+        text-decoration:underline;
+    }
+    @media only screen and (max-width: 480px){
+        body,table,td,p,a,li,blockquote{
+            -webkit-text-size-adjust:none !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        body{
+            width:100% !important;
+            min-width:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        #templateContainer{
+            max-width:600px !important;
+            width:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        h1{
+            font-size:14px !important;
+            line-height:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        h2{
+            font-size:20px !important;
+            line-height:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        h3{
+            font-size:18px !important;
+            line-height:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        h4{
+            font-size:16px !important;
+            line-height:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        #templatePreheader{
+            display:none !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        #headerImage{
+            height:auto !important;
+            max-width:600px !important;
+            width:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        .headerContent{
+            font-size:14px !important;
+            line-height:24px !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        .headerContent small a{
+            display:block;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        .bodyContent{
+            font-size:14px !important;
+            line-height:24px !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        .footerContent{
+            font-size:12px !important;
+            line-height:14px !important;
+        }
+
+    }&lt;/style&gt;
+
+
+&lt;center&gt;
+    &lt;table align=&#34;center&#34; border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; height=&#34;100%&#34; width=&#34;100%&#34; id=&#34;bodyTable&#34;&gt;
+        &lt;tr&gt;
+            &lt;td align=&#34;center&#34; valign=&#34;top&#34; id=&#34;bodyCell&#34;&gt;
+                &lt;!-- BEGIN TEMPLATE // --&gt;
+                &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; id=&#34;templateContainer&#34;&gt;
+                    &lt;tr&gt;
+                        &lt;td align=&#34;center&#34; valign=&#34;top&#34;&gt;
+                            &lt;!-- BEGIN PREHEADER // --&gt;
+                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templatePreheader&#34;&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;preheaderContent&#34; style=&#34;padding-top:10px; padding-right:20px; padding-bottom:10px; padding-left:20px;&#34; mc:edit=&#34;preheader_content00&#34;&gt;Gwent keys | Competitive HS, Paladin murlocs | guides to all the games | quiz time&lt;/td&gt;
+                                &lt;/tr&gt;
+                            &lt;/table&gt;
+                            &lt;!-- // END PREHEADER --&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td align=&#34;center&#34; valign=&#34;top&#34;&gt;
+                            &lt;!-- BEGIN HEADER // --&gt;
+                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templateHeader&#34;&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;bottom&#34; class=&#34;headerContent&#34;&gt;
+                                        We fight with cards&lt;br&gt;
+                                        &lt;small mc:edit=&#34;header_date&#34;&gt;Issue #5 / April 29, 2017 / &amp;nbsp;&lt;!-- *|IFNOT:ARCHIVE_PAGE|* --&gt;&lt;a href=&#34;https://wefightwithcards.com/archives/issue_5/&#34; target=&#34;_blank&#34;&gt;View in your browser&lt;/a&gt; &lt;!-- *|END:IF|* --&gt;&lt;/small&gt;
+                                    &lt;/td&gt;
+                                    &lt;td class=&#34;headerContentImg&#34;&gt;
+                                        &lt;img src=&#34;https://wefightwithcards.com/images/new_icon.png&#34; width=&#34;64&#34; height=&#34;64&#34;&gt;
+                                    &lt;/td&gt;
+                                &lt;/tr&gt;
+                            &lt;/table&gt;
+                            &lt;!-- // END HEADER --&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td align=&#34;center&#34; valign=&#34;top&#34;&gt;
+                            &lt;!-- BEGIN BODY // --&gt;
+                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templateSummary&#34;&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_summary&#34;&gt;&lt;p&gt;This week I encourage you to pick a game you haven&amp;#39;t played and dig in!&lt;/p&gt;
+                                        &amp;nbsp;- the TES:Legends interview is awesome&lt;br&gt;
+                                        &amp;nbsp;- GwentDB has a big game guide (and we have beta keys!)&lt;br&gt;
+                                        &amp;nbsp;- Eternal&amp;#39;s new intro missions are perfect to get started
+                                        &lt;p&gt;Have a good week!&lt;/p&gt;
+
+                                        &lt;p&gt;&amp;mdash; Vlad&lt;/p&gt;
+                                    &lt;/td&gt;
+                                &lt;/tr&gt;
+                            &lt;/table&gt;
+
+                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34;&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_news&#34;&gt;&lt;h1&gt;Gwent Keys&lt;/h1&gt;
+                                        This week, we have 6 beta keys for Gwent to give, courtesy of&amp;nbsp;CD Project RED. If you&amp;#39;re excited to try Gwent, I&amp;#39;ll reach out to the winners today.&amp;nbsp;&lt;/td&gt;
+                                &lt;/tr&gt;
+
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_raffle&#34;&gt;&lt;div style=&#34;border: 1px solid #efefef; padding: 10px 20px; text-align:center; font-size: 12px; color: #444&#34;&gt;Do you like to get this every week?
+                                        &lt;a target=&#34;_blank&#34; href=&#34;https://twitter.com/intent/tweet?text=Play%20%23Hearthstone%2C%20%23Gwent%20or%20other%20card%20games%3F%20Get%20a%20weekly%20newsletter%20with%20all%20the%20good%20stuffs!&amp;url=https%3A%2F%2Fwefightwithcards.com%2F&amp;via=FightWithCards&#34;&gt;Tell your friends by tweeting this!&lt;/a&gt;
+                                    &lt;/div&gt;
+                                    &lt;/td&gt;
+                                &lt;/tr&gt;
+
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_hearth&#34;&gt;&lt;h1&gt;Hearthstone&lt;/h1&gt;
+                                        Lots of eSports-related news this week, as &lt;a href=&#34;https://www.twitch.tv/dreamhackhs&#34; target=&#34;_blank&#34;&gt;Dreamhack Austin&lt;/a&gt; kicks off, and the #HGG continues to bring us some outstanding games.&amp;nbsp;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;strong&gt;&lt;a href=&#34;https://grandprix.dreamhack.com/&#34; target=&#34;_blank&#34;&gt;Dreamhack Austin&lt;/a&gt;&lt;/strong&gt; is happening this weekend, seeing some of the top players in the US and Europe compete for the $180.000 prize pool. &lt;a href=&#34;https://www.twitch.tv/dreamhackhs&#34; target=&#34;_blank&#34;&gt;Join in the action on Twitch&lt;/a&gt;.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://grandprix.dreamhack.com/fr0zen-interview/&#34; target=&#34;_blank&#34;&gt;The curse of 2nd place: Fr0zen interview&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//dreamhack&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;strong&gt;Wild&lt;/strong&gt; fans have a surprise from Blizzard: the top 64 wild players will quality for the first-ever Wild tournament. More details to come.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://www.glixel.com/interviews/qa-hearthstone-game-director-ben-brode-w479267&#34; target=&#34;_blank&#34;&gt;Ben Brode Talks Surprise Success and Tough Choices&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//glixel&lt;/span&gt;&lt;br&gt;
+                                        Must-read interview with Hearthstone Director on game design, the community, the competitive scene and the future of Hearthstone.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://www.hearthpwn.com/news/2801-the-most-fun-cards-from-ungoro-youll-never-play-in&#34; target=&#34;_blank&#34;&gt;The Most Fun Cards From Un&amp;#39;Goro You&amp;#39;ll Never Play in Ranked&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//hearthpwn&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;strong&gt;&lt;u&gt;Paladin: In UnGoro, anyfin can happen&lt;/u&gt;&lt;/strong&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;img align=&#34;left&#34; data-file-id=&#34;4829041&#34; height=&#34;50&#34; src=&#34;https://gallery.mailchimp.com/a70281e2cd8892265f8028139/images/3f44b619-43ad-4c50-9c34-8e351eebd720.png&#34; style=&#34;border: 0px  ; width: 50px; height: 50px; margin: 5px 15px 0px 0px;&#34; width=&#34;50&#34;&gt;Paladin grows in popularity, and is now considered a tier 1 deck. We saw lots of murlocs in &lt;em&gt;#HGG &lt;/em&gt;this week, and you&amp;#39;re more and more likely to bump into them on ladder. Let&amp;#39;s see what Paladins have to say in Un&amp;#39;Goro!&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://hearthstoneplayers.com/legend-mid-range-paladin-guide-murloc/&#34; target=&#34;_blank&#34;&gt;Mid-Range Paladin Guide: I am Murloc!&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//standard&lt;/span&gt;&lt;br&gt;
+                                        Mid Range Paladin is alive and kicking once again with Murlocs and lategame minions coming together in a very interesting deck.&lt;br&gt;
+                                        &lt;br&gt;
+                                        Here&amp;#39;s &lt;a href=&#34;https://www.youtube.com/watch?v=yCnEN-vG-uM&#34; target=&#34;_blank&#34;&gt;Kolento playing his version&lt;/a&gt; of the deck&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://www.hearthstonetopdecks.com/decks/kolentos-ungoro-elemental-buff-paladin-april-2017-season-37/&#34; target=&#34;_blank&#34;&gt;Budget handbuff&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//standard&lt;/span&gt;&lt;br&gt;
+                                        Kolento played this deck with success. It won&amp;#39;t roll over in front of pirates, and can actually put a lot of pressure on the board. You can replace the cards you don&amp;#39;t have with any big minions. &lt;a href=&#34;http://Break yourself upon my body! [Handbuff Elemental Paladin - Un&#39;goro Hearthstone ladder]&#34; target=&#34;_blank&#34;&gt;Here&amp;#39;s a video&lt;/a&gt;&amp;nbsp;with a slightly modified version.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://www.hearthstonetopdecks.com/decks/the-glorious-army-of-silver-hand-recruits-in-the-crater/&#34; target=&#34;_blank&#34;&gt;Silver hand army&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//wild&lt;/span&gt;&lt;br&gt;
+                                        If murlocs are not your thing, this crazy fun deck profits off of a hoard of silver hand recruits. Sunkeeper Tarim makes his presence known, and we pay a visit to our old friend Kel&amp;#39;Thuzad. If you don&amp;#39;t have them, &lt;a href=&#34;http://www.hearthstonetopdecks.com/cards/spikeridged-steed/&#34; target=&#34;_blank&#34;&gt;Stegodons&lt;/a&gt; are always fun.&amp;nbsp;&lt;br&gt;
+                                        &lt;/td&gt;
+                                &lt;/tr&gt;
+
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_gwent&#34;&gt;&lt;h1&gt;Gwent&lt;/h1&gt;
+                                        &lt;img align=&#34;left&#34; data-file-id=&#34;4829065&#34; height=&#34;50&#34; src=&#34;https://gallery.mailchimp.com/a70281e2cd8892265f8028139/images/a0478052-31b8-4767-b455-7dd53293d22a.png&#34; style=&#34;border: 0px initial ; width: 50px; height: 50px; float: left; margin: 0px 15px 0px 0px;&#34; width=&#34;50&#34;&gt;&lt;a href=&#34;http://www.gwentdb.com/guides/83-beginners-guide&#34; target=&#34;_blank&#34;&gt;Gwent Beginner&amp;#39;s Guide&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//gwentdb&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        Everything you need to know - and I mean everything! Rules, factions, keywords, game types, all in a short-hand format for easy scanning.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;strong&gt;&lt;span style=&#34;background-color:#FFFFE0&#34;&gt;Beta Keys: &lt;/span&gt;&lt;/strong&gt;&lt;span style=&#34;background-color:#FFFFE0&#34;&gt;Incoming!&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://www.gamasutra.com/blogs/JoshBycer/20170407/295580/How_Gwent_Distinguishes_Itself_From_Other_CCGs.php&#34; target=&#34;_blank&#34;&gt;How Gwent Distinguishes Itself From Other CCGs&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//gamasutra&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a data-event-action=&#34;title&#34; data-href-url=&#34;https://clips.twitch.tv/TriumphantTubularShallotYouWHY&#34; data-outbound-expiration=&#34;1493468236000&#34; data-outbound-url=&#34;https://out.reddit.com/t3_67j4ht?url=https%3A%2F%2Fclips.twitch.tv%2FTriumphantTubularShallotYouWHY&amp;amp;token=AQAATIQEWZPC6epaTkBulyQUDBqs0avENiydjZiLspH4l3-p1ohb&amp;amp;app_name=reddit.com&#34; href=&#34;https://clips.twitch.tv/TriumphantTubularShallotYouWHY&#34; rel=&#34;&#34; tabindex=&#34;1&#34;&gt;&amp;quot;Pay 2 Win, Free 2 Play, It All Ends Up, The Same Way.&amp;quot; -ancient scoia&amp;#39;tael proverb&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[clip]&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://gwentlemen.com/versus-series-calveit-spies-v-henselt-promote/&#34; id=&#34;article_title_link_11650974815&#34; rel=&#34;noopener&#34; tabindex=&#34;-1&#34; target=&#34;_blank&#34;&gt;Versus Series &amp;ndash; Calveit Spies v Henselt Promote&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://www.youtube.com/watch?v=E6i96Cd83Bk&#34; target=&#34;_blank&#34;&gt;How to play against Scoia&amp;#39;tael&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
+                                        In-depth analysis on a pretty well-known &amp;quot;problem&amp;quot; these days.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://commandershorn.com/2017/04/26/34-tracking-w-pavel-from-gwentup/&#34; rel=&#34;home&#34; target=&#34;_blank&#34;&gt;Commander&amp;#39;s Horn&lt;/a&gt;&amp;nbsp;- about deck tracking with the author of GwentUp&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[podcast]&lt;/span&gt;&lt;br&gt;
+                                        &lt;/td&gt;
+                                &lt;/tr&gt;
+
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_tes&#34;&gt;&lt;h1&gt;TES: Legends&lt;/h1&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://www.youtube.com/watch?v=Ri9039RcVgU&#34; target=&#34;_blank&#34;&gt;Interview with&amp;nbsp;Charm3r about TESL Design&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
+                                        If you&amp;#39;re wondering why TESL is different from other games, this interview will clear up many questions. Charm3r compares Legends to games like Hearthstone or MtG, talks about why counterplay works so well in Legends, with the Prophecy mechanic.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://betweenthelanes.net/2017/04/28/between-the-lanes-meta-snapshot-8-april-2017/&#34; rel=&#34;noopener&#34; tabindex=&#34;-1&#34; target=&#34;_blank&#34;&gt;Between The Lanes Meta Snapshot #8 &amp;ndash; April 2017&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//btl&lt;/span&gt;&lt;br&gt;
+                                        Interested to see how this game shapes up? Here&amp;#39;s the latest meta analysis.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://toucharcade.com/2017/04/26/elder-scrolls-legends-reveals-chaurus-breeding-pit-card-the-april-monthly-reward/&#34;&gt;Chaurus Breeding Pit Card, the April Monthly Reward&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//toucharcade&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://clips.twitch.tv/TenuousGentlePlumberOptimizePrime&#34; target=&#34;_blank&#34;&gt;CVH gets Dr. Boomed&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[clip]&lt;/span&gt;&lt;br&gt;
+                                        Remember Dr. Boom - a.k.a why I hated Hearthstone, then I crafted it and loved it again?&lt;br&gt;
+                                        &lt;/td&gt;
+                                &lt;/tr&gt;
+
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_shadow&#34;&gt;&lt;h1&gt;Shadowverse&lt;/h1&gt;
+                                        &lt;a href=&#34;https://shadowverse.com/news/important/news-0099&#34; target=&#34;_blank&#34;&gt;Street Fighter tie-in&lt;/a&gt;&lt;br&gt;
+                                        Play in May to unlock rewards&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://www.youtube.com/watch?v=gm6Z5Kgd0m4&#34; target=&#34;_blank&#34;&gt;Kripparian takes a look at Tempest of the Gods&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://steamcommunity.com/sharedfiles/filedetails/?id=812528928&#34; target=&#34;_blank&#34;&gt;Shadowverse lingo for new players&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//steam&lt;/span&gt;&lt;br&gt;
+                                        If you&amp;#39;re a new player, you&amp;#39;re probably in need of a slang update. Here&amp;#39;s a list of the most-used terms with explanations.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://steamcommunity.com/sharedfiles/filedetails/?id=853500639&#34; target=&#34;_blank&#34;&gt;Legendary Liquifying list&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//steam&lt;/span&gt;&lt;br&gt;
+                                        Updated with Temple cards - what to craft, what to liquify?&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://www.youtube.com/watch?v=6jOnIw6oVvg&#34; target=&#34;_blank&#34;&gt;Current Meta in a nutshell&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://svspot.com/2017/01/23/off-meta-1/&#34; target=&#34;_blank&#34;&gt;Off-meta decks&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//svspot&lt;/span&gt;&lt;br&gt;
+                                        New series of articles looking at up-and-coming decks that fare well, but are not top-tier (yet).&lt;br&gt;
+                                        &lt;/td&gt;
+                                &lt;/tr&gt;
+
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_eternal&#34;&gt;&lt;h1&gt;Eternal&lt;/h1&gt;
+                                        The new intro missions / tutorials are actually great! I&amp;#39;ve been playing through them, and they do the game justice. You get a feel of how each color plays, and you get a pre-built deck at the end of each campaign. Very enjoyable.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://www.youtube.com/watch?v=EmjRgi6g-VQ&#34; target=&#34;_blank&#34;&gt;Patch breakdown&lt;/a&gt;&amp;nbsp;- Voiceover, Spectator Mode, and more!&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://www.youtube.com/watch?v=7xJF-nNgYPA&#34; target=&#34;_blank&#34;&gt;Gameplay from the new missions&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http:// https://www.youtube.com/watch?v=PrQpgtXxEwg&#34; target=&#34;_blank&#34;&gt;Quick Eternal video review&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://rngeternal.com/2017/04/22/announcing-three-deck-titan-sponsored-by-kcbandit/&#34; rel=&#34;noopener&#34; tabindex=&#34;-1&#34; target=&#34;_blank&#34;&gt;Announcing &amp;ldquo;Three Deck Titan&amp;rdquo; sponsored by kcbandit&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//rngeternal&lt;/span&gt;&lt;br&gt;
+                                        New tournament with $300 cash prize pool!&lt;br&gt;
+                                        &lt;/td&gt;
+                                &lt;/tr&gt;
+
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_discover&#34;&gt;&lt;h1&gt;Discover&lt;/h1&gt;
+                                        &lt;a href=&#34;http://nomadgames.co.uk/fightingfantasy/&#34; target=&#34;_blank&#34;&gt;Fighting Fantasy&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//PC&lt;/span&gt;&lt;br&gt;
+                                        The legendary Fighting Fantasy series has a new chapter in &lt;img align=&#34;right&#34; data-file-id=&#34;4829045&#34; height=&#34;44&#34; src=&#34;https://gallery.mailchimp.com/a70281e2cd8892265f8028139/images/0bbe6494-a1c5-4cb5-945a-4743dc2743dd.png&#34; style=&#34;border: 0px  ; width: 150px; height: 44px; margin: 5px 0px 0px 20px;&#34; width=&#34;150&#34;&gt;development, in the form of a card-based RPG coming for PC from Nomad Games.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://www.pcgamer.com/ian-livingstone-and-nomad-games-on-bringing-classic-choose-your-own-adventure-books-to-pc/&#34; target=&#34;_blank&#34;&gt;Ian Livingstone and Nomad Games on Fighting Fantasy - a card-based RPG for PC&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//pcgamer&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://store.steampowered.com/app/490950/Frost/&#34; target=&#34;_blank&#34;&gt;Frost: A Solo survival card game&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//steam&lt;/span&gt;&lt;br&gt;
+                                        This nice solo game from 2016 just got an &lt;a href=&#34;http://steamcommunity.com/games/490950/announcements/detail/616273547534675114&#34; target=&#34;_blank&#34;&gt;expansion&lt;/a&gt; and more game modes. Check out this &lt;a href=&#34;https://www.youtube.com/watch?v=9Vpz3_J88zk&#34; target=&#34;_blank&#34;&gt;gameplay video&lt;/a&gt;&amp;nbsp;as well.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://www.essexlive.news/braintree-man-set-to-launch-new-board-game-based-on-8216-cards-against-humanity-8217/story-30296547-detail/story.html&#34; target=&#34;_blank&#34;&gt;Cards against humanity, but digital and politically correct&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//essexlive&lt;/span&gt;&lt;br&gt;
+                                        I mean... I guess it could be fun!&lt;/td&gt;
+                                &lt;/tr&gt;
+
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_fun&#34;&gt;&lt;h1&gt;Fun&lt;/h1&gt;
+                                        &lt;a href=&#34;https://thenextweb.com/insider/2017/04/24/swedish-member-of-parliament-has-a-weekly-hearthstone-stream-on-twitch/#.tnw_oTrhsLSt&#34; target=&#34;_blank&#34;&gt;Mr Rickard - The Swedish politician streaming Hearthstone&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//thenextweb&lt;/span&gt;&lt;br&gt;
+                                        Riksdags Rickard streams Hearthstone every Tuesday. He&amp;#39;s also a member of the Swedish parliament, so it&amp;#39;s common to see him talk politics between two Fireballs. Any politician doing this in your country?&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://www.youtube.com/watch?v=bicrq36VARY&#34; target=&#34;_blank&#34;&gt;Mind Melting Sequence of RNG&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
+                                        Hearthstone is still the best when it comes to RNG.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://www.quizexer.com/hearthstone.html&#34; target=&#34;_blank&#34;&gt;Quiz: How well do you know Hearthstone&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//quiz time&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://www.quizexer.com/hearthstone.html&#34; target=&#34;_blank&#34;&gt;Quiz: How well do you know G&lt;/a&gt;&lt;a href=&#34;http://www.quizexer.com/gwent.html&#34; target=&#34;_blank&#34;&gt;went&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//quiz time&lt;/span&gt;&lt;/td&gt;
+                                &lt;/tr&gt;
+
+                            &lt;/table&gt;
+
+                            &lt;div border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34;&gt;
+                            &lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;
+                    &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_streamers&#34;&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34;&gt;
+                            &lt;p style=&#34;color: #A9A9A9; font-weight: bold; &#34;&gt;
+                                __DONE__
+                            &lt;/p&gt;
+                            &lt;div mc:edit=&#34;body_end&#34;&gt;
+                                &lt;p&gt;&lt;strong&gt;Can this be better?&lt;/strong&gt; Hit reply, I want to know what you think!&lt;/p&gt;
+                            &lt;/div&gt;
+                            &lt;p&gt;
+                                Want more content for a game? Just &lt;a href=&#34;*|UPDATE_PROFILE|*&#34;&gt;select it in your preferences&lt;/a&gt;
+                            &lt;/p&gt;
+                            &lt;p id=&#34;yourGames&#34;&gt;
+                                &lt;span&gt;Your games:&lt;/span&gt;
+                                &lt;span&gt;Hearthstone&lt;/span&gt;
+                                &lt;span&gt;Gwent&lt;/span&gt;
+                                &lt;span&gt;Eternal&lt;/span&gt;
+                                &lt;span&gt;Shadowverse&lt;/span&gt;
+                                &lt;span&gt;Elder Scrolls Legends&lt;/span&gt;
+                            &lt;/p&gt;
+                            &lt;p&gt;Not a subscriber? Join us at &lt;a href=&#34;https://wefightwithcards.com/&#34;&gt;https://wefightwithcards.com/&lt;/a&gt;&lt;/p&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+
+                &lt;!-- // END BODY --&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td align=&#34;center&#34; valign=&#34;top&#34;&gt;
+                &lt;!-- BEGIN FOOTER // --&gt;
+                &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templateFooter&#34;&gt;
+                    &lt;tr&gt;
+                        &lt;td valign=&#34;top&#34; class=&#34;footerContent&#34; mc:edit=&#34;footer_content00&#34;&gt;Stay in touch! You can &lt;a href=&#34;https://twitter.com/fightwithcards&#34; target=&#34;_blank&#34;&gt;Follow us on Twitter&lt;/a&gt;, or &lt;a href=&#34;https://www.facebook.com/wefightwithcards/&#34; target=&#34;_blank&#34;&gt;Like us on Facebook&lt;/a&gt;.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td valign=&#34;top&#34; class=&#34;footerContent&#34; style=&#34;padding-top:0;&#34; mc:edit=&#34;footer_content01&#34;&gt;
+                            *|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
+                            &lt;br&gt;
+                            &lt;strong&gt;Our mailing address is:&lt;/strong&gt;
+                            &lt;br&gt;
+                            *|HTML:LIST_ADDRESS_HTML|* *|END:IF|*
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+
+                    &lt;tr&gt;
+                        &lt;td valign=&#34;top&#34; class=&#34;footerContent&#34; style=&#34;padding-top:0;&#34; mc:edit=&#34;footer_content02&#34;&gt;You can&amp;nbsp;&lt;a href=&#34;*|UNSUB|*&#34;&gt;unsubscribe&lt;/a&gt;&amp;nbsp;or&amp;nbsp;&lt;a href=&#34;*|UPDATE_PROFILE|*&#34;&gt;update&amp;nbsp;&lt;/a&gt;&lt;a href=&#34;*|UPDATE_PROFILE|*&#34; target=&#34;_blank&#34;&gt;your games&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+                &lt;!-- // END FOOTER --&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+    &lt;!-- // END TEMPLATE --&gt;
+
+
+
+&lt;/center&gt;
+&lt;div itemscope=&#34;&#34; itemtype=&#34;http://schema.org/EmailMessage&#34;&gt;
+    &lt;div itemprop=&#34;publisher&#34; itemscope=&#34;&#34; itemtype=&#34;http://schema.org/Organization&#34;&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;We fight with cards&#34;&gt;
+        &lt;meta itemprop=&#34;telephone&#34; content=&#34;(+40) 723-684192&#34;&gt;
+        &lt;link itemprop=&#34;url&#34; href=&#34;https://www.wefightwithcards.com&#34;&gt;
+        &lt;link itemprop=&#34;logo&#34; href=&#34;http://wefightwithcards.com/vlad.png/&#34;&gt;
+        &lt;link itemprop=&#34;url/googlePlus&#34; href=&#34;https://plus.google.com/+FightWithCards/&#34;&gt;
+        &lt;link itemprop=&#34;url/facebook&#34; href=&#34;https://www.facebook.com/wefightwithcards&#34;&gt;
+        &lt;link itemprop=&#34;url/twitter&#34; href=&#34;https://twitter.com/FightWithCards&#34;&gt;
+        &lt;div itemprop=&#34;address&#34; itemscope=&#34;&#34; itemtype=&#34;http://schema.org/PostalAddress&#34;&gt;
+            &lt;meta itemprop=&#34;streetAddress&#34; content=&#34;Ramnicu Valce 27&#34;&gt;
+            &lt;meta itemprop=&#34;addressLocality&#34; content=&#34;Bucharest&#34;&gt;
+            &lt;meta itemprop=&#34;addressRegion&#34; content=&#34;Bucharest&#34;&gt;
+            &lt;meta itemprop=&#34;postalCode&#34; content=&#34;031805&#34;&gt;
+            &lt;meta itemprop=&#34;addressCountry&#34; content=&#34;Romania&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
     
     <item>
       <title>Issue #4 - Earth day</title>
@@ -2648,7 +3285,7 @@
             &lt;h4&gt;What kind of content will I get?&lt;/h4&gt;
             &lt;p&gt;
                 &lt;a href=&#34;
-    http://wefightwithcards.com/archives/issue_4/
+    http://wefightwithcards.com/archives/issue_5/
 &#34;&gt;Take a peek at our latest issue!&lt;/a&gt;
             &lt;/p&gt;
             &lt;h4&gt;I selected 2 games. What will I see?&lt;/h4&gt;
@@ -2831,7 +3468,7 @@
 
             &lt;p&gt;The newsletter goes out every Saturday, so stay tuned!&lt;/p&gt;
             &lt;h1 class=&#34;mt-0&#34;&gt;&lt;a style=&#34;font-size: 18px&#34; href=&#34;
-    http://wefightwithcards.com/archives/issue_4/
+    http://wefightwithcards.com/archives/issue_5/
 &#34;&gt;See the latest issue now&lt;/a&gt;&lt;/h1&gt;
             &lt;p&gt;BTW, I want to hear your thoughts! Catch me on &lt;a href=&#34;http://twitter.com/FightWithCards&#34;&gt;Twitter @FightWithCards&lt;/a&gt;, or shoot me a line at vlad@wefightwithcards.com&lt;/p&gt;
         &lt;/div&gt;
