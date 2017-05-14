@@ -6,8 +6,616 @@
     <description>Recent content on We fight with cards - Weekly newsletter about Digital Card Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Apr 2017 16:51:11 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 13 May 2017 16:51:11 +0300</lastBuildDate>
     <atom:link href="http://wefightwithcards.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Issue #6 - Back in style</title>
+      <link>http://wefightwithcards.com/archives/issue_6/</link>
+      <pubDate>Sat, 13 May 2017 16:51:11 +0300</pubDate>
+      
+      <guid>http://wefightwithcards.com/archives/issue_6/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+    #outlook a{
+        padding:0;
+    }
+    .ReadMsgBody{
+        width:100%;
+    }
+    .ExternalClass{
+        width:100%;
+    }
+    .ExternalClass,.ExternalClass p,.ExternalClass span,.ExternalClass font,.ExternalClass td,.ExternalClass div{
+        line-height:100%;
+    }
+    body,table,td,p,a,li,blockquote{
+        -webkit-text-size-adjust:100%;
+        -ms-text-size-adjust:100%;
+    }
+    table,td{
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+    }
+    img{
+        -ms-interpolation-mode:bicubic;
+    }
+    body{
+        margin:0;
+        padding:0;
+    }
+    img{
+        border:0;
+        height:auto;
+        line-height:100%;
+        outline:none;
+        text-decoration:none;
+    }
+    table{
+        border-collapse:collapse !important;
+    }
+    body,#bodyTable,#bodyCell{
+        height:100% !important;
+        margin:0;
+        padding:0;
+        width:100% !important;
+    }
+    #templateContainer{
+        width:100%;
+        max-width:600px;
+    }
+    #templateSummary{
+        background-color:#070530;
+        color:#fff;
+        border-top:3px solid #28C762;
+    }
+    #templateSummary .bodyContent{
+        color:#fff;
+    }
+    #templateSummary a{
+        color:#28C762;
+    }
+    h1{
+        color:#202020 !important;
+        border-bottom:1px solid #ccc;
+        padding-bottom:10px;
+        display:block;
+        font-family:Helvetica;
+        font-size:16px;
+        font-style:normal;
+        font-weight:bold;
+        line-height:100%;
+        letter-spacing:normal;
+        margin-top:0;
+        margin-right:0;
+        margin-bottom:10px;
+        margin-left:0;
+        text-align:left;
+    }
+    h1:before{
+        content:&#39;#&#39;;
+        color:#28C762;
+        font-family:Verdana, Arial, sans-serif;
+    }
+    h2{
+        color:#404040 !important;
+        display:block;
+        font-family:Helvetica;
+        font-size:20px;
+        font-style:normal;
+        font-weight:bold;
+        line-height:100%;
+        letter-spacing:normal;
+        margin-top:0;
+        margin-right:0;
+        margin-bottom:10px;
+        margin-left:0;
+        text-align:left;
+    }
+    h3{
+        color:#606060 !important;
+        display:block;
+        font-family:Helvetica;
+        font-size:16px;
+        font-style:italic;
+        font-weight:normal;
+        line-height:100%;
+        letter-spacing:normal;
+        margin-top:0;
+        margin-right:0;
+        margin-bottom:10px;
+        margin-left:0;
+        text-align:left;
+    }
+    h4{
+        color:#808080 !important;
+        display:block;
+        font-family:Helvetica;
+        font-size:14px;
+        font-style:italic;
+        font-weight:normal;
+        line-height:100%;
+        letter-spacing:normal;
+        margin-top:0;
+        margin-right:0;
+        margin-bottom:10px;
+        margin-left:0;
+        text-align:left;
+    }
+    #templatePreheader{
+        background-color:#fff;
+    }
+    .preheaderContent{
+        color:#808080;
+        font-family:Helvetica;
+        font-size:11px;
+        line-height:125%;
+        text-align:left;
+    }
+    .preheaderContent a:link,.preheaderContent a:visited,.preheaderContent a .yshortcuts{
+        color:#606060;
+        font-weight:normal;
+        text-decoration:underline;
+    }
+    #templateHeader{
+        background-color:#fff;
+    }
+    .headerContentImg{
+        text-align:right;
+        padding-right:20px;
+        padding:20px;
+    }
+    .headerContentImg img{
+        width:48px;
+        height:48px;
+    }
+    .headerContent{
+        color:#000;
+        font-family:Helvetica, Arial, sans-serif;
+        font-size:24px;
+        font-weight:bold;
+        line-height:100%;
+        padding-top:0;
+        padding-right:0;
+        padding-bottom:20px;
+        padding-left:20px;
+        text-align:left;
+        vertical-align:bottom;
+    }
+    .headerContent small{
+        color:#575757;
+        font-size:11px;
+        font-weight:100;
+        line-height:155%;
+    }
+    .headerContent a:link,.headerContent a:visited,.headerContent a .yshortcuts{
+        color:#1866df;
+        font-weight:normal;
+        text-decoration:underline;
+    }
+    #headerImage{
+        height:auto;
+        max-width:600px;
+    }
+    table{
+        background-color:#fff;
+    }
+    .bodyContent{
+        color:#505050;
+        font-family:Helvetica;
+        font-size:14px;
+        line-height:150%;
+        padding-top:20px;
+        padding-right:20px;
+        padding-bottom:20px;
+        padding-left:20px;
+        text-align:left;
+    }
+    .bodyContent a:link,.bodyContent a:visited,.bodyContent a .yshortcuts{
+        color:#1866df;
+        font-weight:normal;
+        text-decoration:underline;
+    }
+    .bodyContent img{
+        display:inline;
+        height:auto;
+        max-width:560px;
+    }
+    .bodyContent ul{
+        margin:0 0 0 16px;
+        padding:0;
+    }
+    .bodyContent ul li{
+        margin:14px 0;
+    }
+    #yourGames span{
+        margin:0;
+        padding:0 10px 0 0;
+    }
+    #templateFooter{
+        width:100%;
+        max-width:600px;
+        background-color:#F4F4F4;
+    }
+    .footerContent{
+        color:#808080;
+        font-family:Helvetica;
+        font-size:10px;
+        line-height:150%;
+        padding-top:20px;
+        padding-right:20px;
+        padding-bottom:20px;
+        padding-left:20px;
+        text-align:left;
+    }
+    .footerContent a:link,.footerContent a:visited,.footerContent a .yshortcuts,.footerContent a span{
+        color:#606060;
+        font-weight:normal;
+        text-decoration:underline;
+    }
+    @media only screen and (max-width: 480px){
+        body,table,td,p,a,li,blockquote{
+            -webkit-text-size-adjust:none !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        body{
+            width:100% !important;
+            min-width:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        #templateContainer{
+            max-width:600px !important;
+            width:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        h1{
+            font-size:14px !important;
+            line-height:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        h2{
+            font-size:20px !important;
+            line-height:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        h3{
+            font-size:18px !important;
+            line-height:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        h4{
+            font-size:16px !important;
+            line-height:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        #templatePreheader{
+            display:none !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        #headerImage{
+            height:auto !important;
+            max-width:600px !important;
+            width:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        .headerContent{
+            font-size:14px !important;
+            line-height:24px !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        .headerContent small a{
+            display:block;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        .bodyContent{
+            font-size:14px !important;
+            line-height:24px !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        .footerContent{
+            font-size:12px !important;
+            line-height:14px !important;
+        }
+
+    }&lt;/style&gt;
+
+&lt;center&gt;
+    &lt;table align=&#34;center&#34; border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; height=&#34;100%&#34; width=&#34;100%&#34; id=&#34;bodyTable&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #fff;margin: 0;padding: 0;border-collapse: collapse !important;height: 100% !important;width: 100% !important;&#34;&gt;
+        &lt;tr&gt;
+            &lt;td align=&#34;center&#34; valign=&#34;top&#34; id=&#34;bodyCell&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;margin: 0;padding: 0;height: 100% !important;width: 100% !important;&#34;&gt;
+                &lt;!-- BEGIN TEMPLATE // --&gt;
+                &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; id=&#34;templateContainer&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #fff;width: 100%;max-width: 600px;border-collapse: collapse !important;&#34;&gt;
+                    &lt;tr&gt;
+                        &lt;td align=&#34;center&#34; valign=&#34;top&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;&#34;&gt;
+                            &lt;!-- BEGIN PREHEADER // --&gt;
+                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templatePreheader&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #fff;border-collapse: collapse !important;&#34;&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;preheaderContent&#34; style=&#34;padding-top: 10px;padding-right: 20px;padding-bottom: 10px;padding-left: 20px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #808080;font-family: Helvetica;font-size: 11px;line-height: 125%;text-align: left;&#34;&gt;Hearthstone is huge, Shadowverse + free packs, Gwent open beta soon, Drafting guides&lt;/td&gt;
+                                &lt;/tr&gt;
+                            &lt;/table&gt;
+                            &lt;!-- // END PREHEADER --&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td align=&#34;center&#34; valign=&#34;top&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;&#34;&gt;
+                            &lt;!-- BEGIN HEADER // --&gt;
+                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templateHeader&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #fff;border-collapse: collapse !important;&#34;&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;bottom&#34; class=&#34;headerContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #000;font-family: Helvetica, Arial, sans-serif;font-size: 24px;font-weight: bold;line-height: 100%;padding-top: 0;padding-right: 0;padding-bottom: 20px;padding-left: 20px;text-align: left;vertical-align: bottom;&#34;&gt;
+                                        We fight with cards&lt;br&gt;
+                                        &lt;small style=&#34;color: #575757;font-size: 11px;font-weight: 100;line-height: 155%;&#34;&gt;Issue #6 / May 13, 2017 /  &lt;!--  --&gt;&lt;a href=&#34;https://wefightwithcards.com/archives/issue_6/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;View in your browser&lt;/a&gt; &lt;!--  --&gt;&lt;/small&gt;
+                                    &lt;/td&gt;
+                                    &lt;td class=&#34;headerContentImg&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;text-align: right;padding-right: 20px;padding: 20px;&#34;&gt;
+                                        &lt;img src=&#34;https://wefightwithcards.com/images/new_icon.png&#34; width=&#34;64&#34; height=&#34;64&#34; style=&#34;-ms-interpolation-mode: bicubic;border: 0;height: 48px;line-height: 100%;outline: none;text-decoration: none;width: 48px;&#34;&gt;
+                                    &lt;/td&gt;
+                                &lt;/tr&gt;
+                            &lt;/table&gt;
+                            &lt;!-- // END HEADER --&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td align=&#34;center&#34; valign=&#34;top&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;&#34;&gt;
+                            &lt;!-- BEGIN BODY // --&gt;
+                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templateSummary&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #070530;color: #fff;border-top: 3px solid #28C762;border-collapse: collapse !important;&#34;&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #fff;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;Hey there! Sorry for the break last week - hope you&#39;re looking forward to this week&#39;s issue. Have fun!&lt;br&gt;
+                                        — Vlad&lt;/td&gt;
+                                &lt;/tr&gt;
+                            &lt;/table&gt;
+
+                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #fff;border-collapse: collapse !important;&#34;&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;&lt;h1 style=&#34;border-bottom: 1px solid #ccc;padding-bottom: 10px;display: block;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;color: #202020 !important;&#34;&gt;In short&lt;/h1&gt;
+
+                                        &lt;ul style=&#34;margin: 0 0 0 16px;padding: 0;&#34;&gt;
+                                            &lt;li style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;margin: 14px 0;&#34;&gt;Gwent is getting ready for Open Beta&lt;/li&gt;
+                                            &lt;li style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;margin: 14px 0;&#34;&gt;Hearthstone made it to 70M players&lt;/li&gt;
+                                            &lt;li style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;margin: 14px 0;&#34;&gt;Shadowverse keeps giving you free packs&lt;/li&gt;
+                                        &lt;/ul&gt;
+                                    &lt;/td&gt;
+                                &lt;/tr&gt;
+
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;&lt;div style=&#34;border: 1px solid #efefef; padding: 10px 20px; text-align:center; font-size: 12px; color: #444&#34;&gt;Know others who might enjoy the newsletter? &lt;a href=&#34;https://twitter.com/intent/tweet?text=Play%20%23Hearthstone%2C%20%23Gwent%20or%20other%20card%20games%3F%20Get%20a%20weekly%20newsletter%20with%20all%20the%20good%20stuffs!&amp;url=https%3A%2F%2Fwefightwithcards.com%2F&amp;via=FightWithCards&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Tell them by tweeting this!&lt;/a&gt;&lt;/div&gt;
+                                    &lt;/td&gt;
+                                &lt;/tr&gt;
+
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;&lt;h1 style=&#34;border-bottom: 1px solid #ccc;padding-bottom: 10px;display: block;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;color: #202020 !important;&#34;&gt;&lt;span style=&#34;color:#C99122&#34;&gt;Hearthstone&lt;/span&gt;&lt;/h1&gt;
+                                        
+
+                                        &lt;ul style=&#34;margin: 0 0 0 16px;padding: 0;&#34;&gt;
+                                            &lt;li style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;margin: 14px 0;&#34;&gt;Hearthstone gained 20M players in an year&lt;/li&gt;
+                                            &lt;li style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;margin: 14px 0;&#34;&gt;#HCT goes to Shanghai &lt;strong&gt;July 7-9&lt;/strong&gt; &lt;/li&gt;
+                                            &lt;li style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;margin: 14px 0;&#34;&gt;the drop rate is confirmed at &lt;a href=&#34;https://www.forbes.com/sites/insertcoin/2017/05/05/china-has-forced-blizzard-to-reveal-exact-overwatch-and-hearthstone-drop-rates/#4b7becfd5a14&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;1 Legendary every 20 packs&lt;/a&gt;&lt;/li&gt;
+                                        &lt;/ul&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://clips.twitch.tv/MotionlessBashfulChinchillaDoritosChip&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Kill Tyrion and get lethal&lt;/a&gt; - seems legit&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[clip]&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://www.hearthstonetopdecks.com/firebats-deck-doctor-1-cthun-druid/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Firebat&#39;s Deck Doctor&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//hstopdecks&lt;/span&gt;&lt;br&gt;
+                                        Firebat&#39;s new video series is a must if you ever wondered how pro players go about deckbuilding and playing this game.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://www.cnet.com/news/adapt-or-die-behind-the-scenes-of-blizzard-hearthstone-design/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Mike Donais interview&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//cnet&lt;/span&gt;&lt;br&gt;
+                                        Designing cards, predicting metas, and fish puns.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://www.ausgamers.com/news/read/3574601/blizzard-briefly-considered-a-warcraft-babies-expansion-for-hearthstone&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Hearthstone Babies - Ben Brode interview&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//ausgamers&lt;/span&gt;&lt;br&gt;
+                                        Do baby cards sound cute? Yeah, didn&#39;t think so. Apparently neither did the Hearthstone team, but don&#39;t be surprised to see something similar down the line.&lt;br&gt;
+                                        Here&#39;s their &lt;a href=&#34;https://www.ausgamers.com/features/read/3574733&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;extended interview&lt;/a&gt;.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://www.pcgamer.com/hearthstones-pros-verdict-on-journey-to-ungoro-and-if-the-game-is-getting-too-expensive/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;The state of the game interview&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
+                                        PCGamer sat down with Reynad, Trump, Amnesiac and more to talk about the new expansion.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://amove.tv/news/2017/5/9/209-the-angry-chicken-no-babies&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Angry Chicken - Aggro druid&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//podcast&lt;/span&gt;&lt;br&gt;
+                                        This week&#39;s Angry Chicken dives into Aggro Druid, the deck that&#39;s been tearing up Standard. Have you played it? We covered Living Mana in a past issue - how many of you got burned by Devolve?&lt;/td&gt;
+                                &lt;/tr&gt;
+
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;&lt;h1 style=&#34;border-bottom: 1px solid #ccc;padding-bottom: 10px;display: block;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;color: #202020 !important;&#34;&gt;&lt;span style=&#34;color:#16C95D&#34;&gt;Gwent&lt;/span&gt;&lt;/h1&gt;
+                                        &lt;img align=&#34;left&#34; data-file-id=&#34;4829065&#34; height=&#34;50&#34; src=&#34;https://gallery.mailchimp.com/a70281e2cd8892265f8028139/images/a0478052-31b8-4767-b455-7dd53293d22a.png&#34; style=&#34;border: 0px initial;width: 50px;height: 50px;float: left;margin: 0px 15px 0px 0px;-ms-interpolation-mode: bicubic;line-height: 100%;outline: none;text-decoration: none;display: inline;max-width: 560px;&#34; width=&#34;50&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://www.playgwent.com/giveaway/Trump&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;G&lt;/a&gt;&lt;a href=&#34;https://www.twitch.tv/cdprojektred&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;went Challenger Finals&lt;/a&gt; - Saturday 3PM CEST&lt;/strong&gt;&lt;br&gt;
+                                        Tomorrow sees the grand finale of the Gwent challenger, in which 4 community members face the likes of &lt;em&gt;Trump&lt;/em&gt; and &lt;em&gt;Lifecoach&lt;/em&gt; for $100k in prizes&lt;br&gt;
+                                        &lt;br&gt;
+                                        Gwent &lt;a href=&#34;https://www.playgwent.com/en/news&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;closed beta is ending&lt;/a&gt; - which means an open beta is expected soon. We&#39;ll know more about it next week.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://imgur.com/a/3l8wD&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Overwatch Gwent cards&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//reddit - &lt;a href=&#34;https://www.reddit.com/r/gwent/comments/69s499/overwatch_based_gwent_cards/?utm_content=comments&amp;utm_medium=browse&amp;utm_source=reddit&amp;utm_name=gwent&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;comments&lt;/a&gt;&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://gwentlemen.com/diving-in-calveit-spies/&#34; id=&#34;article_title_link_11792930595&#34; rel=&#34;noopener&#34; tabindex=&#34;-1&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Diving In: Calveit Spies&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
+                                        Spies decks have always been interesting, here&#39;s to hoping they&#39;ll be playable.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://www.youtube.com/watch?v=7twvfhQYlDM&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Weather decks&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
+                                        &lt;em&gt;Merchant&lt;/em&gt; has some fun games with Weather, in case you&#39;re feeling a bit off-meta.&lt;br&gt;
+                                        &lt;/td&gt;
+                                &lt;/tr&gt;
+
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;&lt;h1 style=&#34;border-bottom: 1px solid #ccc;padding-bottom: 10px;display: block;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;color: #202020 !important;&#34;&gt;&lt;span style=&#34;color:#926F47&#34;&gt;TES: Legends&lt;/span&gt;&lt;/h1&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://betweenthelanes.net/2017/05/01/why-stick-to-50-discussing-deck-minimums/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Why stick to 50 cards?&lt;/a&gt;&lt;br&gt;
+                                        [video]&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://legends.bethesda.net/articles/interviewing-legends-cvh&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;CVH Interview&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//official&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://www.youtube.com/watch?v=ciTNJQ32Z2k&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;How To: Versus Arena Explained&lt;br&gt;
+                                            &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;/a&gt;&lt;br&gt;
+                                        &lt;/td&gt;
+                                &lt;/tr&gt;
+
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;&lt;h1 style=&#34;border-bottom: 1px solid #ccc;padding-bottom: 10px;display: block;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;color: #202020 !important;&#34;&gt;&lt;span style=&#34;color:#007DD0&#34;&gt;Shadowverse&lt;/span&gt;&lt;/h1&gt;
+                                        You got your &lt;a href=&#34;https://twitter.com/shadowversegame/status/859287387779645440&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;9 free packs&lt;/a&gt; right?&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://www.youtube.com/watch?v=vMpHeG8z5aM&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Never give up! Never surrender!&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
+                                        It gets from bad to worse, and then... Featuring Azazel and an evolved snowman.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://www.youtube.com/watch?v=Qj4QBvwgQig&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Building a collection for the new player - Kripp&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
+                                        Everything you need to know to grow your collection most efficiently.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://www.ign.com/articles/2017/05/08/how-shadowverse-became-a-major-player-in-the-ccg-genre&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;The story of Shadowverse and Cygames&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//ign&lt;/span&gt;&lt;br&gt;
+                                        Long read about how Cygames started, Shadowverse&#39;s MtG roots, the Evolution mechanic and eSports.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://clips.twitch.tv/EndearingDarlingBasenjiKappaClaus&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Mirror match? Top deck FTW&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[clip] / NGE Bracket VI&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://www.youtube.com/watch?v=VPC7RLFrZto&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;End by turn 3&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[clip] &lt;/span&gt;&lt;br&gt;
+                                        Ok so that happened...&lt;br&gt;
+                                        &lt;/td&gt;
+                                &lt;/tr&gt;
+
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;&lt;h1 style=&#34;border-bottom: 1px solid #ccc;padding-bottom: 10px;display: block;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;color: #202020 !important;&#34;&gt;Eternal&lt;/h1&gt;
+                                        You can now play &lt;em&gt;Eternal&lt;/em&gt; in Chinese, French, German, Greek, Italian, Portuguese, Spanish or Turkish, and there&#39;s a couple of new heroes to play with &#34;&lt;a href=&#34;http://www.direwolfdigital.com/eternal-distant-lands-8-new-languages/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Distant Lands&lt;/a&gt;&#34; - patch 1.20.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://www.numotgaming.com/state-of-the-throne-eternal-meta-breakdown/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Eternal meta breakdown&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//numot&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://clips.twitch.tv/TallCogentBubbleteaBabyRage&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;So much happy!&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[clip]&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://rngeternal.com/2017/05/06/scions-school-getting-started-iv-drafting/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Getting started with Drafting&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//rngeternal&lt;/span&gt;&lt;br&gt;
+                                        &lt;/td&gt;
+                                &lt;/tr&gt;
+
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;&lt;h1 style=&#34;border-bottom: 1px solid #ccc;padding-bottom: 10px;display: block;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;color: #202020 !important;&#34;&gt;Discover&lt;/h1&gt;
+                                        &lt;a href=&#34;http://www.pockettactics.com/reviews/review-race-for-the-galaxy/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Race for the Galaxy review&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//pockettactics&lt;/span&gt;&lt;br&gt;
+                                        A mobile game with a few gameplay twists: each turn, each player picks an action, all players perform them; you pay with your other cards, and get a bonus for each action you choose.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://www.pockettactics.com/guides/pt-guides-ascension-dlc-buying-guide/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Ascension buying guide&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//ptguides&lt;/span&gt;&lt;br&gt;
+                                        All DLC reviewed, to help you decide if / what you want to get.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://www.pockettactics.com/articles/interview-fighting-fantasy-legends-design-director-carl-jackson/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Fighting Fantasy - more details&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//pockettactics&lt;/span&gt;&lt;br&gt;
+                                        We saw this game in the last issue. Here&#39;s another interview with more pics and details.&lt;/td&gt;
+                                &lt;/tr&gt;
+
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;&lt;h1 style=&#34;border-bottom: 1px solid #ccc;padding-bottom: 10px;display: block;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;color: #202020 !important;&#34;&gt;Fun&lt;/h1&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://www.pcgamer.com/how-magic-the-gathering-online-got-an-infinite-damage-combo-banned-in-two-days/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;How Magic: The Gathering Online got an infinite damage combo banned in two days&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//pcgamer&lt;/span&gt;&lt;br&gt;
+                                        Yes, it&#39;s under fun - infinite combos are crazy fun. I&#39;m dead serious (from infinite dmg)&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://www.techrepublic.com/article/google-deepmind-ai-tries-it-hand-at-creating-hearthstone-magic-the-gathering-cards/?ftag=COS-05-10aaa0g&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Google Deepmind AI tries it hand at creating Hearthstone and Magic: The Gathering cards&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//techrepublic&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://www.twitch.tv/directory/game/Eternal/clips&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Sometimes you just wanna die&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[clip]&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://clips.twitch.tv/TemperedHandsomeClipsmomSuperVinlin&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;My name is Swim and... clip it!&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[clip]&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://www.youtube.com/watch?v=_Vv23JJwGKY&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;TES:Legends rap ft. Orc&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;/td&gt;
+                                &lt;/tr&gt;
+
+                            &lt;/table&gt;
+
+                            &lt;div border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34;&gt;
+                            &lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;
+                    &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;
+                            &lt;p style=&#34;color: #A9A9A9;font-weight: bold;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;&#34;&gt;
+                                __DONE__
+                            &lt;/p&gt;
+                            &lt;div&gt;
+                                &lt;p style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;&#34;&gt;&lt;strong&gt;Can this be better?&lt;/strong&gt; Hit reply, I want to know what you think!&lt;/p&gt;
+                            &lt;/div&gt;
+                            &lt;p style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;&#34;&gt;
+                                Want more content for a game? Just &lt;a href=&#34;&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;select it in your preferences&lt;/a&gt;
+                            &lt;/p&gt;
+                            &lt;p style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;&#34;&gt;Not a subscriber? Join us at &lt;a href=&#34;https://wefightwithcards.com/&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;https://wefightwithcards.com/&lt;/a&gt;&lt;/p&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+
+                &lt;!-- // END BODY --&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td align=&#34;center&#34; valign=&#34;top&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;&#34;&gt;
+                &lt;!-- BEGIN FOOTER // --&gt;
+                &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templateFooter&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #F4F4F4;width: 100%;max-width: 600px;border-collapse: collapse !important;&#34;&gt;
+                    &lt;tr&gt;
+                        &lt;td valign=&#34;top&#34; class=&#34;footerContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #808080;font-family: Helvetica;font-size: 10px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;Stay in touch! You can &lt;a href=&#34;https://twitter.com/fightwithcards&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #606060;font-weight: normal;text-decoration: underline;&#34;&gt;Follow us on Twitter&lt;/a&gt;, or &lt;a href=&#34;https://www.facebook.com/wefightwithcards/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #606060;font-weight: normal;text-decoration: underline;&#34;&gt;Like us on Facebook&lt;/a&gt;.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td valign=&#34;top&#34; class=&#34;footerContent&#34; style=&#34;padding-top: 20px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #808080;font-family: Helvetica;font-size: 10px;line-height: 150%;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;
+                             
+                            &lt;br&gt;
+                            &lt;strong&gt;Our mailing address is:&lt;/strong&gt;
+                            &lt;br&gt;
+                             
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+
+                    &lt;tr&gt;
+                        &lt;td valign=&#34;top&#34; class=&#34;footerContent&#34; style=&#34;padding-top: 20px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #808080;font-family: Helvetica;font-size: 10px;line-height: 150%;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;You can &lt;a href=&#34;&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #606060;font-weight: normal;text-decoration: underline;&#34;&gt;unsubscribe&lt;/a&gt; or &lt;a href=&#34;&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #606060;font-weight: normal;text-decoration: underline;&#34;&gt;update &lt;/a&gt;&lt;a href=&#34;&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #606060;font-weight: normal;text-decoration: underline;&#34;&gt;your games&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+                &lt;!-- // END FOOTER --&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+    &lt;!-- // END TEMPLATE --&gt;
+
+
+
+&lt;/center&gt;
+&lt;div itemscope=&#34;&#34; itemtype=&#34;http://schema.org/EmailMessage&#34;&gt;
+    &lt;div itemprop=&#34;publisher&#34; itemscope=&#34;&#34; itemtype=&#34;http://schema.org/Organization&#34;&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;We fight with cards&#34;&gt;
+        &lt;meta itemprop=&#34;telephone&#34; content=&#34;(+40) 723-684192&#34;&gt;
+        &lt;link itemprop=&#34;url&#34; href=&#34;https://www.wefightwithcards.com&#34;&gt;
+        &lt;link itemprop=&#34;logo&#34; href=&#34;http://wefightwithcards.com/vlad.png/&#34;&gt;
+        &lt;link itemprop=&#34;url/googlePlus&#34; href=&#34;https://plus.google.com/+FightWithCards/&#34;&gt;
+        &lt;link itemprop=&#34;url/facebook&#34; href=&#34;https://www.facebook.com/wefightwithcards&#34;&gt;
+        &lt;link itemprop=&#34;url/twitter&#34; href=&#34;https://twitter.com/FightWithCards&#34;&gt;
+        &lt;div itemprop=&#34;address&#34; itemscope=&#34;&#34; itemtype=&#34;http://schema.org/PostalAddress&#34;&gt;
+            &lt;meta itemprop=&#34;streetAddress&#34; content=&#34;Ramnicu Valce 27&#34;&gt;
+            &lt;meta itemprop=&#34;addressLocality&#34; content=&#34;Bucharest&#34;&gt;
+            &lt;meta itemprop=&#34;addressRegion&#34; content=&#34;Bucharest&#34;&gt;
+            &lt;meta itemprop=&#34;postalCode&#34; content=&#34;031805&#34;&gt;
+            &lt;meta itemprop=&#34;addressCountry&#34; content=&#34;Romania&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Issue #5 - Pick your poison</title>
@@ -3285,7 +3893,7 @@
             &lt;h4&gt;What kind of content will I get?&lt;/h4&gt;
             &lt;p&gt;
                 &lt;a href=&#34;
-    http://wefightwithcards.com/archives/issue_5/
+    http://wefightwithcards.com/archives/issue_6/
 &#34;&gt;Take a peek at our latest issue!&lt;/a&gt;
             &lt;/p&gt;
             &lt;h4&gt;I selected 2 games. What will I see?&lt;/h4&gt;
@@ -3315,7 +3923,7 @@
 
             &lt;p&gt;The newsletter goes out every Saturday, so stay tuned!&lt;/p&gt;
             &lt;h1 class=&#34;mt-0&#34;&gt;&lt;a style=&#34;font-size: 18px&#34; href=&#34;
-    http://wefightwithcards.com/archives/issue_5/
+    http://wefightwithcards.com/archives/issue_6/
 &#34;&gt;See the latest issue now&lt;/a&gt;&lt;/h1&gt;
             &lt;p&gt;BTW, I want to hear your thoughts! Catch me on &lt;a href=&#34;http://twitter.com/FightWithCards&#34;&gt;Twitter @FightWithCards&lt;/a&gt;, or shoot me a line at vlad@wefightwithcards.com&lt;/p&gt;
         &lt;/div&gt;
