@@ -1,0 +1,55 @@
+{{ $.Scratch.Add "Ally" "A Unit on your side of the Board" }}
+{{ $.Scratch.Add "Ambush" "Play face down and only reveal when certain conditions are met" }}
+{{ $.Scratch.Add "Armor" "Absorbs a given amount of Damage dealt to a Unit" }}
+{{ $.Scratch.Add "Banish" "Remove the card from the game" }}
+{{ $.Scratch.Add "Bond" "Trigger this ability each time another copy of this Unit is played on the same side" }}
+{{ $.Scratch.Add "Boost" "Increase a Unit’s current Power" }}
+{{ $.Scratch.Add "Brave" "Trigger this ability if your opponent is winning the current round" }}
+{{ $.Scratch.Add "Clash" "Trigger this ability only if neither player has passed" }}
+{{ $.Scratch.Add "Consume" "Destroy a card (or Banish it, if it is in the Graveyard) and Boost the Consuming Unit by its Power" }}
+{{ $.Scratch.Add "Counter" "Reduce the counter whenever the given condition is met. When it reaches 0, trigger the Activation ability. Reset the Counter when the Unit leaves the Board" }}
+{{ $.Scratch.Add "Crewmen X" "When a Unit with a Fresh Crewmen ability is played adjacent to this Unit, trigger that ability X times" }}
+{{ $.Scratch.Add "Damage" "Decreese a Unit’s current power" }}
+{{ $.Scratch.Add "Deathwish" "Trigger thgis ability when the card is moved to the Graveyard" }}
+{{ $.Scratch.Add "Demote" "Convert the card to silver (or Bronze, if Bronze was the card’s original color)" }}
+{{ $.Scratch.Add "Deploy" "Trigger this ability when the card is played on the field" }}
+{{ $.Scratch.Add "Destroy" "Move the card to the Graveyard" }}
+{{ $.Scratch.Add "Discard" "Move the card to the Graveyard from the Hand or Deck" }}
+{{ $.Scratch.Add "Doomed" "Units: Banish when Destroyed; Special Cards: Banish after triggering the card’s ability" }}
+{{ $.Scratch.Add "Draw" "Move the top card of cards from your Deck to your Hand" }}
+{{ $.Scratch.Add "Effort" "Perform the specified action for every card targeted by the preceding ability" }}
+{{ $.Scratch.Add "Enemy" "A Unit on your opponent’s side of the field" }}
+{{ $.Scratch.Add "Fresh Crew" "Trigger this ability when this Unit is played adjacent to a Unit with a Crewmen ability" }}
+{{ $.Scratch.Add "Gamble" "Guess whether the top Bronze or Silver Unit in your opponent’s Deck is Higher or Lower than 5. The consequences of winning or losing your Gamble are written on the card" }}
+{{ $.Scratch.Add "Heal" "Restore a Damaged Unit to its base Power" }}
+{{ $.Scratch.Add "Highest" "The Unit with the highest Power. Ties are resolved randomly" }}
+{{ $.Scratch.Add "Lock" "Disable a card’s abilities. Disables and reveals Ambushes" }}
+{{ $.Scratch.Add "Lowest" "The Unit with the lowest Power. Ties are resolved randomly" }}
+{{ $.Scratch.Add "Mulligan" "Exchange a certain number of cards in your Hand for cards from your Deck including Golds (unless stated otherwise)" }}
+{{ $.Scratch.Add "Orders" "Triggers this ability when your Leader card is played (but before the Leader’s ability is resolved)" }}
+{{ $.Scratch.Add "Promote" "Convert the card to Gold" }}
+{{ $.Scratch.Add "Reload X" "When a Unit with a Reloaded ability is played adjacent to this Unit, trigger that ability X times" }}
+{{ $.Scratch.Add "Reloaded" "Trigger this ability when the Unit is played adjacent to Units with the Reload Ability" }}
+{{ $.Scratch.Add "Round End" "Trigger this ability when the Round ends" }}
+{{ $.Scratch.Add "Retaliation" "Trigger this ability whenever this Unit is Damaged, but not Destroyed." }}
+{{ $.Scratch.Add "Reset" "Reset the Unit to its base Power" }}
+{{ $.Scratch.Add "Resilient" "A Resilient unit stays on the battlefield for the next round." }}
+{{ $.Scratch.Add "Resistant" "A Resistant Unit is immune to the specified Weather effect" }}
+{{ $.Scratch.Add "Resurrect" "Play a card from the Graveyard" }}
+{{ $.Scratch.Add "Reveal" "Turn a card or cards in the Hand over, exposing them to both players" }}
+{{ $.Scratch.Add "Revealed" "A Revealed card has been turned over, exposing it to both players" }}
+{{ $.Scratch.Add "Shield" "Protects a Unit from the next Power-reducing effect" }}
+{{ $.Scratch.Add "Spawn" "Add the card to the game and play it" }}
+{{ $.Scratch.Add "Spying" "A Unit is Spying when it is on the opposite side of the Board from the player who played it" }}
+{{ $.Scratch.Add "Stubborn" "this card cannot return to the Hand" }}
+{{ $.Scratch.Add "Strenghthen" "Increase a Unit’s base Power" }}
+{{ $.Scratch.Add "Summon" "Play the specified cards from your Deck" }}
+{{ $.Scratch.Add "Timer" "Reduce the Timer by 1 every turn while this Unit is on the Board. Trigger the ability when it reaches 8 (at Turn Start or Turn End). Reset the Tmer when the Unit leaves the Board" }}
+{{ $.Scratch.Add "Transform" "Convert into a different card" }}
+{{ $.Scratch.Add "Trio" "Trigger this ability when 3 Unlocked copies of this Unit are present on the same row" }}
+{{ $.Scratch.Add "Turn Start" "This card’s ability triggers at the start of its current owner’s turn" }}
+{{ $.Scratch.Add "Veteran" "Trigger this ability at the start of Rounds 2 and 3 when this card is in the Hand, Deck or Graveyard" }}
+{{ $.Scratch.Add "Weaken" "Decrease a Unit’s base Power" }}
+
+{{ $name := .Get 0 }}
+<em class="game-keyword" data-toggle="tooltip" data-placement="top" title="{{ $.Scratch.Get $name }}">{{ lower $name }}</em>

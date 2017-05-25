@@ -47,6 +47,10 @@ h1 {
     letter-spacing: 0;
     margin-top: 1em;
 }
+h3 {
+    line-height: 44px;
+    margin-top: 44px;
+}
 h4 {
     margin-top: 2em;
 }
@@ -112,6 +116,7 @@ p.hero strong {
     }
     p.hero {
         font-size: 18px;
+        line-height: 24px;
     }
 
     nav .nav-icon {
@@ -188,6 +193,26 @@ p.hero strong {
     line-height: 1.25em;
 }
 
+.heading {
+    text-align: center;
+}
+
+@media (min-width: 576px) {
+    .heading {
+        min-height: 350px;
+        color: #fff;
+        vertical-align: text-bottom;
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: flex-end;
+        margin-bottom: 24px;
+    }
+
+    .heading h1 {
+        margin: 0;
+    }
+}
+
 @media (max-width: 575px) {
     .join-note {
         padding: 2px 5px;
@@ -199,12 +224,34 @@ p.hero strong {
     .heading {
         color: #fff;
         margin-top: -50px;
+        text-align: left;
+        background-size: 0 0;
     }
     .bleed-mobile {
         padding: 0;
     }
 }
 
+
+/* cards */
+.game-keyword {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    cursor: help;
+    text-transform: capitalize;
+}
+
+.game-card {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-transform: capitalize;
+}
+
+.popover {
+    background: transparent!important;
+    border: none;
+    width: auto;
+}
 
 
 .tether-element,.tether-element *,.tether-element :after,.tether-element :before,.tether-element:after,.tether-element:before{box-sizing:border-box}.tether-element{position:absolute;display:none}.tether-element.tether-open{display:block}

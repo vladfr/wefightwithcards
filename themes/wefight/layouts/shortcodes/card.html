@@ -1,0 +1,6 @@
+{{ $name := .Get 0}}
+<strong class="game-card" data-html="true" data-toggle="popover" data-placement="right"
+        data-content="<img src='/cards/{{ lower $name }}.png' width='306' height='378' />"
+>
+    {{ lower $name }}
+</strong>
