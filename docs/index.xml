@@ -4664,7 +4664,7 @@
 
 
 &lt;em class=&#34;game-keyword&#34; data-toggle=&#34;tooltip&#34; data-placement=&#34;top&#34; title=&#34;A Resilient unit stays on the battlefield for the next round.&#34;&gt;resilient&lt;/em&gt;
-            and will remain on the board. Then, you buff them with 
+            and will remain on the board on Rounds 2 and 3. Then, you buff the Defenders with 
 &lt;strong class=&#34;game-card&#34; data-html=&#34;true&#34; data-toggle=&#34;popover&#34; data-placement=&#34;right&#34;
         data-content=&#34;&lt;img src=&#39;http://wefightwithcards.com/cards/swallow potion.png&#39; width=&#39;306&#39; height=&#39;378&#39; /&gt;&#34;
 &gt;
@@ -4675,9 +4675,47 @@
         data-content=&#34;&lt;img src=&#39;http://wefightwithcards.com/cards/francesca.png&#39; width=&#39;306&#39; height=&#39;378&#39; /&gt;&#34;
 &gt;
     francesca
-&lt;/strong&gt; really helps here, because she allows you to mulligan for the cards you need.
-            Quite fun if you ask me!
+&lt;/strong&gt; really helps here, because she allows you to mulligan for buffs and other cards you need.
         &lt;/p&gt;
+
+        &lt;p&gt;Other cool buff combos are 
+&lt;strong class=&#34;game-card&#34; data-html=&#34;true&#34; data-toggle=&#34;popover&#34; data-placement=&#34;right&#34;
+        data-content=&#34;&lt;img src=&#39;http://wefightwithcards.com/cards/mahakam guard.png&#39; width=&#39;306&#39; height=&#39;378&#39; /&gt;&#34;
+&gt;
+    mahakam guard
+&lt;/strong&gt; with 
+&lt;strong class=&#34;game-card&#34; data-html=&#34;true&#34; data-toggle=&#34;popover&#34; data-placement=&#34;right&#34;
+        data-content=&#34;&lt;img src=&#39;http://wefightwithcards.com/cards/decoy.png&#39; width=&#39;306&#39; height=&#39;378&#39; /&gt;&#34;
+&gt;
+    decoy
+&lt;/strong&gt;, so you can buff twice, and 
+&lt;strong class=&#34;game-card&#34; data-html=&#34;true&#34; data-toggle=&#34;popover&#34; data-placement=&#34;right&#34;
+        data-content=&#34;&lt;img src=&#39;http://wefightwithcards.com/cards/barclay els.png&#39; width=&#39;306&#39; height=&#39;378&#39; /&gt;&#34;
+&gt;
+    barclay els
+&lt;/strong&gt;
+        to find your Dwarves.&lt;/p&gt;
+
+        &lt;h5&gt;Bad Weather?&lt;/h5&gt;
+
+        &lt;p&gt;
+            Sure, this strategy is pretty bad against weather decks. The AI doesn&#39;t play much removal, so generally your 
+&lt;strong class=&#34;game-card&#34; data-html=&#34;true&#34; data-toggle=&#34;popover&#34; data-placement=&#34;right&#34;
+        data-content=&#34;&lt;img src=&#39;http://wefightwithcards.com/cards/mahakam defender.png&#39; width=&#39;306&#39; height=&#39;378&#39; /&gt;&#34;
+&gt;
+    mahakam defender
+&lt;/strong&gt;s are safe.
+            But you&#39;ll run into trouble with the Monsters. The key to beating them is to forget the Defenders and just dig for 
+&lt;strong class=&#34;game-card&#34; data-html=&#34;true&#34; data-toggle=&#34;popover&#34; data-placement=&#34;right&#34;
+        data-content=&#34;&lt;img src=&#39;http://wefightwithcards.com/cards/first light.png&#39; width=&#39;306&#39; height=&#39;378&#39; /&gt;&#34;
+&gt;
+    first light
+&lt;/strong&gt;.
+            If you can keep the skies clear, your buffs should net you more points.
+        &lt;/p&gt;
+
+
+        &lt;h5&gt;I don&#39;t like elves&lt;/h5&gt;
 
         &lt;p&gt;
             Check the playlist below for videos on other starter decks to play, as well as tips &amp;amp; tricks!
