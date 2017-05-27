@@ -247,6 +247,11 @@ p.hero strong {
     text-transform: capitalize;
 }
 
+.gwent-card {
+    width:228px;
+    height:293px;
+}
+
 .popover {
     background: transparent!important;
     border: none;
