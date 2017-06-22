@@ -1,0 +1,24 @@
+{{- $pathURL := .Get "pathURL" -}}
+{{- $path := .Get "path" -}}
+{{- $files := readDir $path -}}
+
+<div class="col-lg-12 bleed-mobile">
+    <div class="fotorama"
+         data-width="100%"
+         data-ratio="1290/730"
+         data-nav="thumbs"
+         data-allowfullscreen="native"
+    >
+        {{- range $files }}
+            {{- $len := sub (.Name | len) 3 -}}
+            {{- $ext := substr .Name $len -}}
+
+            {{ if eq $ext "mp4" }}
+                <img src="{{ $pathURL }}{{ .Name | relURL }}" data-video="true" />
+            {{ else }}
+                <img src="{{ $pathURL }}{{ .Name | relURL }}" />
+            {{ end }}
+
+        {{- end }}
+    </div>
+</div>
