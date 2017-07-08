@@ -87,6 +87,12 @@
                         Eternal
                     &lt;/label&gt;
                 &lt;/div&gt;
+                &lt;div class=&#34;form-check&#34;&gt;
+                    &lt;label for=&#34;mce-group[27193]-27193-5&#34; class=&#34;form-check-label&#34;&gt;
+                        &lt;input class=&#34;form-check-input&#34; type=&#34;checkbox&#34; value=&#34;32&#34; name=&#34;group[27193][32]&#34; id=&#34;mce-group[27193]-27193-5&#34;&gt;
+                        Faeria
+                    &lt;/label&gt;
+                &lt;/div&gt;
             &lt;/div&gt;
         &lt;/div&gt;
         
@@ -100,7 +106,7 @@
             &lt;h4&gt;What kind of content will I get?&lt;/h4&gt;
             &lt;p&gt;
                 &lt;a href=&#34;
-    http://wefightwithcards.com/archives/issue_12/
+    http://wefightwithcards.com/archives/issue_13/
 &#34;&gt;Take a peek at our latest issue!&lt;/a&gt;
             &lt;/p&gt;
             &lt;h4&gt;I selected 2 games. What will I see?&lt;/h4&gt;
