@@ -1,8 +1,10 @@
 {{ partial "head.html" . }}
 {{ partial "header.html" . }}
 
-<div class="row main">
-    {{ .Content }}
+<div class="columns">
+    <div class="column">
+        {{ .Content }}
+    </div>
 </div>
 
 {{ partial "footer.html" . }}
