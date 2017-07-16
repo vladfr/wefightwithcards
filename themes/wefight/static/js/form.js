@@ -1,7 +1,11 @@
 (function($) {
+    var form = $('#mc-embedded-subscribe-form');
     var error = function(msg) {
         $('#mce-error-response').css('display', 'none').text('');
-        if (msg) $('#mce-error-response').css('display', 'block').html(msg);
+        if (msg) {
+            $('#mce-error-response').css('display', 'block').addClass('is-danger').html(msg);
+            form.find('input[type=email]').addClass('is-danger');
+        }
 
         state_reset();
 
@@ -47,8 +51,8 @@
             .addClass('btn-confirm')
             .text('Confirm');
 
-        $('#mce-success-response').css('display', 'block');
-        $.scrollTo($('#mce-success-response'), {duration: 350});
+        $('#mce-success-response').css('display', 'flex');
+        form.find('input[type=email]').removeClass('is-danger');
 
         ga('send', 'event', 'email', 'subscribe');
     };
@@ -57,6 +61,8 @@
         $('#mc-embedded-subscribe')
             .attr('disabled', true)
             .text('Sending...');
+
+        form.find('input[type=email]').addClass('is-primary');
     };
 
     $('#mc-embedded-subscribe-form').submit(function(e) {
