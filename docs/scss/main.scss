@@ -1,0 +1,40 @@
+@import 'variables';
+@import 'font-awesome/scss/font-awesome';
+@import 'bulma/bulma';
+@import 'overrides';
+
+.checkbox {
+  display: block;
+  margin-bottom: 15px;
+  padding-left: 30px;
+  cursor: default;
+
+  input {
+    opacity: 0;
+    z-index: -1;
+    position: absolute;
+    width: 0;
+    height: 0;
+
+    + label {
+      cursor: pointer;
+
+      &:before {
+        content: '';
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        background: $white-ter;
+        border: 1px solid $grey;
+        cursor: pointer;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+      }
+    }
+
+    &:checked + label:before {
+      background: $blue;
+    }
+  }
+}
