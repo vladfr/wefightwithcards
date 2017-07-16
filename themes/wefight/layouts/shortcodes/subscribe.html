@@ -1,17 +1,29 @@
-<div class="columns title-columns has-spacing-vertical">
-    <div class="column"></div>
-    <div class="column is-half is-fixed">
+{{ $input_class := "" }}
+
+{{ if .Get "games" }}
+    {{ $input_class := ""}}
+{{ else }}
+    {{ $input_class := "field main-email has-addons"}}
+{{ end }}
+
+<div class="columns is-centered title-columns has-spacing-vertical">
+    <div class="column is-fixed">
 
         <div class="has-text-centered">
-            <form action="//facebook.us9.list-manage.com/subscribe/post-json?u=a70281e2cd8892265f8028139&amp;id=909bf03ce6&c=?" method="get" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <form action="//facebook.us9.list-manage.com/subscribe/post-json?u=a70281e2cd8892265f8028139&amp;id=909bf03ce6&c=?" method="get" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-subscribe" target="_blank" novalidate>
 
-                <div class="field main-email">
+                <div class="field main-email {{ if not (.Get "games") }}has-addons{{end}}">
                     <p class="control has-icons-left">
                         <input class="input  required email" type="email" placeholder="Your email here *" name="EMAIL" id="mce-EMAIL">
                         <span class="icon  is-left">
                             <i class="fa fa-envelope"></i>
                         </span>
                     </p>
+                    {{ if not (.Get "games") }}
+                    <p class="control">
+                        <button type="submit" value="Subscribe" name="subscribe" class="button is-warning">JOIN!</button>
+                    </p>
+                    {{ end }}
                 </div>
 
                 <div class="help" role="alert" id="mce-error-response" style="display:none"></div>
@@ -28,7 +40,7 @@
 
 
                 {{ if .Get "gwent" }}
-                <input style="display: none" type="checkbox" value="2" name="group[27193][2]" checked="checked">
+                    <input style="display: none" type="checkbox" value="2" name="group[27193][2]" checked="checked">
                 {{ end }}
 
                 {{ if .Get "games" }}
@@ -89,11 +101,12 @@
                     </div>
                 </div>
                 </div>
-                {{ end }}
+
 
                 <div class="has-spacing-bottom">
-                    <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button is-warning">JOIN!</button>
+                    <button type="submit" value="Subscribe" name="subscribe" class="button is-warning">JOIN!</button>
                 </div>
+                {{ end }}
 
                 <p class="small text-dim has-text-centered">* Receive emails every week, no spam, easy to unsubscribe.<br/>You can always change your selected games</p>
 
@@ -104,7 +117,6 @@
         </div>
 
     </div>
-    <div class="column"></div>
 </div>
 
 

@@ -19,7 +19,7 @@ h6 {
 }
 
 .small {
-  font-size: $size-6;
+  font-size: $size-7;
 }
 .text-dim {
   color: $grey-light;
@@ -193,6 +193,11 @@ h6 {
   }
 }
 
+.columns .is-centered {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
 .column.is-fixed {
   &.is_half {
     flex: 0 0 50%;
@@ -246,4 +251,15 @@ h6 {
 
 .field-body.is-large {
   margin: 18px 0;
+}
+
+.form-subscribe {
+  .field-body .field:not(:last-child) {
+    margin-right: 2.75rem;
+  }
+  @media screen and (max-width: $tablet) {
+    .field-body {
+      max-width: 350px;
+    }
+  }
 }
