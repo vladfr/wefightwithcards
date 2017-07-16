@@ -203,6 +203,18 @@ h6 {
     flex: 0 0 50%;
   }
 }
+.column.is-left-nav {
+  text-align:right;
+
+  h1, h2 {
+    text-align:right;
+  }
+
+  @media all and (min-width: $desktop) {
+    padding-top: 130px;
+    border-right: 1px solid $grey-light;
+  }
+}
 
 .has-spacing-top {
   margin-top: $size-3;
@@ -262,4 +274,19 @@ h6 {
       max-width: 350px;
     }
   }
+}
+
+
+.join-note {
+  top: 0;
+  background: $primary;
+  padding: 10px;
+  margin: 0;
+  left: 0;
+  font-weight: $weight-bold;
+  color: $white;
+  width: 100%;
+  text-align: center;
+  z-index: 1000;
+  line-height: 1.85;
 }
