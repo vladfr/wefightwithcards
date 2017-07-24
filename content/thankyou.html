@@ -1,13 +1,31 @@
 +++
 title = "Thanks! We'll be in touch - We fight with cards"
 slug = "thankyou"
+chat = true
 +++
 
-<div class="col-lg-6 col-md-8" style="background: rgba(255,255,255,0.9)">
-    <h1>You are awesome!</h1>
+<section class="hero is-medium">
+    <div class="hero-body">
+        <div class="container">
 
-    <p class="hero">Thanks a bunch for signing up!</p>
-    <p>You'll need to confirm your email address. Just click on the link in the email you just received. This helps to keep spammers at bay!</p>
-    <p>Please bear with me as I build this. Expect the first issue at <strong>the beginning of April</strong>. </p>
+            <h1 class="title">Almost there.</h1>
+            <h2 class="subtitle">You just need to <strong>confirm your email address</strong>.</h2>
 
-</div>
+            <div class="content">
+                <p>You should receive an email shortly Just click on the link in the email you just received*. <em>This helps to stop spam!</em>
+                    <br>After that, you'll receive your first issue in the coming Monday.
+                </p>
+                <div class="content">
+                    <p class="small" style="">* <strong>No email?</strong> Use the panel and let's chat.</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<script>
+    drift.on('ready',function(api, payload) {
+        api.sidebar.open();
+    });
+</script>
