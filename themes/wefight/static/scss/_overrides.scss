@@ -179,6 +179,7 @@ h6 {
 
 .swoosh-text {
   position: relative;
+  word-break: keep-all;
 
   &:after {
     position: absolute;
