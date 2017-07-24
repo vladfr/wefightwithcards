@@ -54,6 +54,33 @@
     <script src="/js/fotorama.js"></script> 
 
     <script src="/js/nav.js"></script>
+
+    
+        
+<script>
+    !function() {
+        var t;
+        if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
+            t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
+            t.factory = function(e) {
+                return function() {
+                    var n;
+                    return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+                };
+            }, t.methods.forEach(function(e) {
+            t[e] = t.factory(e);
+        }), t.load = function(t) {
+            var e, n, o, i;
+            e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"),
+                o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js",
+                n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+        });
+    }();
+    drift.SNIPPET_VERSION = '0.3.1';
+    drift.load('9zatz4a2xaxp');
+</script>
+
+    
 </head>
 <body>
 
@@ -96,24 +123,26 @@
 
 <div class="columns">
     <div class="column">
-        <div class="col-lg-6 col-md-8" style="background: rgba(255,255,255,0.9)">
-    <h1>You are even more awesome!</h1>
+        <section class="hero is-medium">
+    <div class="hero-body">
+        <div class="container">
 
-    <div class="media ml-3 mt-5">
-        <img class="d-flex mr-3 rounded-circle" width="75" height="75" src="/vlad.png">
-        <div class="media-body">
-            <h5 class="mt-0">Got it! You are confirmed.</h5>
+            <h1 class="title">Got it! You are confirmed.</h1>
+            <h1 class="subtitle">The newsletter goes out every Monday &mdash; stay tuned for the next one.</h1>
 
-            <p>The newsletter goes out every Saturday, so stay tuned!</p>
-            <h1 class="mt-0"><a style="font-size: 18px" href="
+            <div class="content">
+                <a class="button is-primary" href="
     http://wefightwithcards.com/archives/issue_13/
-">See the latest issue now</a></h1>
-            <p>BTW, I want to hear your thoughts! Catch me on <a href="http://twitter.com/FightWithCards">Twitter @FightWithCards</a>, or shoot me a line at vlad@wefightwithcards.com</p>
+">See the latest issue now</a>
+            </div>
+
+            <div class="content">
+                <p>PS: I want to hear your thoughts! Catch me on twitter: <a href="http://twitter.com/FightWithCards">@FightWithCards</a>, or shoot me a line at vlad@wefightwithcards.com</p>
+            </div>
+
         </div>
     </div>
-
-</div>
-
+</section>
 
     </div>
 </div>

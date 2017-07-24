@@ -54,6 +54,33 @@
     <script src="/js/fotorama.js"></script> 
 
     <script src="/js/nav.js"></script>
+
+    
+        
+<script>
+    !function() {
+        var t;
+        if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
+            t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
+            t.factory = function(e) {
+                return function() {
+                    var n;
+                    return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+                };
+            }, t.methods.forEach(function(e) {
+            t[e] = t.factory(e);
+        }), t.load = function(t) {
+            var e, n, o, i;
+            e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"),
+                o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js",
+                n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+        });
+    }();
+    drift.SNIPPET_VERSION = '0.3.1';
+    drift.load('9zatz4a2xaxp');
+</script>
+
+    
 </head>
 <body>
 
@@ -96,15 +123,31 @@
 
 <div class="columns">
     <div class="column">
-        <div class="col-lg-6 col-md-8" style="background: rgba(255,255,255,0.9)">
-    <h1>You are awesome!</h1>
+        <section class="hero is-medium">
+    <div class="hero-body">
+        <div class="container">
 
-    <p class="hero">Thanks a bunch for signing up!</p>
-    <p>You'll need to confirm your email address. Just click on the link in the email you just received. This helps to keep spammers at bay!</p>
-    <p>Please bear with me as I build this. Expect the first issue at <strong>the beginning of April</strong>. </p>
+            <h1 class="title">Almost there.</h1>
+            <h2 class="subtitle">You just need to <strong>confirm your email address</strong>.</h2>
 
-</div>
+            <div class="content">
+                <p>You should receive an email shortly Just click on the link in the email you just received*. <em>This helps to stop spam!</em>
+                    <br>After that, you'll receive your first issue in the coming Monday.
+                </p>
+                <div class="content">
+                    <p class="small" style="">* <strong>No email?</strong> Use the panel and let's chat.</p>
+                </div>
+            </div>
 
+        </div>
+    </div>
+</section>
+
+<script>
+    drift.on('ready',function(api, payload) {
+        api.sidebar.open();
+    });
+</script>
     </div>
 </div>
 
