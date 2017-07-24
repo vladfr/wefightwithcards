@@ -1,19 +1,20 @@
 {{ partial "head.html" . }}
 {{ partial "header.html" . }}
 
-<div class="columns is-centered">
-    <div class="column">
-        <h1 id="title">{{ .Title }}</h1>
+<div class="container">
 
-        {{ range .Data.Pages }}
+    <div class="hero">
+        <div class="hero-body">
+            <h1 class="title" id="title">{{ .Title }}</h1>
 
-        <h4>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </h4>
-        <p>{{ .Description }}</p>
+            {{ range .Data.Pages }}
+                <div class="content">
+                <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                <p>{{ .Description }}</p>
+                </div>
+            {{ end }}
 
-        {{ end }}
-
+        </div>
     </div>
 </div>
 
