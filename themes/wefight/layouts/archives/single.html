@@ -1,11 +1,27 @@
 {{ partial "head.html" . }}
 
-<div class="join-note">Join your fellow card-slingers! <a href="/" class="btn btn-link" id="subscribe-btn">Subscribe now</a></div>
+<div class="join-note">
+    <label class="is-small">Join your fellow card-slingers!</label>
+    <a href="/" class="button is-small is-primary is-inverted is-outlined" id="subscribe-btn">Subscribe now</a>
+</div>
 
 {{ partial "header.html" . }}
 
-<div class="row main">
-    {{ .Content }}
+<div class="columns is-centered has-spacing-vertical">
+    <div class="column is-narrow is-left-nav">
+        <h2>{{ .Title }}</h2>
+        <p>{{ .Date.Format "Jan _2 2006" }}</p>
+        <a href="/archives" class="button is-outline is-small has-spacing-top">
+             <span class="icon is-small">
+                 <i class="fa fa-arrow-circle-left"></i>
+             </span>
+            <span>all issues</span>
+        </a>
+    </div>
+    <div class="column">
+        {{ .Content }}
+    </div>
+
 </div>
 
 {{ partial "footer.html" . }}

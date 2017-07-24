@@ -44,56 +44,77 @@
         ga('send', 'pageview');
 
     </script>
-    
-    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700" rel="stylesheet">
-    <link rel="stylesheet" href="/css/bootstrap.min.css">
-
-    
-    <link href="/css/style.css" rel="stylesheet">
+    <link href="/css/main.css" rel="stylesheet">
 
     <script src="/js/jquery-3.2.0.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
     <script src="/js/bioep.min.js"></script>
 
     
     <link  href="/css/fotorama.css" rel="stylesheet"> 
     <script src="/js/fotorama.js"></script> 
 
+    <script src="/js/nav.js"></script>
 
+    
 </head>
 
-<div class="join-note">Join your fellow card-slingers! <a href="/" class="btn btn-link" id="subscribe-btn">Subscribe now</a></div>
+<div class="join-note">
+    <label class="is-small">Join your fellow card-slingers!</label>
+    <a href="/" class="button is-small is-primary is-inverted is-outlined" id="subscribe-btn">Subscribe now</a>
+</div>
 
 <body>
 
-<div class="container-fluid">
-    <div class="row main">
-        <div class="col-12">
-            <nav class="navbar navbar-toggleable-sm navbar-light">
-                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <a class="navbar-brand" href="/">
-                    <img src="/images/new_icon.png" width="64" height="64" lass="d-inline-block align-top" alt="we fight with cards" />
-                    <b>We fight with cards</b>
-                </a>
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a class="nav-link" href="/about">about</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/archives">past issues</a>
-                        </li>
-                    </ul>
-                </div>
-            </nav>
+<nav class="navbar ">
+    <div class="navbar-brand">
+        <a class="navbar-item navbar-logo" href="/">
+            <img src="/images/new_icon.svg" alt="We fight with cards" width="75">
+            we fight with cards
+        </a>
+
+        <a class="navbar-item is-hidden-desktop" href="https://twitter.com/FightWithCards" target="_blank">
+            <span class="icon" style="color: #55acee;">
+                <i class="fa fa-twitter"></i>
+            </span>
+        </a>
+
+        <div class="navbar-burger burger" data-target="navMenuExample">
+            <span></span>
+            <span></span>
+            <span></span>
         </div>
     </div>
 
+    <div id="navMenuExample" class="navbar-menu">
+        <div class="navbar-end">
+            <a class="navbar-item" href="https://twitter.com/FightWithCards" target="_blank">
+                Twitter
+            </a>
+            <a class="navbar-item" href="https://twitter.com/FightWithCards">
+                Articles
+            </a>
+            <a class="navbar-item" href="/archives/latest">
+                <i class="fa fa-custom"><img src="/images/arrow.svg" /></i>
+                Latest issue
+            </a>
+        </div>
+    </div>
+</nav>
 
-<div class="row main">
-    <style type="text/css">
+
+<div class="columns is-centered has-spacing-vertical">
+    <div class="column is-narrow is-left-nav">
+        <h2>Issue #5 - Pick your poison</h2>
+        <p>Apr 29 2017</p>
+        <a href="/archives" class="button is-outline is-small has-spacing-top">
+             <span class="icon is-small">
+                 <i class="fa fa-arrow-circle-left"></i>
+             </span>
+            <span>all issues</span>
+        </a>
+    </div>
+    <div class="column">
+        <style type="text/css">
     #outlook a{
         padding:0;
     }
@@ -722,15 +743,18 @@
         </div>
     </div>
 </div>
-</div>
-
-<div class="footer col-12 text-center my-5">
-    <p class="small">Made with <span class="red">&hearts;</span> by <a href="https://twitter.com/vladfr">Vlad Frățilă</a> in Bucharest.</p>
-<a rel="me" href="https://twitter.com/fightwithcards" class="twitter-follow-button" data-show-count="false">Follow @fightwithcards</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-    <p class="small grey">some images by Daniel Solis, Imogen Oh, Made by Made from <a href="https://thenounproject.com">the Noun Project</a></p>
-</div>
+    </div>
 
 </div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="content has-text-centered">
+            <p class="small">Made with <span class="red">&hearts;</span> by <a href="https://twitter.com/vladfr">Vlad Frățilă</a> in Bucharest.</p>
+            <a rel="me" href="https://twitter.com/fightwithcards" class="twitter-follow-button" data-show-count="false">Follow @fightwithcards</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+    </div>
+</footer>
 
 <script src="/js/form.js"></script>
 <script>
@@ -746,5 +770,4 @@
 </script>
 
 </body>
-
 </html>

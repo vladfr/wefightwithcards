@@ -1,7 +1,12 @@
 (function($) {
+    var form = $('#mc-embedded-subscribe-form');
+    var submitBtn = form.find('button[type=submit]');
     var error = function(msg) {
         $('#mce-error-response').css('display', 'none').text('');
-        if (msg) $('#mce-error-response').css('display', 'block').html(msg);
+        if (msg) {
+            $('#mce-error-response').css('display', 'block').addClass('is-danger').html(msg);
+            form.find('input[type=email]').addClass('is-danger');
+        }
 
         state_reset();
 
@@ -25,7 +30,7 @@
         })
             .done(function(data) {
                 if (data.result != "success") {
-                    $('#mc-embedded-subscribe').attr('disabled', false);
+                    submitBtn.attr('disabled', false);
                     error(data.msg);
                 } else {
                     state_done();
@@ -37,26 +42,29 @@
     }
 
     var state_reset = function () {
-        $('#mc-embedded-subscribe')
+        submitBtn
             .attr('disabled', false)
-            .text('Subscribe');
+            .removeClass('is-loading')
+            .text('JOIN!');
     };
     var state_done = function () {
-        $('#mc-embedded-subscribe')
+        submitBtn
             .attr('disabled', true)
-            .addClass('btn-confirm')
-            .text('Confirm');
+            .removeClass('is-loading')
+            .text('CONFIRM');
 
-        $('#mce-success-response').css('display', 'block');
-        $.scrollTo($('#mce-success-response'), {duration: 350});
+        $('#mce-success-response').css('display', 'flex');
+        form.find('input[type=email]').removeClass('is-danger');
 
         ga('send', 'event', 'email', 'subscribe');
     };
 
     var state_sending = function() {
-        $('#mc-embedded-subscribe')
+        submitBtn
             .attr('disabled', true)
-            .text('Sending...');
+            .addClass('is-loading');
+
+        form.find('input[type=email]').addClass('is-primary');
     };
 
     $('#mc-embedded-subscribe-form').submit(function(e) {

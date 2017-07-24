@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="72px" height="73px" viewBox="0 0 72 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>new_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-55.000000, -40.000000)">
+            <g id="new_icon" transform="translate(43.970609, 29.196324)">
+                <g id="Group-2" transform="translate(47.396458, 47.329850) rotate(-25.000000) translate(-47.396458, -47.329850) translate(13.896458, 10.829850)" stroke="#4EAB6E" stroke-width="2" fill="#FFFFFF">
+                    <rect id="Rectangle-3" transform="translate(33.249492, 36.354645) rotate(-17.000000) translate(-33.249492, -36.354645) " x="9.8582664" y="7.28460699" width="46.7824505" height="58.1400754" rx="5"></rect>
+                    <rect id="Rectangle-3" transform="translate(33.249492, 36.354645) rotate(-352.000000) translate(-33.249492, -36.354645) " x="9.8582664" y="7.28460699" width="46.7824505" height="58.1400754" rx="5"></rect>
+                    <rect id="Rectangle-3" transform="translate(33.249492, 36.354645) rotate(-336.000000) translate(-33.249492, -36.354645) " x="9.8582664" y="7.28460699" width="46.7824505" height="58.1400754" rx="5"></rect>
+                </g>
+                <path d="M59.8458756,43.2428575 C59.9160875,43.6550201 61.5112253,53.4019459 56.7865356,58.9995399 C54.6854928,61.4884559 51.6625871,62.7507514 47.8009342,62.7507514 C44.8949218,62.7507514 39.5918382,62.1347846 36.729471,58.0116399 C34.128216,54.2642236 34.2177836,48.5907249 36.9951375,41.1486461 L37.7431786,39.1447614 L38.0247851,41.2651599 C38.2323846,42.8299358 38.5196839,44.5252678 38.8122967,45.8847215 C39.1181927,43.5225664 40.1854131,40.2761213 43.4690516,37.8035249 C47.6172448,34.6796659 46.3974559,30.3834584 46.3845521,30.3401927 L45.8646047,28.593625 L47.2449321,29.7834316 C47.7011195,30.176618 57.2909225,38.5511864 56.3295892,46.0847304 L59.6515595,42.1012504 L59.8458756,43.2428575 Z" id="Shape" fill="#4EAB6E" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

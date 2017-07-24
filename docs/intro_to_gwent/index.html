@@ -47,53 +47,61 @@
         ga('send', 'pageview');
 
     </script>
-    
-    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700" rel="stylesheet">
-    <link rel="stylesheet" href="/css/bootstrap.min.css">
-
-    
-    <link href="/css/style.css" rel="stylesheet">
+    <link href="/css/main.css" rel="stylesheet">
 
     <script src="/js/jquery-3.2.0.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
     <script src="/js/bioep.min.js"></script>
 
     
     <link  href="/css/fotorama.css" rel="stylesheet"> 
     <script src="/js/fotorama.js"></script> 
 
+    <script src="/js/nav.js"></script>
 
+    
 </head>
 <body>
 
-<div class="container-fluid">
-    <div class="row main">
-        <div class="col-12">
-            <nav class="navbar navbar-toggleable-sm navbar-light">
-                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <a class="navbar-brand" href="/">
-                    <img src="/images/new_icon.png" width="64" height="64" lass="d-inline-block align-top" alt="we fight with cards" />
-                    <b>We fight with cards</b>
-                </a>
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a class="nav-link" href="/about">about</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/archives">past issues</a>
-                        </li>
-                    </ul>
-                </div>
-            </nav>
+<nav class="navbar ">
+    <div class="navbar-brand">
+        <a class="navbar-item navbar-logo" href="/">
+            <img src="/images/new_icon.svg" alt="We fight with cards" width="75">
+            we fight with cards
+        </a>
+
+        <a class="navbar-item is-hidden-desktop" href="https://twitter.com/FightWithCards" target="_blank">
+            <span class="icon" style="color: #55acee;">
+                <i class="fa fa-twitter"></i>
+            </span>
+        </a>
+
+        <div class="navbar-burger burger" data-target="navMenuExample">
+            <span></span>
+            <span></span>
+            <span></span>
         </div>
     </div>
 
+    <div id="navMenuExample" class="navbar-menu">
+        <div class="navbar-end">
+            <a class="navbar-item" href="https://twitter.com/FightWithCards" target="_blank">
+                Twitter
+            </a>
+            <a class="navbar-item" href="https://twitter.com/FightWithCards">
+                Articles
+            </a>
+            <a class="navbar-item" href="/archives/latest">
+                <i class="fa fa-custom"><img src="/images/arrow.svg" /></i>
+                Latest issue
+            </a>
+        </div>
+    </div>
+</nav>
 
-<div class="row main">
-    <div class="row bleed-mobile" style="background: #fff; background: rgba(255,255,255,0.95); width: 650px;">
+
+<div class="columns">
+    <div class="column">
+        <div class="row bleed-mobile" style="background: #fff; background: rgba(255,255,255,0.95); width: 650px;">
     <div class="col-sm-12 bleed-mobile img-responsive hidden-sm-up">
         <img class="img-fluid" src="/images/gwent-mobile.png" />
     </div>
@@ -287,58 +295,78 @@
 
         <h3>Stay tuned for more</h3>
         <p>Be sure to subscribe to the newsletter to get weekly fun stuff on Gwent &amp; other card games!</p>
-        <div class="form email-box mx-auto">
-    <form action="//facebook.us9.list-manage.com/subscribe/post-json?u=a70281e2cd8892265f8028139&amp;id=909bf03ce6&c=?" method="get" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        
 
-        <div class="form-group form-inline justify-content-center">
-            <label class="mr-2" for="mce-EMAIL"></label>
-            <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="Your email address">
-            <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success">Join us!</button>
-        </div>
 
-        <div class="form-group ml-lg-5">
-            <div id="mce-responses" class="mb-2">
-                <div class="alert alert-danger" role="alert" id="mce-error-response" style="display:none"></div>
-            </div>
+    
 
-            
-            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a70281e2cd8892265f8028139_909bf03ce6" tabindex="-1" value=""></div>
 
-        </div>
-        <p class="small text-dim text-center">One email per week. No spam and it's easy to unsubscribe</p>
-        <div class="alert alert-success" role="alert" id="mce-success-response" style="display: none">
-            <div class="media ml-3 mt-5">
-                <img class="d-flex mr-3 rounded-circle" width="75" height="75" src="/vlad.png">
-                <div class="media-body">
-                    <h5 class="mt-0">You are awesome!</h5>
-                    <p>Thanks for joining us! You'll receive an email shortly &mdash; please click the link inside to confirm. </p>
-                    <p>You'll get the newsletter on Saturdays. I'd love to get your feedback, so be sure to stay in touch: <a href="https://twitter.com/fightwithcards">@fightwithcards on Twitter</a></p>
+<div class="columns is-centered title-columns has-spacing-vertical">
+    <div class="column is-fixed">
+
+        <div class="has-text-centered">
+            <form action="//facebook.us9.list-manage.com/subscribe/post-json?u=a70281e2cd8892265f8028139&amp;id=909bf03ce6&c=?" method="get" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-subscribe" target="_blank" novalidate>
+
+                <div class="field main-email has-addons">
+                    <p class="control has-icons-left">
+                        <input class="input  required email" type="email" placeholder="Your email here *" name="EMAIL" id="mce-EMAIL">
+                        <span class="icon  is-left">
+                            <i class="fa fa-envelope"></i>
+                        </span>
+                    </p>
+                    
+                    <p class="control">
+                        <button type="submit" value="Subscribe" name="subscribe" class="button is-warning">JOIN!</button>
+                    </p>
+                    
                 </div>
-            </div>
 
+                <div class="help" role="alert" id="mce-error-response" style="display:none"></div>
+
+                <div role="alert" class="box media" id="mce-success-response" style="display:none">
+                    <div class="media-left">
+                        <img class="" width="75" height="75" src="/vlad.png">
+                    </div>
+                    <div class="media-content">
+                        <p>Thanks for joining us! You'll receive an email shortly &mdash; please click the link inside to confirm. </p>
+                        <p>You'll get the newsletter on Mondays. Until then, <a href="https://twitter.com/fightwithcards">stay in touch on Twitter!</a></p>
+                    </div>
+                </div>
+
+
+                
+                    <input style="display: none" type="checkbox" value="2" name="group[27193][2]" checked="checked">
+                
+
+                
+
+                <p class="small text-dim has-text-centered">* Receive emails every week, no spam, easy to unsubscribe.<br/>You can always change your selected games</p>
+
+
+                
+                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a70281e2cd8892265f8028139_909bf03ce6" tabindex="-1" value=""></div>
+            </form>
         </div>
 
-
-        
-            <input style="display: none" type="checkbox" value="2" name="group[27193][2]" checked="checked">
-        
-
-        
-
-    </form>
-</div>
     </div>
 </div>
 
+
+
+    </div>
 </div>
 
-<div class="footer col-12 text-center my-5">
-    <p class="small">Made with <span class="red">&hearts;</span> by <a href="https://twitter.com/vladfr">Vlad Frățilă</a> in Bucharest.</p>
-<a rel="me" href="https://twitter.com/fightwithcards" class="twitter-follow-button" data-show-count="false">Follow @fightwithcards</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-    <p class="small grey">some images by Daniel Solis, Imogen Oh, Made by Made from <a href="https://thenounproject.com">the Noun Project</a></p>
+    </div>
 </div>
 
-</div>
+<footer class="footer">
+    <div class="container">
+        <div class="content has-text-centered">
+            <p class="small">Made with <span class="red">&hearts;</span> by <a href="https://twitter.com/vladfr">Vlad Frățilă</a> in Bucharest.</p>
+            <a rel="me" href="https://twitter.com/fightwithcards" class="twitter-follow-button" data-show-count="false">Follow @fightwithcards</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+    </div>
+</footer>
 
 <script src="/js/form.js"></script>
 <script>
@@ -354,5 +382,4 @@
 </script>
 
 </body>
-
 </html>

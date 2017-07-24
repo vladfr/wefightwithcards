@@ -44,70 +44,121 @@
         ga('send', 'pageview');
 
     </script>
-    
-    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700" rel="stylesheet">
-    <link rel="stylesheet" href="/css/bootstrap.min.css">
-
-    
-    <link href="/css/style.css" rel="stylesheet">
+    <link href="/css/main.css" rel="stylesheet">
 
     <script src="/js/jquery-3.2.0.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
     <script src="/js/bioep.min.js"></script>
 
     
     <link  href="/css/fotorama.css" rel="stylesheet"> 
     <script src="/js/fotorama.js"></script> 
 
+    <script src="/js/nav.js"></script>
 
+    
+        
+<script>
+    !function() {
+        var t;
+        if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
+            t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
+            t.factory = function(e) {
+                return function() {
+                    var n;
+                    return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+                };
+            }, t.methods.forEach(function(e) {
+            t[e] = t.factory(e);
+        }), t.load = function(t) {
+            var e, n, o, i;
+            e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"),
+                o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js",
+                n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+        });
+    }();
+    drift.SNIPPET_VERSION = '0.3.1';
+    drift.load('9zatz4a2xaxp');
+</script>
+
+    
 </head>
 <body>
 
-<div class="container-fluid">
-    <div class="row main">
-        <div class="col-12">
-            <nav class="navbar navbar-toggleable-sm navbar-light">
-                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <a class="navbar-brand" href="/">
-                    <img src="/images/new_icon.png" width="64" height="64" lass="d-inline-block align-top" alt="we fight with cards" />
-                    <b>We fight with cards</b>
-                </a>
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a class="nav-link" href="/about">about</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/archives">past issues</a>
-                        </li>
-                    </ul>
-                </div>
-            </nav>
+<nav class="navbar ">
+    <div class="navbar-brand">
+        <a class="navbar-item navbar-logo" href="/">
+            <img src="/images/new_icon.svg" alt="We fight with cards" width="75">
+            we fight with cards
+        </a>
+
+        <a class="navbar-item is-hidden-desktop" href="https://twitter.com/FightWithCards" target="_blank">
+            <span class="icon" style="color: #55acee;">
+                <i class="fa fa-twitter"></i>
+            </span>
+        </a>
+
+        <div class="navbar-burger burger" data-target="navMenuExample">
+            <span></span>
+            <span></span>
+            <span></span>
         </div>
     </div>
 
+    <div id="navMenuExample" class="navbar-menu">
+        <div class="navbar-end">
+            <a class="navbar-item" href="https://twitter.com/FightWithCards" target="_blank">
+                Twitter
+            </a>
+            <a class="navbar-item" href="https://twitter.com/FightWithCards">
+                Articles
+            </a>
+            <a class="navbar-item" href="/archives/latest">
+                <i class="fa fa-custom"><img src="/images/arrow.svg" /></i>
+                Latest issue
+            </a>
+        </div>
+    </div>
+</nav>
 
-<div class="row main">
-    <div class="col-lg-6 col-md-8" style="background: rgba(255,255,255,0.9)">
-    <h1>You are awesome!</h1>
 
-    <p class="hero">Thanks a bunch for signing up!</p>
-    <p>You'll need to confirm your email address. Just click on the link in the email you just received. This helps to keep spammers at bay!</p>
-    <p>Please bear with me as I build this. Expect the first issue at <strong>the beginning of April</strong>. </p>
+<div class="columns">
+    <div class="column">
+        <section class="hero is-medium">
+    <div class="hero-body">
+        <div class="container">
 
+            <h1 class="title">Almost there.</h1>
+            <h2 class="subtitle">You just need to <strong>confirm your email address</strong>.</h2>
+
+            <div class="content">
+                <p>You should receive an email shortly Just click on the link in the email you just received*. <em>This helps to stop spam!</em>
+                    <br>After that, you'll receive your first issue in the coming Monday.
+                </p>
+                <div class="content">
+                    <p class="small" style="">* <strong>No email?</strong> Use the panel and let's chat.</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<script>
+    drift.on('ready',function(api, payload) {
+        api.sidebar.open();
+    });
+</script>
+    </div>
 </div>
 
-</div>
-
-<div class="footer col-12 text-center my-5">
-    <p class="small">Made with <span class="red">&hearts;</span> by <a href="https://twitter.com/vladfr">Vlad Frățilă</a> in Bucharest.</p>
-<a rel="me" href="https://twitter.com/fightwithcards" class="twitter-follow-button" data-show-count="false">Follow @fightwithcards</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-    <p class="small grey">some images by Daniel Solis, Imogen Oh, Made by Made from <a href="https://thenounproject.com">the Noun Project</a></p>
-</div>
-
-</div>
+<footer class="footer">
+    <div class="container">
+        <div class="content has-text-centered">
+            <p class="small">Made with <span class="red">&hearts;</span> by <a href="https://twitter.com/vladfr">Vlad Frățilă</a> in Bucharest.</p>
+            <a rel="me" href="https://twitter.com/fightwithcards" class="twitter-follow-button" data-show-count="false">Follow @fightwithcards</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+    </div>
+</footer>
 
 <script src="/js/form.js"></script>
 <script>
@@ -123,5 +174,4 @@
 </script>
 
 </body>
-
 </html>

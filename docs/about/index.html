@@ -44,53 +44,61 @@
         ga('send', 'pageview');
 
     </script>
-    
-    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700" rel="stylesheet">
-    <link rel="stylesheet" href="/css/bootstrap.min.css">
-
-    
-    <link href="/css/style.css" rel="stylesheet">
+    <link href="/css/main.css" rel="stylesheet">
 
     <script src="/js/jquery-3.2.0.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
     <script src="/js/bioep.min.js"></script>
 
     
     <link  href="/css/fotorama.css" rel="stylesheet"> 
     <script src="/js/fotorama.js"></script> 
 
+    <script src="/js/nav.js"></script>
 
+    
 </head>
 <body>
 
-<div class="container-fluid">
-    <div class="row main">
-        <div class="col-12">
-            <nav class="navbar navbar-toggleable-sm navbar-light">
-                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <a class="navbar-brand" href="/">
-                    <img src="/images/new_icon.png" width="64" height="64" lass="d-inline-block align-top" alt="we fight with cards" />
-                    <b>We fight with cards</b>
-                </a>
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a class="nav-link" href="/about">about</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/archives">past issues</a>
-                        </li>
-                    </ul>
-                </div>
-            </nav>
+<nav class="navbar ">
+    <div class="navbar-brand">
+        <a class="navbar-item navbar-logo" href="/">
+            <img src="/images/new_icon.svg" alt="We fight with cards" width="75">
+            we fight with cards
+        </a>
+
+        <a class="navbar-item is-hidden-desktop" href="https://twitter.com/FightWithCards" target="_blank">
+            <span class="icon" style="color: #55acee;">
+                <i class="fa fa-twitter"></i>
+            </span>
+        </a>
+
+        <div class="navbar-burger burger" data-target="navMenuExample">
+            <span></span>
+            <span></span>
+            <span></span>
         </div>
     </div>
 
+    <div id="navMenuExample" class="navbar-menu">
+        <div class="navbar-end">
+            <a class="navbar-item" href="https://twitter.com/FightWithCards" target="_blank">
+                Twitter
+            </a>
+            <a class="navbar-item" href="https://twitter.com/FightWithCards">
+                Articles
+            </a>
+            <a class="navbar-item" href="/archives/latest">
+                <i class="fa fa-custom"><img src="/images/arrow.svg" /></i>
+                Latest issue
+            </a>
+        </div>
+    </div>
+</nav>
 
-<div class="row main">
-    <div class="col-lg-8 col-md-12" style="background: rgba(255,255,255,0.9)">
+
+<div class="columns">
+    <div class="column">
+        <div class="col-lg-8 col-md-12" style="background: rgba(255,255,255,0.9)">
     <h3>About</h3>
 
     <p>Hello! I'm <a href="https://twitter.com/vladfr">Vlad</a>, nice to meet you!</p>
@@ -119,15 +127,17 @@
 
 </div>
 
+    </div>
 </div>
 
-<div class="footer col-12 text-center my-5">
-    <p class="small">Made with <span class="red">&hearts;</span> by <a href="https://twitter.com/vladfr">Vlad Frățilă</a> in Bucharest.</p>
-<a rel="me" href="https://twitter.com/fightwithcards" class="twitter-follow-button" data-show-count="false">Follow @fightwithcards</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-    <p class="small grey">some images by Daniel Solis, Imogen Oh, Made by Made from <a href="https://thenounproject.com">the Noun Project</a></p>
-</div>
-
-</div>
+<footer class="footer">
+    <div class="container">
+        <div class="content has-text-centered">
+            <p class="small">Made with <span class="red">&hearts;</span> by <a href="https://twitter.com/vladfr">Vlad Frățilă</a> in Bucharest.</p>
+            <a rel="me" href="https://twitter.com/fightwithcards" class="twitter-follow-button" data-show-count="false">Follow @fightwithcards</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+    </div>
+</footer>
 
 <script src="/js/form.js"></script>
 <script>
@@ -143,5 +153,4 @@
 </script>
 
 </body>
-
 </html>
