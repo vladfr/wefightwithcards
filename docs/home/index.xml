@@ -134,7 +134,61 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;img src=&#34;http://wefightwithcards.com/images/text.svg&#34; /&gt;
+&lt;div class=&#34;leanbox green columns&#34;&gt;
+    &lt;div class=&#34;column is-6-desktop is-12-tablet&#34;&gt;
+        &lt;h4 class=&#34;is-5 title&#34;&gt;What&#39;s inside?&lt;/h4&gt;
+        &lt;p&gt;
+            Keep track of all your favourite games, with strategy &amp; decks, videos with top players, interviews, news &amp; announcements.
+        &lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;column is-6-desktop is-12-tablet is-grouped-right&#34; style=&#34;text-align: right&#34;&gt;
+        &lt;a class=&#34;button is-primary is-inverted is-outlined&#34; href=&#34;http://wefightwithcards.com/archives/latest&#34;&gt;
+            &lt;span&gt;See the latest issue&lt;/span&gt;
+            &lt;span class=&#34;icon&#34;&gt;
+                &lt;i class=&#34;fa fa-arrow-right&#34;&gt;&lt;/i&gt;
+            &lt;/span&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;columns elevated&#34;&gt;
+    &lt;div class=&#34;column leanbox yellow is-7-desktop is-12-tablet&#34;&gt;
+        &lt;div class=&#34;content&#34;&gt;
+            &lt;h4 class=&#34;is-5 title&#34;&gt;Awesome plays&lt;/h4&gt;
+            &lt;p&gt;
+                Watch favourite Twitch moments, crazy RNGs, epic wins &amp; biggest misplays.
+            &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;column leanbox red is-7-desktop is-12-tablet&#34;&gt;
+        &lt;div class=&#34;content&#34;&gt;
+            &lt;h4 class=&#34;is-5 title&#34;&gt;Discover new games&lt;/h4&gt;
+            &lt;p&gt;
+                Every issue features a variety of upcoming card &amp; board games for PC, mobile and in physical form.
+            &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;columns leanbox blue&#34;&gt;
+    &lt;div class=&#34;column is-7-desktop is-5-fullhd is-12-tablet&#34;&gt;
+        &lt;div class=&#34;columns&#34;&gt;
+            &lt;div class=&#34;column is-narrow&#34;&gt;
+                &lt;img src=&#34;http://wefightwithcards.com/images/lock.svg&#34; class=&#34;lock-icon&#34; /&gt;
+            &lt;/div&gt;
+
+            &lt;div class=&#34;column&#34;&gt;
+                &lt;h4 class=&#34;is-5 title&#34;&gt;Beta keys &amp; exclusive content&lt;/h4&gt;
+                &lt;p&gt;
+                    Get early access to upcoming games and exclusive art, content &amp; promos.
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     

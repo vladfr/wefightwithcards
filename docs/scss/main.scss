@@ -1,7 +1,10 @@
-@import 'variables';
 @import 'font-awesome/scss/font-awesome';
+
+@import 'variables';
 @import 'bulma/bulma';
 @import 'overrides';
+
+@import "leanbox";
 
 .checkbox {
   display: block;

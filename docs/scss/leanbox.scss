@@ -1,0 +1,136 @@
+@import 'variables';
+
+.elevated {
+  position: relative;
+}
+
+.leanbox {
+  padding: 3rem;
+
+  a {
+    color: #fff;
+  }
+
+  .title {
+    display: inline-block;
+    border-bottom: 3px solid;
+    font-weight: 700;
+    padding-bottom: 10px;
+  }
+
+  &.green {
+    background: $green;
+    color: $white;
+
+    transform: skew(0deg, 2deg);
+    z-index: 100;
+
+    margin-top: 50px;
+
+    @media all and (min-width: $desktop) {
+      padding-bottom: 150px;
+      padding-left: 100px;
+      justify-content: space-between;
+    }
+
+    .column {
+      transform: skew(0deg, -2deg);
+    }
+
+    .title {
+      color: $white;
+    }
+  }
+
+  &.blue{
+    background: $blue;
+    color: $white;
+    z-index: 100;
+    justify-content: center;
+
+    @media all and (min-width: $desktop) {
+      padding-top: 290px;
+    }
+
+    @media all and (max-width: $tablet) {
+      margin-top: -50px;
+    }
+
+    .title {
+      color: $white;
+    }
+  }
+
+  &.red {
+    border: 10px solid #D26463;
+    background: $white url('/images/boat.png') no-repeat top right;
+    background-size: cover;
+
+    transform: skew(0deg, -2deg);
+    z-index: 300;
+
+    .content {
+      transform: skew(0deg, 2deg);
+    }
+
+    @media all and (min-width: $desktop) {
+      position: absolute;
+      top: -120px;
+      right: 0;
+
+      .content {
+        max-width: 60%;
+      }
+    }
+
+    .title {
+      color: #D26463;
+      border-color: #D26463;
+    }
+  }
+
+  &.yellow {
+    border: 10px solid $yellow;
+    background: $white url("/images/clip.svg") no-repeat -25% 50%;
+    background-size: 50%;
+
+    transform: skew(0deg, -2deg);
+    z-index: 200;
+    padding-left: 100px;
+
+    .content {
+      transform: skew(0deg, 2deg);
+    }
+
+    @media all and (min-width: $desktop) {
+      position: absolute;
+      top: -50px;
+
+      .content {
+        max-width: 70%;
+      }
+    }
+
+    @media all and (max-width: $tablet) {
+      margin-top: -50px;
+    }
+
+    .title {
+      color: $yellow;
+      border-color: $yellow;
+    }
+  }
+}
+
+.lock-icon {
+  transform: rotate(-30deg);
+  width: 100px;
+  float: left;
+  margin: 10px 30px 0 0;
+}
+
+@media all and (max-width: $tablet) {
+  .lock-icon {
+    display: none;
+  }
+}
