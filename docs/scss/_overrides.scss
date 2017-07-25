@@ -230,12 +230,20 @@ h6 {
 }
 
 .main-email {
+  max-width: 450px;
   margin: auto;
 
-  .control:first-child {
+  &.has-addons {
+    max-width: 100%;
     width: 100%;
-    margin: auto;
+
+    .control:first-child {
+      width: 100%;
+      margin: auto;
+    }
+
   }
+
 
   input {
     border:0;
