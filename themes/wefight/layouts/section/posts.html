@@ -1,0 +1,23 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+
+<div class="container">
+    <div class="hero">
+        <div class="hero-body">
+            {{ range .Data.Pages.ByPublishDate.Reverse }}
+
+            <div class="columns">
+                <div class="column is-narrow">
+                </div>
+                <div class="column">
+                    <p class="small">{{ .Date.Format "Jan _2" }}</p>
+                    <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                    <p>{{ .Params.Subtitle }}</p>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+
+{{ partial "footer.html" . }}

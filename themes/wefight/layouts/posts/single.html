@@ -1,0 +1,51 @@
+{{ partial "head.html" . }}
+
+<div class="join-note">
+    <label class="is-small">Join your fellow card-slingers!</label>
+    <a href="/" class="button is-small is-primary is-inverted is-outlined" id="subscribe-btn">Subscribe now</a>
+</div>
+
+{{ partial "header.html" . }}
+
+{{ if .Params.Image }}
+<div class="hero is-black is-medium" style="background: url('{{ .Params.Image }}') no-repeat">
+    <div class="hero-body"></div>
+    <div class="hero-foot" style="margin-bottom: 40px">
+        <div class="container has-text-centered">
+            <p class="small">{{ .Date.Format "Jan _2" }}</p>
+
+            <h1 class="title">
+                {{ .Title }}
+            </h1>
+            {{ with .Params.Subtitle }}
+                <h2 class="subtitle">{{ . }}</h2>
+            {{ end }}
+        </div>
+    </div>
+</div>
+
+{{ else }}
+
+<section class="section">
+
+    <div class="container">
+        <p class="small">{{ .Date.Format "Jan _2" }}</p>
+
+        <h1 class="title">
+            {{ .Title }}
+        </h1>
+        {{ with .Params.Subtitle }}
+            <h2 class="subtitle">{{ . }}</h2>
+        {{ end }}
+    </div>
+</section>
+
+{{ end }}
+
+<section class="section">
+    <div class="container">
+        {{ .Content }}
+    </div>
+</section>
+
+{{ partial "footer.html" . }}

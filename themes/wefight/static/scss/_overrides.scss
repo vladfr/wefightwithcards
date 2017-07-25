@@ -232,8 +232,8 @@ h6 {
 .main-email {
   margin: auto;
 
-  .control {
-    max-width: 450px;
+  .control:first-child {
+    width: 100%;
     margin: auto;
   }
 
@@ -290,4 +290,86 @@ h6 {
   text-align: center;
   z-index: 1000;
   line-height: 1.85;
+}
+
+
+
+.section .container {
+  max-width: 700px!important;
+
+  p, ul, ol, div {
+    font-family: $family-serif;
+    letter-spacing: -.003em;
+    line-height: 1.65;
+    font-size: $size-5;
+    margin: $size-4 0;
+
+    word-break: break-word;
+    word-wrap: break-word;
+
+    font-variant-numeric: oldstyle-nums;
+    -moz-font-feature-settings: "onum";
+    -webkit-font-feature-settings: "onum";
+    font-feature-settings: "onum";
+
+    @media all and (max-width: $tablet) {
+      font-size: $size-6;
+      line-height: 1.55;
+      margin: $size-5 0;
+      letter-spacing: -.004em;
+    }
+  }
+
+  .small {
+    display: inline-block;
+  }
+
+  .divider:after {
+    margin: $size-5 0;
+    padding: $size-5 0;
+    content: ' \B7        \B7        \B7 ';
+    text-align: center;
+    display: block;
+    clear: both;
+    color: $grey-light;
+  }
+
+  ol {
+    list-style: none;
+
+    span {
+      font-weight: $weight-bold;
+      font-style: italic;
+    }
+
+    li {
+      margin-top: $size-5;
+    }
+
+    li:nth-child(2n+1) {
+      margin-top: $size-5*2.5;
+      font-style: italic;
+    }
+  }
+
+  .box {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+
+    figure.card {
+      max-width: 250px;
+      margin: 0 auto;
+      border: 0;
+    }
+  }
+
+  @media all and (max-width: $tablet) {
+    .is-pulled-right {
+      float: none;
+      display: block;
+      margin: 0 auto;
+    }
+  }
+
 }
