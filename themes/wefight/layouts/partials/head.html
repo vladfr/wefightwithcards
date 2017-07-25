@@ -58,7 +58,9 @@
 
     <script src="/js/nav.js"></script>
 
-    {{ partial "_drift" }}
+    {{ if $.Param "chat" }}
+        {{ partial "_drift" }}
+    {{ end }}
 
     {{ partial "semantic" }}
 </head>
