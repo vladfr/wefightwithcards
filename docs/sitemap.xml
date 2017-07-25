@@ -77,6 +77,11 @@
   </url>
   
   <url>
+    <loc>http://wefightwithcards.com/posts/</loc>
+    <lastmod>2017-04-03T13:31:11+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://wefightwithcards.com/archives/issue_1/</loc>
     <lastmod>2017-04-03T13:31:11+03:00</lastmod>
   </url>
@@ -105,12 +110,6 @@
   
   <url>
     <loc>http://wefightwithcards.com/intro_to_gwent/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wefightwithcards.com/posts/</loc>
-    <lastmod>2017-07-25T23:48:45+03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
