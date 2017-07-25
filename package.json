@@ -8,7 +8,7 @@
   },
   "scripts": {
     "build": "gulp && hugo",
-    "dev": "gulp && gulp watch & hugo serve && fg",
+    "dev": "gulp && gulp watch & hugo server -D && fg",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

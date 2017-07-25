@@ -6,8 +6,209 @@
     <description>Recent content on We fight with cards - Weekly newsletter about Digital Card Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jul 2017 16:51:11 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2017 23:48:45 +0300</lastBuildDate>
     <atom:link href="http://wefightwithcards.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome to Frivolity</title>
+      <link>http://wefightwithcards.com/posts/card-city-nights-Ludosity-interview-multiplayer/</link>
+      <pubDate>Tue, 25 Jul 2017 23:48:45 +0300</pubDate>
+      
+      <guid>http://wefightwithcards.com/posts/card-city-nights-Ludosity-interview-multiplayer/</guid>
+      <description>&lt;article&gt;
+&lt;p&gt;
+If you’re a fan of card games, you probably heard of Card City Nights by now. Released back in 2014, the quirky card game was a mash-up featuring characters from Ludosity’s other games, reimagined as card players. With an interesting core mechanic, stellar soundtrack and spiffy characters, the game was well-received and still provides a refreshing experience 3 years later. So naturally, fans are eagerly awaiting the sequel!
+&lt;/p&gt;
+
+&lt;p&gt;The upcoming Card City Nights 2 launches September 1 on Steam. The game is familiar, yet new, with 200+ cards and some big changes to core mechanics. And, what&#39;s even more exciting, it brings a much-awaited feature: &lt;strong&gt;online multiplayer.&lt;/strong&gt;
+&lt;/p&gt;
+
+    &lt;div class=&#34;box has-text-centered&#34;&gt;
+        &lt;figure class=&#34;image&#34;&gt;
+            &lt;img src=&#34;http://wefightwithcards.com/images/cardcitynights/card-city-nights-board.png&#34; /&gt;
+        &lt;/figure&gt;
+        &lt;span class=&#34;small&#34;&gt;
+            Players will place cards on the same game board.
+        &lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;CCN 2 combines traditional deck-building and card battle gameplay with a RPG-like story-line. You’re traveling aboard Starship Frivolity, where everyone’s favourite pastime is - you guessed it - playing cards! You battle zany characters in a quest to achieve fortune &amp; glory. Oh, and collect all the cards! Then, you duke it out online with other players.&lt;/p&gt;
+
+&lt;p&gt;The core gameplay features an unique card chaining mechanic. Players seek to activate cards by linking their chain points. Once you link 3 cards, they resolve. When a card is resolved, it may trigger abilities, and then it leaves play.&lt;/p&gt;
+
+&lt;p&gt;That sounds simple, but it gets a lot more complex once you start playing. Factors such as card placement, timings, chain points and card abilities ensure a variety of tactics. The game promises a diverse metagame, close to the traditional aggro-combo-control scale of other CCGs.&lt;/p&gt;
+
+    &lt;div class=&#34;box has-text-centered&#34;&gt;
+        &lt;figure class=&#34;image card&#34;&gt;
+            &lt;img src=&#34;http://wefightwithcards.com/ccn/Potato.png&#34; /&gt;
+        &lt;/figure&gt;
+        &lt;span class=&#34;small&#34;&gt;
+            The Potato &amp;mdash; #1 card in the beta
+        &lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;p class=&#34;divider&#34;&gt;&lt;/p&gt;
+
+    &lt;p&gt;Developers &lt;strong&gt;Ludosity&lt;/strong&gt; are tiny but strong: while just a small team of 6, they&#39;ve been around for almost 10 years, and have over 20 published titles. They all feature an unique feel, &#34;lighthearted and funny with a cartoony style&#34;.&lt;/p&gt;
+
+    &lt;p&gt;The team had a blast balancing the meta in their first multiplayer beta, which ended a few weeks ago. So I asked Joel Nyström to take a little time and give us some insight around the game, the beta and what to expect in multiplayer come September.&lt;/p&gt;
+
+
+&lt;div class=&#34;interview&#34;&gt;
+
+    &lt;ol&gt;
+        &lt;li&gt;
+            &lt;span&gt;Vlad:&lt;/span&gt; So Card City Nights 2 is out in September, excited about that?
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;span&gt;Joel:&lt;/span&gt; Yes, very excited! The reception so far has been very good, and we have a lot more stuff to reveal yet =)
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;span&gt;Vlad:&lt;/span&gt; Will we play a much different game at launch, than now in the beta?
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;span&gt;Joel:&lt;/span&gt; The multiplayer matches will not change significantly from what you saw in the beta, except for improved menus and UX. However there&#39;s also the whole single-player adventure that we haven&#39;t revealed yet!
+        &lt;/li&gt;
+
+        &lt;li&gt;
+            &lt;span&gt;V:&lt;/span&gt; Multiplayer is very much anticipated, at least judging from the player activity in the beta.
+            What were the challenges to create a multiplayer component to Card City Nights?
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;span&gt;J:&lt;/span&gt; The original CCN was probably not very balanced for competitive play, I think some cards were simply just better than others in that game. Because it was only a single-player adventure, we balanced it according to a difficulty curve that fit with the story arch. With CCN2 we try to balance the cards so that there will be no dominant strategies and every card can fill a useful role in a deck.
+        &lt;/li&gt;
+
+        &lt;li&gt;
+            &lt;span&gt;V:&lt;/span&gt; We definitely saw better balance in the mp beta. Speaking of, was there a meta-game already forming?
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;span&gt;J:&lt;/span&gt; The community would often post on the forums what decks/strategies they perceived as dominant, but the dominant strategies changed several times over a short 10-day period, and looking at the stats, the numbers aren&#39;t quite showing the same picture! So balancing the meta is something that&#39;s going extremely interesting once the game is live.
+        &lt;/li&gt;
+
+        &lt;li&gt;
+            &lt;span&gt;V:&lt;/span&gt; How different is it to test it with real players, versus just an internal test group? Was there a lot of unexpected stuff happening?
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;span&gt;J:&lt;/span&gt; We did the beta precisely to be on stand-by to quickly fix as many things as we could during the 10-day beta. It was a lot of fun, and very intense! Working live against an audience is a blast!
+        &lt;/li&gt;
+
+        &lt;li&gt;
+            &lt;span&gt;V:&lt;/span&gt; Any critical balance changes that you&#39;ve identified in the beta?
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;span&gt;J:&lt;/span&gt; Yes, in the initial version we might have gone a little too far with the unusual and weird mechanics, while neglecting the core mechanic of connecting chains. This was re-balanced during the beta.
+        &lt;/li&gt;
+
+        &lt;li&gt;
+            &lt;span&gt;V:&lt;/span&gt; Will we see some single-player content closer to launch?
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;span&gt;J:&lt;/span&gt; There won&#39;t be any more betas before launch now, but we&#39;ll start revealing more of the adventure in trailers, screenshots and blog-posts soon! Also, catch us at &lt;em&gt;Gamescom in Cologne&lt;/em&gt; this August and I&#39;ll personally show you =)
+        &lt;/li&gt;
+
+    &lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;p class=&#34;divider&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;
+With all that in mind, multiplayer should be a total blast! The last beta gave us a taste. Focused on multiplayer, beta #2 was open to 1000 players, who quickly generated a meta that shifted quite a bit during the course of the event. As a result, the devs released a couple of balance changes in short succession.
+&lt;/p&gt;
+
+    &lt;div class=&#34;box is-pulled-right has-text-centered&#34; style=&#34;width: 250px&#34;&gt;
+        &lt;figure class=&#34;image&#34;&gt;
+            &lt;img src=&#34;http://wefightwithcards.com/ccn/Princess Remedy.png&#34; /&gt;
+        &lt;/figure&gt;
+        &lt;span class=&#34;small&#34;&gt;
+            Princess Remedy proved to be a great control card
+        &lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;
+I loved the fact that new decks emerged every day: at first, the Frog deck ruled. Then, players started countering it with control decks, then by using the best princess there is: 
+&lt;strong class=&#34;game-card&#34; data-html=&#34;true&#34; data-toggle=&#34;popover&#34; data-placement=&#34;right&#34;
+        data-content=&#34;&lt;img src=&#39;http://wefightwithcards.com/cards/princess remedy.png&#39; class=&#39;gwent-card&#39; /&gt;&#34;
+&gt;
+    princess remedy
+&lt;/strong&gt;. In the last few days, people noticed that a fatigue archetype is a contender for &#34;top deck&#34;. This can only mean good news for the finished game &amp;mdash; everyone wants a dynamic meta with multiple deck types to explore.
+&lt;/p&gt;
+
+
+
+&lt;p&gt;Card City Nights comes out on September 1 on Steam.&lt;/p&gt;
+&lt;p&gt;PS: If you go to &lt;em&gt;Gamescom&lt;/em&gt; in Germany, don&#39;t forget to check out the Ludosity stand!&lt;/p&gt;
+
+&lt;/article&gt;
+
+&lt;section class=&#34;hero has-text-centered is-light&#34; style=&#34;border-top: 3px solid #ccc&#34;&gt;
+    &lt;div class=&#34;hero-body&#34;&gt;
+        &lt;div class=&#34;content&#34;&gt;
+            &lt;p class=&#34;subtitle&#34;&gt;
+                Get more articles like this, and keep up with your favourite card games like Hearthstone, Gwent and more!
+            &lt;/p&gt;
+            
+
+
+    
+
+
+&lt;div class=&#34;columns is-centered title-columns has-spacing-vertical&#34;&gt;
+    &lt;div class=&#34;column is-fixed&#34;&gt;
+
+        &lt;div class=&#34;has-text-centered&#34;&gt;
+            &lt;form action=&#34;//facebook.us9.list-manage.com/subscribe/post-json?u=a70281e2cd8892265f8028139&amp;amp;id=909bf03ce6&amp;c=?&#34; method=&#34;get&#34; id=&#34;mc-embedded-subscribe-form&#34; name=&#34;mc-embedded-subscribe-form&#34; class=&#34;validate form-subscribe&#34; target=&#34;_blank&#34; novalidate&gt;
+
+                &lt;div class=&#34;field main-email has-addons&#34;&gt;
+                    &lt;p class=&#34;control has-icons-left&#34;&gt;
+                        &lt;input class=&#34;input  required email&#34; type=&#34;email&#34; placeholder=&#34;Your email here *&#34; name=&#34;EMAIL&#34; id=&#34;mce-EMAIL&#34;&gt;
+                        &lt;span class=&#34;icon  is-left&#34;&gt;
+                            &lt;i class=&#34;fa fa-envelope&#34;&gt;&lt;/i&gt;
+                        &lt;/span&gt;
+                    &lt;/p&gt;
+                    
+                    &lt;p class=&#34;control&#34;&gt;
+                        &lt;button type=&#34;submit&#34; value=&#34;Subscribe&#34; name=&#34;subscribe&#34; class=&#34;button is-warning&#34;&gt;JOIN!&lt;/button&gt;
+                    &lt;/p&gt;
+                    
+                &lt;/div&gt;
+
+                &lt;div class=&#34;help&#34; role=&#34;alert&#34; id=&#34;mce-error-response&#34; style=&#34;display:none&#34;&gt;&lt;/div&gt;
+
+                &lt;div role=&#34;alert&#34; class=&#34;box media&#34; id=&#34;mce-success-response&#34; style=&#34;display:none&#34;&gt;
+                    &lt;div class=&#34;media-left&#34;&gt;
+                        &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;http://wefightwithcards.com/vlad.png&#34;&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&#34;media-content&#34;&gt;
+                        &lt;p&gt;Thanks for joining us! You&#39;ll receive an email shortly &amp;mdash; please click the link inside to confirm. &lt;/p&gt;
+                        &lt;p&gt;You&#39;ll get the newsletter on Mondays. Until then, &lt;a href=&#34;https://twitter.com/fightwithcards&#34;&gt;stay in touch on Twitter!&lt;/a&gt;&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+
+
+                
+
+                
+
+                &lt;p class=&#34;small text-dim has-text-centered&#34;&gt;* Receive emails every week, no spam, easy to unsubscribe.&lt;br/&gt;You can always change your selected games&lt;/p&gt;
+
+
+                
+                &lt;div style=&#34;position: absolute; left: -5000px;&#34; aria-hidden=&#34;true&#34;&gt;&lt;input type=&#34;text&#34; name=&#34;b_a70281e2cd8892265f8028139_909bf03ce6&#34; tabindex=&#34;-1&#34; value=&#34;&#34;&gt;&lt;/div&gt;
+            &lt;/form&gt;
+        &lt;/div&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+
+</description>
+    </item>
     
     <item>
       <title>Issue #14</title>
@@ -8981,584 +9182,6 @@ A Good Saesenthessis Deck?! - Scoia&amp;#39;tael Gameplay&lt;/a&gt;&lt;br&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Issue #1 - Spoiler season!</title>
-      <link>http://wefightwithcards.com/archives/issue_1/</link>
-      <pubDate>Mon, 03 Apr 2017 13:31:11 +0300</pubDate>
-      
-      <guid>http://wefightwithcards.com/archives/issue_1/</guid>
-      <description>&lt;style type=&#34;text/css&#34;&gt;
-    #outlook a{
-        padding:0;
-    }
-    .ReadMsgBody{
-        width:100%;
-    }
-    .ExternalClass{
-        width:100%;
-    }
-    .ExternalClass,.ExternalClass p,.ExternalClass span,.ExternalClass font,.ExternalClass td,.ExternalClass div{
-        line-height:100%;
-    }
-    body,table,td,p,a,li,blockquote{
-        -webkit-text-size-adjust:100%;
-        -ms-text-size-adjust:100%;
-    }
-    table,td{
-        mso-table-lspace:0pt;
-        mso-table-rspace:0pt;
-    }
-    img{
-        -ms-interpolation-mode:bicubic;
-    }
-    body{
-        margin:0;
-        padding:0;
-    }
-    img{
-        border:0;
-        height:auto;
-        line-height:100%;
-        outline:none;
-        text-decoration:none;
-    }
-    table{
-        border-collapse:collapse !important;
-    }
-    body,#bodyTable,#bodyCell{
-        height:100% !important;
-        margin:0;
-        padding:0;
-        width:100% !important;
-    }
-    #bodyCell{
-        padding:20px;
-    }
-    #templateContainer{
-        width:600px;
-    }
-
-    #bodyCell{
-        border-top:4px solid #efefef;
-    }
-    #templateContainer{
-        border:1px solid #efefef;
-    }
-    #templateSummary{
-        background-color:#070530;
-        color:#fff;
-        border-top:3px solid #67D8A5;
-    }
-    #templateSummary .bodyContent{
-        color:#fff;
-    }
-    #templateSummary a{
-        color:#67D8A5;
-    }
-    h1{
-        color:#202020 !important;
-        border-bottom:1px solid #ccc;
-        padding-bottom:10px;
-        display:block;
-        font-family:Helvetica;
-        font-size:16px;
-        font-style:normal;
-        font-weight:bold;
-        line-height:100%;
-        letter-spacing:normal;
-        margin-top:0;
-        margin-right:0;
-        margin-bottom:10px;
-        margin-left:0;
-        text-align:left;
-    }
-    h1:before{
-        content:&#39;#&#39;;
-        color:#0DB865;
-        font-family:Verdana;
-    }
-    h2{
-        color:#404040 !important;
-        display:block;
-        font-family:Helvetica;
-        font-size:20px;
-        font-style:normal;
-        font-weight:bold;
-        line-height:100%;
-        letter-spacing:normal;
-        margin-top:0;
-        margin-right:0;
-        margin-bottom:10px;
-        margin-left:0;
-        text-align:left;
-    }
-    h3{
-        color:#606060 !important;
-        display:block;
-        font-family:Helvetica;
-        font-size:16px;
-        font-style:italic;
-        font-weight:normal;
-        line-height:100%;
-        letter-spacing:normal;
-        margin-top:0;
-        margin-right:0;
-        margin-bottom:10px;
-        margin-left:0;
-        text-align:left;
-    }
-    h4{
-        color:#808080 !important;
-        display:block;
-        font-family:Helvetica;
-        font-size:14px;
-        font-style:italic;
-        font-weight:normal;
-        line-height:100%;
-        letter-spacing:normal;
-        margin-top:0;
-        margin-right:0;
-        margin-bottom:10px;
-        margin-left:0;
-        text-align:left;
-    }
-    #templatePreheader{
-        background-color:#fff;
-    }
-    .preheaderContent{
-        color:#808080;
-        font-family:Helvetica;
-        font-size:11px;
-        line-height:125%;
-        text-align:left;
-    }
-    .preheaderContent a:link,.preheaderContent a:visited,.preheaderContent a .yshortcuts{
-        color:#606060;
-        font-weight:normal;
-        text-decoration:underline;
-    }
-    #templateHeader{
-        background-color:#fff;
-    }
-    .headerContentImg{
-        text-align:right;
-        padding-right:20px;
-        padding:20px;
-    }
-    .headerContentImg img{
-        width:48px;
-        height:48px;
-    }
-    .headerContent{
-        color:#000;
-        font-family:Helvetica, Arial, sans-serif;
-        font-size:24px;
-        font-weight:bold;
-        line-height:100%;
-        padding-top:0;
-        padding-right:0;
-        padding-bottom:20px;
-        padding-left:20px;
-        text-align:left;
-        vertical-align:bottom;
-    }
-    .headerContent small{
-        color:#808080;
-        font-size:11px;
-        font-weight:100;
-        line-height:155%;
-    }
-    .headerContent a:link,.headerContent a:visited,.headerContent a .yshortcuts{
-        color:#1866df;
-        font-weight:normal;
-        text-decoration:underline;
-    }
-    #headerImage{
-        height:auto;
-        max-width:600px;
-    }
-    table{
-        background-color:#fff;
-    }
-    .bodyContent{
-        color:#505050;
-        font-family:Helvetica;
-        font-size:14px;
-        line-height:150%;
-        padding-top:20px;
-        padding-right:20px;
-        padding-bottom:20px;
-        padding-left:20px;
-        text-align:left;
-    }
-    .bodyContent a:link,.bodyContent a:visited,.bodyContent a .yshortcuts{
-        color:#1866df;
-        font-weight:normal;
-        text-decoration:underline;
-    }
-    .bodyContent img{
-        display:inline;
-        height:auto;
-        max-width:560px;
-    }
-    #templateFooter{
-        background-color:#F4F4F4;
-    }
-    .footerContent{
-        color:#808080;
-        font-family:Helvetica;
-        font-size:10px;
-        line-height:150%;
-        padding-top:20px;
-        padding-right:20px;
-        padding-bottom:20px;
-        padding-left:20px;
-        text-align:left;
-    }
-    .footerContent a:link,.footerContent a:visited,.footerContent a .yshortcuts,.footerContent a span{
-        color:#606060;
-        font-weight:normal;
-        text-decoration:underline;
-    }
-    @media only screen and (max-width: 480px){
-        body,table,td,p,a,li,blockquote{
-            -webkit-text-size-adjust:none !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        body{
-            width:100% !important;
-            min-width:100% !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        #bodyCell{
-            padding:10px !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        #templateContainer{
-            max-width:600px !important;
-            width:100% !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        h1{
-            font-size:14px !important;
-            line-height:100% !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        h2{
-            font-size:20px !important;
-            line-height:100% !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        h3{
-            font-size:18px !important;
-            line-height:100% !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        h4{
-            font-size:16px !important;
-            line-height:100% !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        #templatePreheader{
-            display:none !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        #headerImage{
-            height:auto !important;
-            max-width:600px !important;
-            width:100% !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        .headerContent{
-            font-size:14px !important;
-            line-height:18px !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        .bodyContent{
-            font-size:14px !important;
-            line-height:18px !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        .footerContent{
-            font-size:12px !important;
-            line-height:14px !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        .footerContent a{
-            display:block !important;
-        }
-
-    }&lt;/style&gt;
-&lt;center&gt;
-    &lt;table align=&#34;center&#34; border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; height=&#34;100%&#34; width=&#34;100%&#34; id=&#34;bodyTable&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #DEE0E2;margin: 0;padding: 0;border-collapse: collapse !important;height: 100% !important;width: 100% !important;&#34;&gt;
-        &lt;tr&gt;
-            &lt;td align=&#34;center&#34; valign=&#34;top&#34; id=&#34;bodyCell&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;margin: 0;padding: 20px;border-top: 4px solid #efefef;height: 100% !important;width: 100% !important;&#34;&gt;
-                &lt;!-- BEGIN TEMPLATE // --&gt;
-                &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; id=&#34;templateContainer&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #fff;width: 600px;border: 1px solid #efefef;border-collapse: collapse !important;&#34;&gt;
-                    &lt;tr&gt;
-                        &lt;td align=&#34;center&#34; valign=&#34;top&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;&#34;&gt;
-                            &lt;!-- BEGIN PREHEADER // --&gt;
-                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templatePreheader&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #fff;border-collapse: collapse !important;&#34;&gt;
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;preheaderContent&#34; style=&#34;padding-top: 10px;padding-right: 20px;padding-bottom: 10px;padding-left: 20px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #808080;font-family: Helvetica;font-size: 11px;line-height: 125%;text-align: left;&#34;&gt;
-                                        Fable Fortune beta keys giveaway, Gwent on PS4, Hearthstone drama, super-fun TES card reveal, and a VR card game
-                                    &lt;/td&gt;
-                                &lt;/tr&gt;
-                            &lt;/table&gt;
-                            &lt;!-- // END PREHEADER --&gt;
-                        &lt;/td&gt;
-                    &lt;/tr&gt;
-                    &lt;tr&gt;
-                        &lt;td align=&#34;center&#34; valign=&#34;top&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;&#34;&gt;
-                            &lt;!-- BEGIN HEADER // --&gt;
-                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templateHeader&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #fff;border-collapse: collapse !important;&#34;&gt;
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;bottom&#34; class=&#34;headerContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #000;font-family: Helvetica, Arial, sans-serif;font-size: 24px;font-weight: bold;line-height: 100%;padding-top: 0;padding-right: 0;padding-bottom: 20px;padding-left: 20px;text-align: left;vertical-align: bottom;&#34;&gt;
-                                        We fight with cards&lt;br&gt;
-                                        &lt;small style=&#34;color: #808080;font-size: 11px;font-weight: 100;line-height: 155%;&#34;&gt;Issue #1 / April 1, 2017 // &lt;!--  --&gt;&lt;/small&gt;
-                                    &lt;/td&gt;
-                                    &lt;td class=&#34;headerContentImg&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;text-align: right;padding-right: 20px;padding: 20px;&#34;&gt;
-                                        &lt;img src=&#34;https://wefightwithcards.com/images/logo.png&#34; style=&#34;-ms-interpolation-mode: bicubic;border: 0;height: 48px;line-height: 100%;outline: none;text-decoration: none;width: 48px;&#34;&gt;
-                                    &lt;/td&gt;
-                                &lt;/tr&gt;
-                            &lt;/table&gt;
-                            &lt;!-- // END HEADER --&gt;
-                        &lt;/td&gt;
-                    &lt;/tr&gt;
-                    &lt;tr&gt;
-                        &lt;td align=&#34;center&#34; valign=&#34;top&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;&#34;&gt;
-                            &lt;!-- BEGIN BODY // --&gt;
-                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templateSummary&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #070530;color: #fff;border-top: 3px solid #67D8A5;border-collapse: collapse !important;&#34;&gt;
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #fff;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;
-                                        &lt;p style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;&#34;&gt;Heya! It’s here: the first issue of We fight with cards!&lt;/p&gt;
-                                        &lt;p style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;&#34;&gt;Busy week in card-game-land, with the spoiler season in full bloom as #Hearthstone, #TESLegends and #Shadowverse all have new content. Lots of good stuff to read in this issue, funny videos and plays, and we’re featuring 3 streamers of the week.&lt;/p&gt;
-
-                                        &lt;p style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;&#34;&gt;Thanks for your support, and I’ll see you next week!&lt;/p&gt;
-                                        &lt;p style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;&#34;&gt; &amp;mdash; Vlad&lt;/p&gt;
-                                    &lt;/td&gt;
-                                &lt;/tr&gt;
-                            &lt;/table&gt;
-
-                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #fff;border-collapse: collapse !important;&#34;&gt;
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;
-                                        &lt;h1 style=&#34;border-bottom: 1px solid #ccc;padding-bottom: 10px;display: block;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;color: #202020 !important;&#34;&gt;NEWS&lt;/h1&gt;
-
-                                        &lt;ul&gt;
-                                            &lt;li style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;&#34;&gt;
-                                                &lt;b&gt;Play Gwent on PS4 this weekend&lt;/b&gt; &amp;mdash; A Gwent tech demo is live in all regions on PS4. You can enjoy the game in full, but progress will be wiped after.
-                                            &lt;/li&gt;
-                                            &lt;li style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;&#34;&gt;
-                                                Hearthstone: Un&#39;Goro launch set for &lt;b&gt;April 6&lt;/b&gt; - details below
-                                            &lt;/li&gt;
-                                            &lt;li style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;&#34;&gt;
-                                                Elder Scrolls: Legends launched on iPad, &lt;b&gt;Dark Brotherhood&lt;/b&gt; launches on April 5
-                                            &lt;/li&gt;
-                                            &lt;li style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;&#34;&gt;
-                                                &lt;b&gt;Shadowverse TotG&lt;/b&gt; launched and you can get 10 free packs - see clips and reviews below
-                                            &lt;/li&gt;
-                                        &lt;/ul&gt;
-                                    &lt;/td&gt;
-                                &lt;/tr&gt;
-
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;
-                                        &lt;h1 style=&#34;border-bottom: 1px solid #ccc;padding-bottom: 10px;display: block;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;color: #202020 !important;&#34;&gt;Fable Fortune Beta Keys&lt;/h1&gt;
-                                        Fable Fortune is a new online CCG by Flaming Fowl, and it’s coming soon to Steam Early Access. Until then, I have 2 beta keys to give away, so you can play the game right now!
-                                        &lt;br&gt;&lt;br&gt;
-                                        To enter the raffle, reply to this email and tell me what do you think about the newsletter, and how can I make it better!
-                                        &lt;br&gt;&lt;br&gt;
-                                        Take a look at the &lt;a href=&#34;https://www.youtube.com/watch?v=fmddZsXJ9hY&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;trailer&lt;/a&gt; and some &lt;a href=&#34;https://www.youtube.com/watch?v=e3iCtXB6Tso&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;beta gameplay&lt;/a&gt;. Note that it’s PC/Windows.
-                                    &lt;/td&gt;
-                                &lt;/tr&gt;
-
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;&lt;h1 style=&#34;border-bottom: 1px solid #ccc;padding-bottom: 10px;display: block;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;color: #202020 !important;&#34;&gt;Hearthstone&lt;/h1&gt;
-                                        Journey to Un&amp;#39;Goro is set to launch on April 6, as confirmed yesterday on Twitch. Here&amp;#39;s&lt;br&gt;
-                                        &lt;a href=&#34;http://www.hearthhead.com/guides/everything-know-about-hearthstones-journey-ungoro&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;everything you need to know&lt;/a&gt;&amp;nbsp;in one article; also check out this in-depth&amp;nbsp;look at &lt;a href=&#34;http://www.hearthstonetopdecks.com/journey-ungoro-card-clarifications-faq-interactions/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;cards and interactions&lt;/a&gt;.&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://www.reddit.com/r/hearthstone/comments/61nkkb/spoilers_congratulations_to_the_winner_of_the/&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Congrats to ShtanUdachi for winning #HCT Bahamas [reddit] &lt;/a&gt;&lt;br&gt;
-                                        &lt;a href=&#34;http://us.battle.net/hearthstone/en/esports/global-games/&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;#HGG: Global Games teams announced&lt;/a&gt;&lt;br&gt;
-                                        [video] &lt;a href=&#34;https://www.youtube.com/watch?v=jxHhwNJo0tA&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Disguised Toast reveals&amp;nbsp;6 awesome combos from Journey to Un&amp;#39;Goro&lt;/a&gt;&lt;br&gt;
-                                        [video]&amp;nbsp;&lt;a href=&#34;https://www.youtube.com/watch?v=AAaoo_v1To0&#34; rel=&#34;&#34; rev=&#34;en_rl_minimal&#34; tabindex=&#34;1&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Trump&amp;#39;s Un&amp;#39;Goro Card Reveal: Hemet, Jungle Hunter&lt;/a&gt;&lt;br&gt;
-                                        &lt;a href=&#34;https://imgur.com/a/kdYn6&#34; rel=&#34;&#34; rev=&#34;en_rl_small&#34; tabindex=&#34;1&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Trump endorsing Un&amp;#39;Goro at Tokyo station&lt;/a&gt;&amp;nbsp;(&lt;a href=&#34;https://www.reddit.com/r/hearthstone/comments/61vhs3/trump_endorsing_ungoro_at_tokyo_station/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;reddit&lt;/a&gt;)&lt;br&gt;
-
-                                    &lt;/td&gt;
-                                &lt;/tr&gt;
-
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;&lt;h1 style=&#34;border-bottom: 1px solid #ccc;padding-bottom: 10px;display: block;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;color: #202020 !important;&#34;&gt;Gwent&lt;/h1&gt;
-                                        You can play Gwent this weekend on PS4! No beta keys needed. Although progress will be wiped, you can see the full game.&lt;br&gt;
-                                        &lt;br&gt;
-                                        This week saw a big update to the game in the &lt;a href=&#34;http://gwentify.com/gwent-positioning-patch-now-available-patch-notes/&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Positioning patch&lt;/a&gt;; and see the latest &lt;a href=&#34;http://gwentify.com/gwent-hotfix-playstation-4-technical-beta-announced/&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;hotfix patch notes&lt;/a&gt;.&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;http://gwentlemen.com/guest-article-from-pestilentio-gwent-a-preview-for-complete-beginners/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Gwent: A Preview for Complete Beginners&lt;/a&gt;&lt;br&gt;
-                                        &lt;a href=&#34;https://www.pcgamesn.com/gwent-the-witcher-card-game/gwent-deck-guide&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Gwent Deck Guide&lt;/a&gt;&lt;br&gt;
-                                        &lt;a href=&#34;http://www.gwentdb.com/news/72-gwent-challenger-100-000-official-tournament&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Gwent Challenger&lt;/a&gt;, the first official tournament is set for April 8 - 9&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;br&gt;
-                                        [video] &lt;a href=&#34;https://www.youtube.com/watch?v=r4WQ36D397s&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;The BEST Game from the PTR&lt;/a&gt;&lt;/td&gt;
-                                &lt;/tr&gt;
-
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;&lt;h1 style=&#34;border-bottom: 1px solid #ccc;padding-bottom: 10px;display: block;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;color: #202020 !important;&#34;&gt;TES: Legends&lt;/h1&gt;
-                                        TES: Legends launched this week on iPad. You can get up to speed with Legends in this Pocket Tactics review. The game will be launched for Android tablets in April, and in May for MacOS.&lt;br&gt;
-                                        The Dark Brotherhood is the new Story expansion launching April 5th. Here&amp;rsquo;s the &lt;a href=&#34;https://www.legends-decks.com/news/37/the-fall-of-the-dark-brotherhood-spoiler-list&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;visual card spoiler&lt;/a&gt; and &lt;a href=&#34;https://www.reddit.com/r/elderscrollslegends/comments/60ccd2/fall_of_the_dark_brotherhood_spoiler_list/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;reddit thread&lt;/a&gt;; also see this &lt;a href=&#34;https://www.reddit.com/r/elderscrollslegends/comments/61bi9z/all_legendary_cards_revealed_from_the_expansion/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Legendaries discussion&lt;/a&gt; on reddit&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;http:// http://www.pockettactics.com/reviews/review-the-elder-scrolls-legends/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;TES:Legends review&lt;/a&gt; by PocketTactics&lt;br&gt;
-                                        &lt;a href=&#34;http://legendsmeta.com/2017/03/23/3-budget-decks-beginners-gymclasshero/&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;3 Budget decks for beginners&lt;/a&gt;&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;strong&gt;Reddit survey&lt;/strong&gt;. If you&amp;rsquo;re curious about the state of Legends, this is an in-depth look at the community. Find out who plays the game, what do people enjoy about it, best and worst features and more. Watch &lt;a href=&#34;https://www.youtube.com/watch?v=-xi3raX4KbU&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;part 1&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=ZdUCzjEXk9c&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;part 2&lt;/a&gt;.&lt;/td&gt;
-                                &lt;/tr&gt;
-
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;&lt;h1 style=&#34;border-bottom: 1px solid #ccc;padding-bottom: 10px;display: block;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;color: #202020 !important;&#34;&gt;Shadowverse&lt;/h1&gt;
-                                        Tempest of the Gods released this week, here&amp;rsquo;s a run-down with card review videos, interviews and more.&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;http://www.ign.com/articles/2017/03/29/shadowverse-talking-tempest-of-the-gods-with-cygames&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Talking Tempest of the Gods with CyGames&lt;/a&gt;&amp;nbsp;//IGN&lt;br&gt;
-                                        [video]&amp;nbsp;&lt;a href=&#34;https://www.youtube.com/watch?v=YgeUSWyJzQU&#34; rev=&#34;en_rl_small&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Taking The Perfect Two&lt;/a&gt;&amp;nbsp;// Kripparian // interesting comments about expansion content and how the metagame is still fresh&lt;br&gt;
-                                        &lt;br&gt;
-                                    &lt;/td&gt;
-                                &lt;/tr&gt;
-
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;&lt;h1 style=&#34;border-bottom: 1px solid #ccc;padding-bottom: 10px;display: block;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;color: #202020 !important;&#34;&gt;Eternal&lt;/h1&gt;
-                                        Eternal is still in Early access, but Android users can now download the &lt;strong&gt;tablet&lt;/strong&gt; version of the game from the &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.direwolfdigital.Phoenix&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Play Store&lt;/a&gt;.&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;http://www.spritesanddice.com/2017/03/eternal-preview&#34; rev=&#34;en_rl_small&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Eternal Preview&lt;/a&gt;&amp;nbsp;//spritesanddice&lt;br&gt;
-                                        [video] Good intro to Eternal on the &lt;a href=&#34;https://www.youtube.com/watch?v=4bq-nyyLnxU&amp;amp;feature=youtu.be&amp;amp;t=49m25s&#34; target=&#34;_blank&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Co-Optional Podcast&lt;/a&gt;&lt;br&gt;
-                                    &lt;/td&gt;
-                                &lt;/tr&gt;
-
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;
-                                        &lt;h1 style=&#34;border-bottom: 1px solid #ccc;padding-bottom: 10px;display: block;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;color: #202020 !important;&#34;&gt;Discover&lt;/h1&gt;
-                                        Found some new card games this week, both digital and plain-ol&#39; cardboard. The Kickstarters end soon!&lt;br&gt;&lt;br&gt;
-
-                                        &lt;a href=&#34;https://uploadvr.com/dragon-front-gets-touch-support-new-faction-next-week/&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Dragon Front&lt;/a&gt; &amp;mdash; VR collectible card game
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://www.kickstarter.com/projects/badcaptain/zero-sum-the-card-game?ref=nav_search&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;
-                                            Zero Sum
-                                        &lt;/a&gt;&amp;mdash; a card game of corporate competition on the Galactic Frontier
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://www.kickstarter.com/projects/fidgetcreative/red-scare-redux-a-competitive-card-game?ref=nav_search&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;
-                                            Red Scare Redux
-                                        &lt;/a&gt; &amp;mdash; a spy-themed, team-focused, competitive card game
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://www.kickstarter.com/projects/quirkyengine/rites-of-cthulhu-the-card-game?ref=nav_search&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;
-                                            Rites of Cthulhu - The Card Game
-                                        &lt;/a&gt; &amp;mdash; an unnamable twist on traditional card play
-                                    &lt;/td&gt;
-                                &lt;/tr&gt;
-
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;
-                                        &lt;h1 style=&#34;border-bottom: 1px solid #ccc;padding-bottom: 10px;display: block;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;color: #202020 !important;&#34;&gt;Fun&lt;/h1&gt;
-                                        &lt;p style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;&#34;&gt;[video] &lt;a href=&#34;https://www.youtube.com/watch?v=iX1piozzdKI&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;TES:Legends Card reveal - car salesman style!&lt;/a&gt;&lt;/p&gt;
-                                        &lt;p style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;&#34;&gt;[video] &lt;a href=&#34;https://clips.twitch.tv/FriendlyExuberantRedpandaMVGame&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Toast trolling Firebat&#39;s HS account&lt;/a&gt;, replacing key cards with Angry Chicken&lt;/p&gt;
-                                        &lt;p style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;&#34;&gt;[video] &lt;a href=&#34;https://www.youtube.com/watch?v=52DKjW7HVhE&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Swamp King Dred eats Murloc Tinyfins all day!&lt;/a&gt;
-                                            (&lt;a href=&#34;https://www.reddit.com/r/hearthstone/comments/5zzg1e/a_moment_of_silence_for_all_the_murloc_tinyfins/&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;reddit thread&lt;/a&gt;)
-                                        &lt;/p&gt;
-                                        &lt;p style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;&#34;&gt;
-                                            &lt;a href=&#34;http://wwg.com/pokemon/2017/03/31/police-create-pokemon-inspired-trading-card-game/&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;
-                                                Texas Police Create Creepy Pokemon-Inspired Trading Card Game for Kids
-                                            &lt;/a&gt;
-                                        &lt;/p&gt;
-                                    &lt;/td&gt;
-                                &lt;/tr&gt;
-
-                            &lt;/table&gt;
-
-                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #fff;border-collapse: collapse !important;&#34;&gt;
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;bodyContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 14px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;&lt;h1 style=&#34;border-bottom: 1px solid #ccc;padding-bottom: 10px;display: block;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;color: #202020 !important;&#34;&gt;Streamers of the week&lt;/h1&gt;
-
-                                        &lt;p style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://www.twitch.tv/kombuchae&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Kombuchae&lt;/a&gt;&lt;/strong&gt; are Kendrick and Grace, a couple playing casual Hearthstone for great fun! &amp;mdash; &lt;a href=&#34;https://www.twitch.tv/kombuchae&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Watch now on Twitch&lt;/a&gt;&lt;/p&gt;
-
-                                        &lt;p style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://www.twitch.tv/furo_&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Furo&lt;/a&gt;&lt;/strong&gt; - his TES:Legends sessions are good, but you can also watch Hearthstone, Gwent and Shadowverse &amp;mdash; &lt;a href=&#34;https://www.twitch.tv/furo_&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Watch now on Twitch&lt;/a&gt;&lt;/p&gt;
-
-                                        &lt;p style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://www.twitch.tv/keristv&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;KerisTV&lt;/a&gt;&lt;/strong&gt; - streams Gwent, with good explanations &amp;mdash; &lt;a href=&#34;https://www.twitch.tv/keristv&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Watch now on Twitch&lt;/a&gt;&lt;br&gt;
-                                            &lt;br&gt;
-                                            &lt;br&gt;
-                                            &lt;br&gt;
-                                            &lt;span style=&#34;color:#A9A9A9&#34;&gt;&lt;strong&gt;__END__&lt;/strong&gt;&lt;/span&gt;&lt;br&gt;
-                                            &lt;br&gt;
-                                            Please hit reply and tell me how this can be better! Remember, there&amp;#39;s &lt;strong&gt;Fable Fortune&lt;/strong&gt; keys to be had!&lt;br&gt;
-                                            &lt;br&gt;
-                                            You&amp;#39;re seeing more content for the games you selected:&lt;br&gt;
-                                            &amp;nbsp;&lt;br&gt;
-                                            &lt;a href=&#34;http://wefightwithcards.us9.list-manage.com/profile?u=a70281e2cd8892265f8028139&amp;id=909bf03ce6&amp;e=[UNIQID]&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1866df;font-weight: normal;text-decoration: underline;&#34;&gt;Update subscription preferences&lt;/a&gt;&amp;nbsp;to edit your&amp;nbsp;games.&lt;/p&gt;
-                                    &lt;/td&gt;
-                                &lt;/tr&gt;
-                            &lt;/table&gt;
-
-                            &lt;!-- // END BODY --&gt;
-                        &lt;/td&gt;
-                    &lt;/tr&gt;
-                    &lt;tr&gt;
-                        &lt;td align=&#34;center&#34; valign=&#34;top&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;&#34;&gt;
-                            &lt;!-- BEGIN FOOTER // --&gt;
-                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templateFooter&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #F4F4F4;border-collapse: collapse !important;&#34;&gt;
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;footerContent&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #808080;font-family: Helvetica;font-size: 10px;line-height: 150%;padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;
-                                        &lt;a href=&#34;https://www.twitter.com/FightWithCards/&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #606060;font-weight: normal;text-decoration: underline;&#34;&gt;Follow on Twitter&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;#&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #606060;font-weight: normal;text-decoration: underline;&#34;&gt;Friend on Facebook&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;http://us9.forward-to-friend.com/forward?u=a70281e2cd8892265f8028139&amp;id=7e3b60b361&amp;e=[UNIQID]&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #606060;font-weight: normal;text-decoration: underline;&#34;&gt;Forward to Friend&lt;/a&gt;&amp;nbsp;
-                                    &lt;/td&gt;
-                                &lt;/tr&gt;
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;footerContent&#34; style=&#34;padding-top: 20px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #808080;font-family: Helvetica;font-size: 10px;line-height: 150%;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;text-align: left;&#34;&gt;
-                                        &lt;em&gt;Copyright &amp;copy; 2017 WeFightWithCards, All rights reserved.&lt;/em&gt;
-                                        &lt;br&gt;
-
-                                    &lt;/td&gt;
-                                &lt;/tr&gt;
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;footerContent&#34; style=&#34;padding-top: 20px;padding-bottom: 40px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #808080;font-family: Helvetica;font-size: 10px;line-height: 150%;padding-right: 20px;padding-left: 20px;text-align: left;&#34;&gt;&lt;a href=&#34;http://wefightwithcards.us9.list-manage.com/unsubscribe?u=a70281e2cd8892265f8028139&amp;id=909bf03ce6&amp;e=[UNIQID]&amp;c=7e3b60b361&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #606060;font-weight: normal;text-decoration: underline;&#34;&gt;unsubscribe from this list&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;http://wefightwithcards.us9.list-manage.com/profile?u=a70281e2cd8892265f8028139&amp;id=909bf03ce6&amp;e=[UNIQID]&#34; style=&#34;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #606060;font-weight: normal;text-decoration: underline;&#34;&gt;update subscription preferences&lt;/a&gt;&amp;nbsp;&lt;/td&gt;
-                                &lt;/tr&gt;
-                            &lt;/table&gt;
-                            &lt;!-- // END FOOTER --&gt;
-                        &lt;/td&gt;
-                    &lt;/tr&gt;
-                &lt;/table&gt;
-                &lt;!-- // END TEMPLATE --&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/center&gt;
-&lt;div itemscope=&#34;&#34; itemtype=&#34;http://schema.org/EmailMessage&#34;&gt;
-    &lt;div itemprop=&#34;publisher&#34; itemscope=&#34;&#34; itemtype=&#34;http://schema.org/Organization&#34;&gt;
-        &lt;meta itemprop=&#34;name&#34; content=&#34;We fight with cards&#34;&gt;
-        &lt;meta itemprop=&#34;telephone&#34; content=&#34;(+40) 723-684192&#34;&gt;
-        &lt;link itemprop=&#34;url&#34; href=&#34;https://www.wefightwithcards.com&#34;&gt;
-        &lt;link itemprop=&#34;logo&#34; href=&#34;http://wefightwithcards.com/vlad.png/&#34;&gt;
-        &lt;link itemprop=&#34;url/googlePlus&#34; href=&#34;https://plus.google.com/+FightWithCards/&#34;&gt;
-        &lt;link itemprop=&#34;url/facebook&#34; href=&#34;https://www.facebook.com/wefightwithcards&#34;&gt;
-        &lt;link itemprop=&#34;url/twitter&#34; href=&#34;https://twitter.com/FightWithCards&#34;&gt;
-        &lt;div itemprop=&#34;address&#34; itemscope=&#34;&#34; itemtype=&#34;http://schema.org/PostalAddress&#34;&gt;
-            &lt;meta itemprop=&#34;streetAddress&#34; content=&#34;Ramnicu Valce 27&#34;&gt;
-            &lt;meta itemprop=&#34;addressLocality&#34; content=&#34;Bucharest&#34;&gt;
-            &lt;meta itemprop=&#34;addressRegion&#34; content=&#34;Bucharest&#34;&gt;
-            &lt;meta itemprop=&#34;postalCode&#34; content=&#34;031805&#34;&gt;
-            &lt;meta itemprop=&#34;addressCountry&#34; content=&#34;Romania&#34;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;</description>
     </item>
     
   </channel>

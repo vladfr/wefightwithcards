@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on We fight with cards - Weekly newsletter about Digital Card Games</title>
+    <link>http://wefightwithcards.com/posts/index.xml</link>
+    <description>Recent content in Posts on We fight with cards - Weekly newsletter about Digital Card Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 23:48:45 +0300</lastBuildDate>
+    <atom:link href="http://wefightwithcards.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome to Frivolity</title>
+      <link>http://wefightwithcards.com/posts/card-city-nights-Ludosity-interview-multiplayer/</link>
+      <pubDate>Tue, 25 Jul 2017 23:48:45 +0300</pubDate>
+      
+      <guid>http://wefightwithcards.com/posts/card-city-nights-Ludosity-interview-multiplayer/</guid>
+      <description>&lt;article&gt;
+&lt;p&gt;
+If you’re a fan of card games, you probably heard of Card City Nights by now. Released back in 2014, the quirky card game was a mash-up featuring characters from Ludosity’s other games, reimagined as card players. With an interesting core mechanic, stellar soundtrack and spiffy characters, the game was well-received and still provides a refreshing experience 3 years later. So naturally, fans are eagerly awaiting the sequel!
+&lt;/p&gt;
+
+&lt;p&gt;The upcoming Card City Nights 2 launches September 1 on Steam. The game is familiar, yet new, with 200+ cards and some big changes to core mechanics. And, what&#39;s even more exciting, it brings a much-awaited feature: &lt;strong&gt;online multiplayer.&lt;/strong&gt;
+&lt;/p&gt;
+
+    &lt;div class=&#34;box has-text-centered&#34;&gt;
+        &lt;figure class=&#34;image&#34;&gt;
+            &lt;img src=&#34;http://wefightwithcards.com/images/cardcitynights/card-city-nights-board.png&#34; /&gt;
+        &lt;/figure&gt;
+        &lt;span class=&#34;small&#34;&gt;
+            Players will place cards on the same game board.
+        &lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;CCN 2 combines traditional deck-building and card battle gameplay with a RPG-like story-line. You’re traveling aboard Starship Frivolity, where everyone’s favourite pastime is - you guessed it - playing cards! You battle zany characters in a quest to achieve fortune &amp; glory. Oh, and collect all the cards! Then, you duke it out online with other players.&lt;/p&gt;
+
+&lt;p&gt;The core gameplay features an unique card chaining mechanic. Players seek to activate cards by linking their chain points. Once you link 3 cards, they resolve. When a card is resolved, it may trigger abilities, and then it leaves play.&lt;/p&gt;
+
+&lt;p&gt;That sounds simple, but it gets a lot more complex once you start playing. Factors such as card placement, timings, chain points and card abilities ensure a variety of tactics. The game promises a diverse metagame, close to the traditional aggro-combo-control scale of other CCGs.&lt;/p&gt;
+
+    &lt;div class=&#34;box has-text-centered&#34;&gt;
+        &lt;figure class=&#34;image card&#34;&gt;
+            &lt;img src=&#34;http://wefightwithcards.com/ccn/Potato.png&#34; /&gt;
+        &lt;/figure&gt;
+        &lt;span class=&#34;small&#34;&gt;
+            The Potato &amp;mdash; #1 card in the beta
+        &lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;p class=&#34;divider&#34;&gt;&lt;/p&gt;
+
+    &lt;p&gt;Developers &lt;strong&gt;Ludosity&lt;/strong&gt; are tiny but strong: while just a small team of 6, they&#39;ve been around for almost 10 years, and have over 20 published titles. They all feature an unique feel, &#34;lighthearted and funny with a cartoony style&#34;.&lt;/p&gt;
+
+    &lt;p&gt;The team had a blast balancing the meta in their first multiplayer beta, which ended a few weeks ago. So I asked Joel Nyström to take a little time and give us some insight around the game, the beta and what to expect in multiplayer come September.&lt;/p&gt;
+
+
+&lt;div class=&#34;interview&#34;&gt;
+
+    &lt;ol&gt;
+        &lt;li&gt;
+            &lt;span&gt;Vlad:&lt;/span&gt; So Card City Nights 2 is out in September, excited about that?
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;span&gt;Joel:&lt;/span&gt; Yes, very excited! The reception so far has been very good, and we have a lot more stuff to reveal yet =)
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;span&gt;Vlad:&lt;/span&gt; Will we play a much different game at launch, than now in the beta?
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;span&gt;Joel:&lt;/span&gt; The multiplayer matches will not change significantly from what you saw in the beta, except for improved menus and UX. However there&#39;s also the whole single-player adventure that we haven&#39;t revealed yet!
+        &lt;/li&gt;
+
+        &lt;li&gt;
+            &lt;span&gt;V:&lt;/span&gt; Multiplayer is very much anticipated, at least judging from the player activity in the beta.
+            What were the challenges to create a multiplayer component to Card City Nights?
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;span&gt;J:&lt;/span&gt; The original CCN was probably not very balanced for competitive play, I think some cards were simply just better than others in that game. Because it was only a single-player adventure, we balanced it according to a difficulty curve that fit with the story arch. With CCN2 we try to balance the cards so that there will be no dominant strategies and every card can fill a useful role in a deck.
+        &lt;/li&gt;
+
+        &lt;li&gt;
+            &lt;span&gt;V:&lt;/span&gt; We definitely saw better balance in the mp beta. Speaking of, was there a meta-game already forming?
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;span&gt;J:&lt;/span&gt; The community would often post on the forums what decks/strategies they perceived as dominant, but the dominant strategies changed several times over a short 10-day period, and looking at the stats, the numbers aren&#39;t quite showing the same picture! So balancing the meta is something that&#39;s going extremely interesting once the game is live.
+        &lt;/li&gt;
+
+        &lt;li&gt;
+            &lt;span&gt;V:&lt;/span&gt; How different is it to test it with real players, versus just an internal test group? Was there a lot of unexpected stuff happening?
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;span&gt;J:&lt;/span&gt; We did the beta precisely to be on stand-by to quickly fix as many things as we could during the 10-day beta. It was a lot of fun, and very intense! Working live against an audience is a blast!
+        &lt;/li&gt;
+
+        &lt;li&gt;
+            &lt;span&gt;V:&lt;/span&gt; Any critical balance changes that you&#39;ve identified in the beta?
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;span&gt;J:&lt;/span&gt; Yes, in the initial version we might have gone a little too far with the unusual and weird mechanics, while neglecting the core mechanic of connecting chains. This was re-balanced during the beta.
+        &lt;/li&gt;
+
+        &lt;li&gt;
+            &lt;span&gt;V:&lt;/span&gt; Will we see some single-player content closer to launch?
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;span&gt;J:&lt;/span&gt; There won&#39;t be any more betas before launch now, but we&#39;ll start revealing more of the adventure in trailers, screenshots and blog-posts soon! Also, catch us at &lt;em&gt;Gamescom in Cologne&lt;/em&gt; this August and I&#39;ll personally show you =)
+        &lt;/li&gt;
+
+    &lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;p class=&#34;divider&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;
+With all that in mind, multiplayer should be a total blast! The last beta gave us a taste. Focused on multiplayer, beta #2 was open to 1000 players, who quickly generated a meta that shifted quite a bit during the course of the event. As a result, the devs released a couple of balance changes in short succession.
+&lt;/p&gt;
+
+    &lt;div class=&#34;box is-pulled-right has-text-centered&#34; style=&#34;width: 250px&#34;&gt;
+        &lt;figure class=&#34;image&#34;&gt;
+            &lt;img src=&#34;http://wefightwithcards.com/ccn/Princess Remedy.png&#34; /&gt;
+        &lt;/figure&gt;
+        &lt;span class=&#34;small&#34;&gt;
+            Princess Remedy proved to be a great control card
+        &lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;
+I loved the fact that new decks emerged every day: at first, the Frog deck ruled. Then, players started countering it with control decks, then by using the best princess there is: 
+&lt;strong class=&#34;game-card&#34; data-html=&#34;true&#34; data-toggle=&#34;popover&#34; data-placement=&#34;right&#34;
+        data-content=&#34;&lt;img src=&#39;http://wefightwithcards.com/cards/princess remedy.png&#39; class=&#39;gwent-card&#39; /&gt;&#34;
+&gt;
+    princess remedy
+&lt;/strong&gt;. In the last few days, people noticed that a fatigue archetype is a contender for &#34;top deck&#34;. This can only mean good news for the finished game &amp;mdash; everyone wants a dynamic meta with multiple deck types to explore.
+&lt;/p&gt;
+
+
+
+&lt;p&gt;Card City Nights comes out on September 1 on Steam.&lt;/p&gt;
+&lt;p&gt;PS: If you go to &lt;em&gt;Gamescom&lt;/em&gt; in Germany, don&#39;t forget to check out the Ludosity stand!&lt;/p&gt;
+
+&lt;/article&gt;
+
+&lt;section class=&#34;hero has-text-centered is-light&#34; style=&#34;border-top: 3px solid #ccc&#34;&gt;
+    &lt;div class=&#34;hero-body&#34;&gt;
+        &lt;div class=&#34;content&#34;&gt;
+            &lt;p class=&#34;subtitle&#34;&gt;
+                Get more articles like this, and keep up with your favourite card games like Hearthstone, Gwent and more!
+            &lt;/p&gt;
+            
+
+
+    
+
+
+&lt;div class=&#34;columns is-centered title-columns has-spacing-vertical&#34;&gt;
+    &lt;div class=&#34;column is-fixed&#34;&gt;
+
+        &lt;div class=&#34;has-text-centered&#34;&gt;
+            &lt;form action=&#34;//facebook.us9.list-manage.com/subscribe/post-json?u=a70281e2cd8892265f8028139&amp;amp;id=909bf03ce6&amp;c=?&#34; method=&#34;get&#34; id=&#34;mc-embedded-subscribe-form&#34; name=&#34;mc-embedded-subscribe-form&#34; class=&#34;validate form-subscribe&#34; target=&#34;_blank&#34; novalidate&gt;
+
+                &lt;div class=&#34;field main-email has-addons&#34;&gt;
+                    &lt;p class=&#34;control has-icons-left&#34;&gt;
+                        &lt;input class=&#34;input  required email&#34; type=&#34;email&#34; placeholder=&#34;Your email here *&#34; name=&#34;EMAIL&#34; id=&#34;mce-EMAIL&#34;&gt;
+                        &lt;span class=&#34;icon  is-left&#34;&gt;
+                            &lt;i class=&#34;fa fa-envelope&#34;&gt;&lt;/i&gt;
+                        &lt;/span&gt;
+                    &lt;/p&gt;
+                    
+                    &lt;p class=&#34;control&#34;&gt;
+                        &lt;button type=&#34;submit&#34; value=&#34;Subscribe&#34; name=&#34;subscribe&#34; class=&#34;button is-warning&#34;&gt;JOIN!&lt;/button&gt;
+                    &lt;/p&gt;
+                    
+                &lt;/div&gt;
+
+                &lt;div class=&#34;help&#34; role=&#34;alert&#34; id=&#34;mce-error-response&#34; style=&#34;display:none&#34;&gt;&lt;/div&gt;
+
+                &lt;div role=&#34;alert&#34; class=&#34;box media&#34; id=&#34;mce-success-response&#34; style=&#34;display:none&#34;&gt;
+                    &lt;div class=&#34;media-left&#34;&gt;
+                        &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;http://wefightwithcards.com/vlad.png&#34;&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&#34;media-content&#34;&gt;
+                        &lt;p&gt;Thanks for joining us! You&#39;ll receive an email shortly &amp;mdash; please click the link inside to confirm. &lt;/p&gt;
+                        &lt;p&gt;You&#39;ll get the newsletter on Mondays. Until then, &lt;a href=&#34;https://twitter.com/fightwithcards&#34;&gt;stay in touch on Twitter!&lt;/a&gt;&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+
+
+                
+
+                
+
+                &lt;p class=&#34;small text-dim has-text-centered&#34;&gt;* Receive emails every week, no spam, easy to unsubscribe.&lt;br/&gt;You can always change your selected games&lt;/p&gt;
+
+
+                
+                &lt;div style=&#34;position: absolute; left: -5000px;&#34; aria-hidden=&#34;true&#34;&gt;&lt;input type=&#34;text&#34; name=&#34;b_a70281e2cd8892265f8028139_909bf03ce6&#34; tabindex=&#34;-1&#34; value=&#34;&#34;&gt;&lt;/div&gt;
+            &lt;/form&gt;
+        &lt;/div&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
