@@ -9,7 +9,8 @@
   "scripts": {
     "build": "gulp && hugo",
     "dev": "gulp && gulp watch & hugo server -D && fg",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod": "gulp && hugo -b https://wefightwithcards.com/"
   },
   "repository": {
     "type": "git",

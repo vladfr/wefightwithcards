@@ -8,7 +8,11 @@
 {{ partial "header.html" . }}
 
 {{ if .Params.Image }}
-<div class="hero is-black is-medium" style="background: url('{{ .Params.Image }}') no-repeat">
+<div class="hero is-black is-medium" style="background: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),url('{{ .Params.Image }}') no-repeat 50%; background-size: cover">
     <div class="hero-body"></div>
     <div class="hero-foot" style="margin-bottom: 40px">
         <div class="container has-text-centered">
@@ -45,6 +49,12 @@
 <section class="section">
     <div class="container">
         {{ .Content }}
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        {{ partial "disqus.html" . }}
     </div>
 </section>
 
