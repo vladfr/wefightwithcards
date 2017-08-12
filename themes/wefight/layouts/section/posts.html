@@ -4,7 +4,7 @@
 <div class="container">
     <div class="hero">
         <div class="hero-body">
-            {{ range .Data.Pages.ByPublishDate.Reverse }}
+            {{ range .Data.Pages.ByPublishDate }}
 
             <div class="columns">
                 <div class="column is-narrow">
@@ -19,5 +19,7 @@
         </div>
     </div>
 </div>
+
+{{ partial "pagination.html" . }}
 
 {{ partial "footer.html" . }}

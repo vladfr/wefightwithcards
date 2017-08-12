@@ -45,6 +45,16 @@ $size-5: 1.2rem;
 $size-6: 1rem;
 $size-7: 0.75rem;
 
+.post-content {
+  h1, h2, h3, h4 {
+    margin-top: $size-1;
+  }
+
+  h5, h6 {
+    margin-top: $size-2;
+  }
+}
+
 $weight-light: 100;
 $weight-normal: 400;
 $weight-semibold: 400;

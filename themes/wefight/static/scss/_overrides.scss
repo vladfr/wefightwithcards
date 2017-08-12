@@ -153,6 +153,9 @@ h6 {
 
 .navbar, .navbar-brand, .navbar-burger {
   height: 5.25rem;
+  .navbar-item span {
+    border-bottom: 2px solid $grey;
+  }
 }
 
 .navbar-brand img {
@@ -380,4 +383,30 @@ h6 {
     }
   }
 
+}
+
+.tile.is-child {
+  margin-top: 1rem;
+}
+
+.hero.is-mini {
+  .hero-body {
+    margin: 0!important;
+    padding-top: 0!important;
+    padding-bottom: 0!important;
+  }
+}
+
+@media all and (max-width: $tablet) {
+form {
+  .field.has-addons {
+    flex-flow: column wrap!important;
+    justify-content: center;
+    align-items: center;
+
+      p {
+        flex: 0 0 100%;
+      }
+    }
+  }
 }
