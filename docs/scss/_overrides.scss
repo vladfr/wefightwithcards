@@ -308,12 +308,24 @@ h6 {
 .section .container {
   max-width: 700px!important;
 
+  .message div {
+    font-size: $size-6!important;
+    @media all and (min-width: $desktop) {
+    }
+  }
+
+  p + p {
+    margin: $size-4 0;
+    @media all and (max-width: $tablet) {
+      margin: $size-5 0;
+    }
+  }
+
   p, ul, ol, div {
     font-family: $family-serif;
     letter-spacing: -.003em;
     line-height: 1.65;
     font-size: $size-5;
-    margin: $size-4 0;
 
     word-break: break-word;
     word-wrap: break-word;
@@ -326,7 +338,6 @@ h6 {
     @media all and (max-width: $tablet) {
       font-size: $size-6;
       line-height: 1.55;
-      margin: $size-5 0;
       letter-spacing: -.004em;
     }
   }

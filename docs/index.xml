@@ -27,12 +27,15 @@
 
 &lt;p&gt;This guide will get you started in no time. Since you&#39;re familiar with Hearthstone, we&#39;ll skip the beginner stuff and dive right into the most important details: main concepts, keywords, classes, crafting, game types and decks to play.&lt;/p&gt;
 
-&lt;p&gt;Quick jumps:&lt;/p&gt;
+&lt;p&gt;Quick jumps:
 &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#basics&#34;&gt;Basics&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#runes&#34;&gt;Runes &amp; Prophecy&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#lanes&#34;&gt;Lanes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/p&gt;
 
-&lt;p&gt;
+&lt;p class=&#34;box&#34;&gt;
     &lt;small&gt;&lt;span class=&#34;tag is-info&#34;&gt;Pro tip:&lt;/span&gt; You can bookmark this page and come back to it for the quick reference cards.&lt;/small&gt;
 &lt;/p&gt;
 
@@ -45,7 +48,12 @@
 
 &lt;p&gt;The basic gameplay of Legends is identical to Hearthstone. The decks are bigger, but you still draw 3 cards with a mulligan, and you take turns playing creatures and spells. Your mana increases with 1 each turn. There&#39;s a ring &amp;mdash; just like The Coin &amp;mdash; and you get to use it 3 times (once per turn). You target the same way. There is no blocking phase and the only creatures that can keep you from hitting face have Guard (Taunt from Hearthstone).&lt;/p&gt;
 
-&lt;p&gt;Players start with 30 health. There are actions and abilities that restore health, and &lt;strong&gt;there is no maximum health&lt;/strong&gt;: you can gain life over the starting 30.&lt;/p&gt;
+&lt;p&gt;Players start with 30 health. There are actions and abilities that restore health, and &lt;strong&gt;there is no maximum health&lt;sup&gt;*&lt;/sup&gt;&lt;/strong&gt;: you can gain life over the starting 30.&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;small&gt;&lt;sup&gt;*&lt;/sup&gt; Actually, there is - it&#39;s 999 (same as any max stat, it seems). It doesn&#39;t have any practical relevance other than for the record&#39;s sake though.
+    &lt;/small&gt;
+&lt;/p&gt;
 
 &lt;h5 class=&#34;subtitle is-5&#34;&gt;Combat Lanes&lt;/h5&gt;
 
@@ -63,6 +71,34 @@
 
 &lt;p&gt;Runes are also relevant in fatigue: if you run out of cards and draw dead, it breaks one of your runes. If you have no runes left, you die. Due to the decks being 50 cards, this happens less often than Hearthstone.&lt;/p&gt;
 
+&lt;div class=&#34;message is-success&#34;&gt;
+    &lt;a name=&#34;basics&#34;&gt;&lt;/a&gt;
+    &lt;div class=&#34;message-header&#34;&gt;
+        Basics
+    &lt;/div&gt;
+    &lt;div class=&#34;message-body&#34;&gt;
+        You get 30 life, 3 cards (4 if you go second) and you can &lt;b&gt;mulligan&lt;/b&gt; once.
+        &lt;br&gt;
+        Decks are 50 cards, with cards of 1 or 2 colors + neutrals.
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;message is-info&#34;&gt;
+    &lt;a name=&#34;runes&#34;&gt;&lt;/a&gt;
+    &lt;div class=&#34;message-header&#34;&gt;Runes&lt;/div&gt;
+    &lt;div class=&#34;message-body&#34;&gt;
+        Runes break at or below 25, 20, 15, 10, 5 health. A rune draws a card for you or your opponent.
+        If the card has &lt;strong&gt;Prophecy&lt;/strong&gt; it can be played right away, for free.
+        &lt;br&gt;
+        Be careful to play around runes: sometimes it&#39;s good not to attack.
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;message is-warning&#34;&gt;
+    &lt;a name=&#34;lanes&#34;&gt;&lt;/a&gt;
+    &lt;div class=&#34;message-header&#34;&gt;Lanes&lt;/div&gt;
+    &lt;div class=&#34;message-body&#34;&gt;
+        You play minions in 2 lanes. The right lane is the Shadow Lane: creatures played there can&#39;t be attacked for one turn, but they can be targeted with spells.
+    &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h4 class=&#34;title is-4&#34;&gt;Keywords&lt;/h4&gt;
 
@@ -81,19 +117,22 @@
     &lt;li&gt;Regenerate creatures have all health restored at the start of your turn. This works like Stoneskin Gargoyle&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h5 class=&#34;subtitle is-5&#34;&gt;Summon = like Battlecry&lt;/h5&gt;
 &lt;p&gt;
-    Summon = like Battlecry&lt;br/&gt;
     Summon triggers when a card gets into play. It&#39;s usually present on creatures, but it can also be found on some Items.
     There&#39;s a big difference from Hearthstone: while Battlecry triggers when you play the card, Summon also triggers when a card is put into play by effects. Therefore, stuff like clone or revive effects are much more powerful in Legends. Summon can also target itself, so if a creature gives +1/+1 on Summon, it can give it to itself. Battlecry doesn&#39;t work like that at all!
 &lt;/p&gt;
 
-&lt;p&gt;Drain = Lifesteal &lt;br/&gt;
+&lt;h5 class=&#34;subtitle is-5&#34;&gt;Drain = Lifesteal&lt;/h5&gt;
+&lt;p&gt;
 Damage dealt also heals you for the same amount. Three things you need to know about Drain.
     &lt;li&gt;Ward blocks all Drain as it counts as 0 damage.&lt;/li&gt;
     &lt;li&gt;Drain creatures always drain their power value whether or not the creature you hit had that many HP. So if you hit a 2 HP creature with a 6 power drain you will heal for 6.&lt;/li&gt;
     &lt;li&gt;drain creatures only drain on your turn!&lt;/li&gt;
 &lt;/p&gt;
 
+
+&lt;h5 class=&#34;subtitle is-5&#34;&gt;Breakthrough&lt;/h5&gt;
 &lt;p&gt;
 &lt;strong&gt;Breakthrough&lt;/strong&gt; is the same as trample from MTG but is missing from HS. It means that when the creature trades, any damage it can do over the current health of its target will hit face. So if you hit a 1 health enemy with a 4 power breakthrough creature it will kill the enemy creature with 1 health and do 3 damage to face.
 &lt;/p&gt;
@@ -145,7 +184,7 @@ Damage dealt also heals you for the same amount. Three things you need to know a
 
 &lt;p&gt;Those are the differences between Legends and Hearthstone. Now go forth and plunder!&lt;/p&gt;
 
-&lt;section class=&#34;hero has-text-centered is-light is-mini&#34; style=&#34;border-top: 3px solid #ccc&#34;&gt;
+&lt;section class=&#34;hero has-text-centered is-light has-spacing-top&#34; style=&#34;border-top: 3px solid #ccc&#34;&gt;
     &lt;div class=&#34;hero-body&#34;&gt;
         &lt;div class=&#34;content&#34;&gt;
             &lt;p class=&#34;subtitle&#34;&gt;
