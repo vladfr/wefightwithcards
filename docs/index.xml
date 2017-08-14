@@ -490,7 +490,7 @@
                             &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templateHeader&#34;&gt;
                                 &lt;tr&gt;
                                     &lt;td valign=&#34;bottom&#34; class=&#34;headerContent&#34; mc:edit=&#34;main_header&#34;&gt;We fight with cards&lt;br&gt;
-                                        &lt;small&gt;Issue #16 / August 7, 2017 // &lt;!-- *|IFNOT:ARCHIVE_PAGE|* --&gt; &lt;a href=&#34;https://wefightwithcards.com/archives/issue_16&#34; target=&#34;_blank&#34;&gt;View in your browser&lt;/a&gt; &lt;!-- *|END:IF|* --&gt; &lt;/small&gt;&lt;/td&gt;
+                                        &lt;small&gt;Issue #16 / August 7, 2017 // &lt;!--  --&gt; &lt;a href=&#34;https://wefightwithcards.com/archives/issue_16&#34; target=&#34;_blank&#34;&gt;View in your browser&lt;/a&gt; &lt;!--  --&gt; &lt;/small&gt;&lt;/td&gt;
                                     &lt;td class=&#34;headerContentImg&#34;&gt;
                                         &lt;img src=&#34;https://wefightwithcards.com/images/new_icon.png&#34; width=&#34;64&#34; height=&#34;64&#34; alt=&#34;new_icon.png&#34;&gt;
                                     &lt;/td&gt;
@@ -533,7 +533,7 @@
                                         &lt;strong&gt;The Lich King is here!&lt;/strong&gt;&lt;br&gt;
                                         &lt;br&gt;
                                         If you&amp;#39;re wondering which cards are good, check out&amp;nbsp;&lt;a href=&#34;https://www.youtube.com/watch?v=iNC-TYUU49k&#34; target=&#34;_blank&#34;&gt;Kripp&amp;#39;s top 10 cards from Frozen Throne&lt;/a&gt;&amp;nbsp;and check out this &lt;a href=&#34;http://www.hearthpwn.com/news/3267-the-hearthpwn-knights-of-the-frozen-throne&#34; target=&#34;_blank&#34;&gt;list of top cards on hearthpwn&lt;/a&gt;.&lt;br&gt;
-                                        *|INTERESTED:Hearthstone|*&lt;br&gt;
+                                        &lt;br&gt;
                                         For some tricky card changes be sure to check out Toast&amp;#39;s videos about&amp;nbsp;&lt;a href=&#34;https://www.youtube.com/watch?v=aBFdsJsvpPs&amp;amp;t=4s&#34; target=&#34;_blank&#34;&gt;7 new interactions in Frozen Throne&lt;/a&gt;&amp;nbsp;as well as&amp;nbsp;&lt;a href=&#34;https://www.youtube.com/watch?v=30SUCFoVIjk&amp;amp;t=3s&#34; target=&#34;_blank&#34;&gt;5 Important CHANGES in Knights of the Frozen Throne (Fandral, Hallazeal, Kalimos)&lt;/a&gt;&lt;br&gt;
                                         &lt;br&gt;
                                         &lt;a href=&#34;http://www.hearthhead.com/news/knights-of-the-frozen-throne-prologue-lower-citadel-guides&#34; target=&#34;_blank&#34;&gt;Solo missions guide&lt;/a&gt;&lt;br&gt;
@@ -561,9 +561,9 @@
                                         &lt;br&gt;
                                         &lt;a href=&#34;https://www.youtube.com/watch?v=K1TfXTcqbg0&#34; target=&#34;_blank&#34;&gt;Frozen Throne funnies&lt;/a&gt;&lt;br&gt;
                                         &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
-                                        *|END:INTERESTED|*&lt;br&gt;
                                         &lt;br&gt;
-                                        &lt;span style=&#34;font-size:13px&#34;&gt;-- if this game is not in your list:&amp;nbsp;&lt;a href=&#34;https://wefightwithcards.com/archives/issue_17&#34; target=&#34;_blank&#34;&gt;see this issue online&lt;/a&gt;&amp;nbsp;/ &lt;a href=&#34;*|UPDATE_PROFILE|*&#34; target=&#34;_blank&#34;&gt;update your games&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+                                        &lt;br&gt;
+                                        &lt;span style=&#34;font-size:13px&#34;&gt;-- if this game is not in your list:&amp;nbsp;&lt;a href=&#34;https://wefightwithcards.com/archives/issue_17&#34; target=&#34;_blank&#34;&gt;see this issue online&lt;/a&gt;&amp;nbsp;/ &lt;a href=&#34;&#34; target=&#34;_blank&#34;&gt;update your games&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
                                 &lt;/tr&gt;
                                 &lt;tr&gt;
                                     &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_gwent&#34;&gt;&lt;h1&gt;&lt;span style=&#34;color:#16C95D&#34;&gt;&lt;span style=&#34;font-family:tahoma,verdana,segoe,sans-serif&#34;&gt;&lt;span style=&#34;font-size:14px&#34;&gt;#&lt;/span&gt;&lt;/span&gt;gwent&lt;/span&gt;&lt;/h1&gt;
@@ -571,7 +571,7 @@
                                         &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
                                         The first official Gwent show focuses on the game&amp;#39;s history from Witcher 3 onwards, as well as recent changes and the best fan-made stuff.&lt;br&gt;
                                         &lt;br&gt;
-                                        *|INTERESTED:Gwent|*&lt;br&gt;
+                                        &lt;br&gt;
                                         &lt;a href=&#34;http://www.gwentdb.com/news/145-gwentdb-most-popular-decks-of-week-32&#34; target=&#34;_blank&#34;&gt;Most popular decks of the week&lt;/a&gt;&lt;br&gt;
                                         &lt;span style=&#34;color:#A9A9A9&#34;&gt;//gwentdb&lt;/span&gt;&lt;br&gt;
                                         &lt;br&gt;
@@ -581,7 +581,7 @@
                                         &lt;br&gt;
                                         &lt;a href=&#34;https://www.youtube.com/watch?v=NKZ42NSnPsw&#34; target=&#34;_blank&#34;&gt;Best tournament moments - Gwentogether&lt;/a&gt;&lt;br&gt;
                                         &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
-                                        *|END:INTERESTED|*&lt;br&gt;
+                                        &lt;br&gt;
                                         &amp;nbsp;&lt;/td&gt;
                                 &lt;/tr&gt;
                                 &lt;tr&gt;
@@ -595,29 +595,29 @@
                                         &lt;a href=&#34;https://www.youtube.com/watch?v=CRpjw7LPqpY&#34; target=&#34;_blank&#34;&gt;Oversky co-op is quite engaging&lt;/a&gt;&lt;br&gt;
                                         &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;br&gt;
 &lt;br&gt;
-*|INTERESTED:Faeria|*&lt;br&gt;
+&lt;br&gt;
 &lt;a href=&#34;https://www.faeria.com/the-hub/guide/214-card-spotlight-ruunin-the-relentless&#34; target=&#34;_blank&#34;&gt;Card spotlight: Ruunin&lt;/a&gt;&lt;br&gt;
 //faeria&lt;br&gt;
 &lt;br&gt;
 &lt;a href=&#34;https://www.youtube.com/watch?v=BCRd3wgCgnc&amp;amp;t=2s&#34; target=&#34;_blank&#34;&gt;Legendary Green highlights&lt;/a&gt;&lt;br&gt;
 //Luuu&lt;br&gt;
-*|END:INTERESTED|*&lt;/span&gt;&lt;/td&gt;
+&lt;/span&gt;&lt;/td&gt;
                                 &lt;/tr&gt;
                                 &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_eternal&#34;&gt;*|INTERESTED:Eternal|*
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_eternal&#34;&gt;
                                         &lt;h1 class=&#34;null&#34;&gt;#eternal&lt;/h1&gt;
                                         &lt;a href=&#34;https://rngeternal.com/2017/08/13/launching-eternal-rules-guide-project/&#34; target=&#34;_blank&#34;&gt;Community Eternal rules project&lt;/a&gt;&lt;br&gt;
                                         &lt;span style=&#34;color:#A9A9A9&#34;&gt;//rng&lt;/span&gt;&lt;br&gt;
-                                        If you want to learn about Eternal, and contribute to a community-made guide at the same time, there&amp;#39;s a place for you!*|END:INTERESTED|*
+                                        If you want to learn about Eternal, and contribute to a community-made guide at the same time, there&amp;#39;s a place for you!
                                     &lt;/td&gt;
                                 &lt;/tr&gt;
                                 &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_discover&#34;&gt;*|INTERESTED:Shadowverse|*
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_discover&#34;&gt;
                                         &lt;h1 class=&#34;null&#34;&gt;&lt;span style=&#34;color:#800080&#34;&gt;&lt;span style=&#34;font-size:14px&#34;&gt;&lt;strong&gt;&lt;span style=&#34;font-family:tahoma,verdana,segoe,sans-serif&#34;&gt;&lt;span class=&#34;mc-toc-title&#34;&gt;#&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;shadowverse&lt;/span&gt;&lt;/h1&gt;
                                         &lt;a href=&#34;http://www.theshadownexus.com/the-shadow-nexus-control-bloods-match-ups/&#34; target=&#34;_blank&#34;&gt;Control Blood decklists and matchups&lt;/a&gt;&lt;br&gt;
                                         &lt;span style=&#34;color:#A9A9A9&#34;&gt;//theshadownexus&lt;/span&gt;&lt;br&gt;
                                         Control Blood seems playable again, and Aya dives right into it!&lt;br&gt;
-                                        *|END:INTERESTED|*&lt;br&gt;
+                                        &lt;br&gt;
                                         &amp;nbsp;&lt;/td&gt;
                                 &lt;/tr&gt;
                                 &lt;tr&gt;
@@ -644,14 +644,14 @@
                                 __DONE__
                             &lt;/p&gt;
                             &lt;div mc:edit=&#34;body_end&#34;&gt;&lt;/div&gt;
-                            &lt;p mc:edit=&#34;yourgames&#34;&gt;&lt;strong&gt;PS: Did you know&lt;/strong&gt; - you can pick&amp;nbsp;your favourite games and get the scoop on them&amp;nbsp;every week? &lt;a href=&#34;*|UPDATE_PROFILE|*&#34; target=&#34;_blank&#34;&gt;Just&amp;nbsp;click here and pick&amp;nbsp;your games&lt;/a&gt;&lt;/p&gt;
+                            &lt;p mc:edit=&#34;yourgames&#34;&gt;&lt;strong&gt;PS: Did you know&lt;/strong&gt; - you can pick&amp;nbsp;your favourite games and get the scoop on them&amp;nbsp;every week? &lt;a href=&#34;&#34; target=&#34;_blank&#34;&gt;Just&amp;nbsp;click here and pick&amp;nbsp;your games&lt;/a&gt;&lt;/p&gt;
                             &lt;p id=&#34;yourGames&#34;&gt;
                                 &lt;span&gt;Your games:&lt;/span&gt;
-                                *|INTERESTED:Hearthstone|*&lt;span&gt;Hearthstone&lt;/span&gt;*|END:INTERESTED|*
-                                *|INTERESTED:Gwent|*&lt;span&gt;Gwent&lt;/span&gt;*|END:INTERESTED|*
-                                *|INTERESTED:Eternal|*&lt;span&gt;Eternal&lt;/span&gt;*|END:INTERESTED|*
-                                *|INTERESTED:Shadowverse|*&lt;span&gt;Shadowverse&lt;/span&gt;*|END:INTERESTED|*
-                                *|INTERESTED:Elder Scrolls Legends|*&lt;span&gt;Elder Scrolls Legends&lt;/span&gt;*|END:INTERESTED|*
+                                &lt;span&gt;Hearthstone&lt;/span&gt;
+                                &lt;span&gt;Gwent&lt;/span&gt;
+                                &lt;span&gt;Eternal&lt;/span&gt;
+                                &lt;span&gt;Shadowverse&lt;/span&gt;
+                                &lt;span&gt;Elder Scrolls Legends&lt;/span&gt;
                             &lt;/p&gt;
                             &lt;p&gt;Not a subscriber? Join us at &lt;a href=&#34;https://wefightwithcards.com/&#34;&gt;https://wefightwithcards.com/&lt;/a&gt;
                             &lt;/p&gt;
@@ -670,13 +670,13 @@
                     &lt;/tr&gt;
                     &lt;tr&gt;
                         &lt;td valign=&#34;top&#34; class=&#34;footerContent&#34; style=&#34;padding-top:0;&#34; mc:edit=&#34;footer_content01&#34;&gt;
-                            *|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
+                             
                             &lt;br&gt;&lt;strong&gt;Our mailing address is:&lt;/strong&gt;
-                            &lt;br&gt;*|HTML:LIST_ADDRESS_HTML|* *|END:IF|*
+                            &lt;br&gt; 
                         &lt;/td&gt;
                     &lt;/tr&gt;
                     &lt;tr&gt;
-                        &lt;td valign=&#34;top&#34; class=&#34;footerContent&#34; style=&#34;padding-top:0;&#34; mc:edit=&#34;footer_content02&#34;&gt;You can&amp;nbsp;&lt;a href=&#34;*|UNSUB|*&#34;&gt;unsubscribe&lt;/a&gt;&amp;nbsp;or&amp;nbsp;&lt;a href=&#34;*|UPDATE_PROFILE|*&#34;&gt;update&amp;nbsp;&lt;/a&gt;&lt;a href=&#34;*|UPDATE_PROFILE|*&#34; target=&#34;_blank&#34;&gt;your games&lt;/a&gt;&lt;/td&gt;
+                        &lt;td valign=&#34;top&#34; class=&#34;footerContent&#34; style=&#34;padding-top:0;&#34; mc:edit=&#34;footer_content02&#34;&gt;You can&amp;nbsp;&lt;a href=&#34;&#34;&gt;unsubscribe&lt;/a&gt;&amp;nbsp;or&amp;nbsp;&lt;a href=&#34;&#34;&gt;update&amp;nbsp;&lt;/a&gt;&lt;a href=&#34;&#34; target=&#34;_blank&#34;&gt;your games&lt;/a&gt;&lt;/td&gt;
                     &lt;/tr&gt;
                 &lt;/table&gt;
                 &lt;!-- // END FOOTER --&gt;
