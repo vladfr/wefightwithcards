@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on We fight with cards - Weekly newsletter about Digital Card Games</title>
-    <link>https://wefightwithcards.com/posts/index.xml</link>
+    <link>http://wefightwithcards.com/posts/index.xml</link>
     <description>Recent content in Blog on We fight with cards - Weekly newsletter about Digital Card Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Apr 2017 13:31:11 +0300</lastBuildDate>
-    <atom:link href="https://wefightwithcards.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://wefightwithcards.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A guide to Elder Scrolls: Legends for Hearthstone players</title>
-      <link>https://wefightwithcards.com/posts/elder-scrolls-legends-guide-hearthstone-players/</link>
+      <link>http://wefightwithcards.com/posts/elder-scrolls-legends-guide-hearthstone-players/</link>
       <pubDate>Sat, 12 Aug 2017 23:48:45 +0300</pubDate>
       
-      <guid>https://wefightwithcards.com/posts/elder-scrolls-legends-guide-hearthstone-players/</guid>
+      <guid>http://wefightwithcards.com/posts/elder-scrolls-legends-guide-hearthstone-players/</guid>
       <description>&lt;p&gt;
     &lt;small&gt;original article by &lt;a href=&#34;https://www.reddit.com/user/Karandor&#34;&gt;/u/Karandor&lt;/a&gt;&lt;/small&gt;
 &lt;/p&gt;
@@ -210,7 +210,7 @@ Damage dealt also heals you for the same amount. Three things you need to know a
 
     &lt;div role=&#34;alert&#34; class=&#34;box media&#34; id=&#34;mce-success-response&#34; style=&#34;display:none&#34;&gt;
         &lt;div class=&#34;media-left&#34;&gt;
-            &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;https://wefightwithcards.com/vlad.png&#34;&gt;
+            &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;http://wefightwithcards.com/vlad.png&#34;&gt;
         &lt;/div&gt;
         &lt;div class=&#34;media-content&#34;&gt;
             &lt;p&gt;Thanks for joining us! You&#39;ll receive an email shortly &amp;mdash; please click the link inside to confirm. &lt;/p&gt;
@@ -233,10 +233,10 @@ Damage dealt also heals you for the same amount. Three things you need to know a
     
     <item>
       <title>Welcome to Frivolity</title>
-      <link>https://wefightwithcards.com/posts/card-city-nights-Ludosity-interview-multiplayer/</link>
+      <link>http://wefightwithcards.com/posts/card-city-nights-Ludosity-interview-multiplayer/</link>
       <pubDate>Tue, 25 Jul 2017 23:48:45 +0300</pubDate>
       
-      <guid>https://wefightwithcards.com/posts/card-city-nights-Ludosity-interview-multiplayer/</guid>
+      <guid>http://wefightwithcards.com/posts/card-city-nights-Ludosity-interview-multiplayer/</guid>
       <description>&lt;article&gt;
 &lt;p&gt;
 If you’re a fan of card games, you probably heard of Card City Nights by now. Released back in 2014, the quirky card game was a mash-up featuring characters from Ludosity’s other games, reimagined as card players. With an interesting core mechanic, stellar soundtrack and spiffy characters, the game was well-received and still provides a refreshing experience 3 years later. So naturally, fans are eagerly awaiting the sequel!
@@ -247,7 +247,7 @@ If you’re a fan of card games, you probably heard of Card City Nights by now. 
 
     &lt;div class=&#34;box has-text-centered&#34;&gt;
         &lt;figure class=&#34;image&#34;&gt;
-            &lt;img src=&#34;https://wefightwithcards.com/images/cardcitynights/card-city-nights-board.png&#34; /&gt;
+            &lt;img src=&#34;http://wefightwithcards.com/images/cardcitynights/card-city-nights-board.png&#34; /&gt;
         &lt;/figure&gt;
         &lt;span class=&#34;small&#34;&gt;
             Players will place cards on the same game board.
@@ -262,7 +262,7 @@ If you’re a fan of card games, you probably heard of Card City Nights by now. 
 
     &lt;div class=&#34;box has-text-centered&#34;&gt;
         &lt;figure class=&#34;image card&#34;&gt;
-            &lt;img src=&#34;https://wefightwithcards.com/ccn/Potato.png&#34; /&gt;
+            &lt;img src=&#34;http://wefightwithcards.com/ccn/Potato.png&#34; /&gt;
         &lt;/figure&gt;
         &lt;span class=&#34;small&#34;&gt;
             The Potato &amp;mdash; #1 card in the beta
@@ -339,7 +339,7 @@ With all that in mind, multiplayer should be a total blast! The last beta gave u
 
     &lt;div class=&#34;box is-pulled-right has-text-centered&#34; style=&#34;width: 250px&#34;&gt;
         &lt;figure class=&#34;image&#34;&gt;
-            &lt;img src=&#34;https://wefightwithcards.com/ccn/Princess Remedy.png&#34; /&gt;
+            &lt;img src=&#34;http://wefightwithcards.com/ccn/Princess Remedy.png&#34; /&gt;
         &lt;/figure&gt;
         &lt;span class=&#34;small&#34;&gt;
             Princess Remedy proved to be a great control card
@@ -349,7 +349,7 @@ With all that in mind, multiplayer should be a total blast! The last beta gave u
 &lt;p&gt;
 I loved the fact that new decks emerged every day: at first, the Frog deck ruled. Then, players started countering it with control decks, then by using the best princess there is: 
 &lt;strong class=&#34;game-card&#34; data-html=&#34;true&#34; data-toggle=&#34;popover&#34; data-placement=&#34;right&#34;
-        data-content=&#34;&lt;img src=&#39;https://wefightwithcards.com/cards/princess remedy.png&#39; class=&#39;gwent-card&#39; /&gt;&#34;
+        data-content=&#34;&lt;img src=&#39;http://wefightwithcards.com/cards/princess remedy.png&#39; class=&#39;gwent-card&#39; /&gt;&#34;
 &gt;
     princess remedy
 &lt;/strong&gt;. In the last few days, people noticed that a fatigue archetype is a contender for &#34;top deck&#34;. This can only mean good news for the finished game &amp;mdash; everyone wants a dynamic meta with multiple deck types to explore.
@@ -398,7 +398,7 @@ I loved the fact that new decks emerged every day: at first, the Frog deck ruled
 
                 &lt;div role=&#34;alert&#34; class=&#34;box media&#34; id=&#34;mce-success-response&#34; style=&#34;display:none&#34;&gt;
                     &lt;div class=&#34;media-left&#34;&gt;
-                        &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;https://wefightwithcards.com/vlad.png&#34;&gt;
+                        &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;http://wefightwithcards.com/vlad.png&#34;&gt;
                     &lt;/div&gt;
                     &lt;div class=&#34;media-content&#34;&gt;
                         &lt;p&gt;Thanks for joining us! You&#39;ll receive an email shortly &amp;mdash; please click the link inside to confirm. &lt;/p&gt;
