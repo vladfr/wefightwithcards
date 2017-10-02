@@ -48,10 +48,16 @@
 </section>
 
 <section class="section">
-    <div class="container">
-        {{ partial "disqus.html" . }}
+    <div class="container" id="comments">
+
     </div>
 </section>
+
+<form id="commentform" action="" method="post">
+    <input name="author" />
+    <textarea name="comment"></textarea>
+    <button type="submit">Send comment</button>
+</form>
 
 {{ if .Params.Reddit }}
 <section class="section">
@@ -65,3 +71,39 @@
 {{ end }}
 
 {{ partial "footer.html" . }}
+
+
+<script>
+    jQuery.getJSON('http://statikit-scripts.s3-website-us-east-1.amazonaws.com/test.json', function (data) {
+        jQuery.each(data, function(index, data){
+            jQuery('#comments').append('<div><p>'+data.author+'</p><p>'+data.comment+'</p></div>');
+        });
+    });
+
+    jQuery('#commentform').submit(function(e) {
+        e.preventDefault();
+        data = $('form#myForm').serialize();
+        payload = {
+            "TableName": "statikit-test",
+            "Item": {
+                "account": {"S": "test"},
+                "author": {"S": data['author']},
+                "email": {"S": "email@asd.com"},
+                "date": {"S": "2015-07-24"},
+                "comment": {"S": data['comment']}
+            }
+        };
+        jQuery.ajax({
+            url: 'https://a225djb29i.execute-api.us-east-1.amazonaws.com/prod/statikit-comments-test',
+            type: 'post',
+            data: payload,
+            headers: {
+                'x-api-key': 'E4sYgjCr5u63NvvDhCq2x4GqyrS6qYMw1moiH2nr'
+            },
+            dataType: 'json',
+            success: function (data) {
+                console.log(data);
+            }
+        });
+    });
+</script>
