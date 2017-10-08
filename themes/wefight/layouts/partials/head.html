@@ -30,10 +30,15 @@
     <meta name="twitter:site" content="@FightWithCards">
     <meta name="twitter:title" content="{{ $.Param "twitter.title" | default .Title }}">
     <meta name="twitter:description" content="{{ $.Param "twitter.description" | default ($.Param "meta.description") }}">
-    <meta name="og:description" content="{{ $.Param "og.description" | default ($.Param "meta.description") }}">
+
+    <meta property="og:title" content="{{ $.Param "twitter.title" | default .Title }}">
+    <meta property="og:description" content="{{ $.Param "twitter.description" | default ($.Param "meta.description") }}">
+    <meta property="og:site_name" content="wefightwithcards.com">
+    <meta property="fb:app_id" content="879888275511318">
+
     {{ if $.Param "twitter.image" }}
         <meta name="twitter:image" content="{{ $.Param "twitter.image" | absURL }}">
-        <meta name="og:image" content="{{ $.Param "twitter.image" | absURL }}">
+        <meta property="og:image" content="{{ $.Param "twitter.image" | absURL }}">
     {{ end }}
 
     <title>{{ .Title }}</title>
