@@ -10,13 +10,11 @@
 {{ $0.Render "list-first" }}
 
 <div class="tile is-ancestor">
-    <div class="tile is-parent">
     {{ range $i, $posts }}
         {{if not (eq $0 .) }}
             {{ .Render "list" }}
         {{ end }}
     {{ end }}
-    </div>
 </div>
 
 <div class="columns title-columns has-spacing-vertical">

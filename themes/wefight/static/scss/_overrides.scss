@@ -407,9 +407,17 @@ h6 {
   }
 
 }
-
+.tile {
+  flex-wrap: wrap;
+}
 .tile.is-child {
   margin-top: 1rem;
+  border: 1px solid #fff;
+  min-height: 250px;
+}
+
+.tile > .tile.is-child:last-child {
+  width: 100%!important;
 }
 
 .hero.is-mini {
