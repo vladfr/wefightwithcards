@@ -32,8 +32,11 @@
     <meta name="twitter:description" content="{{ $.Param "twitter.description" | default ($.Param "meta.description") }}">
 
     <meta property="og:title" content="{{ $.Param "twitter.title" | default .Title }}">
+
     <meta property="og:description" content="{{ $.Param "twitter.description" | default ($.Param "meta.description") }}">
     <meta property="og:site_name" content="wefightwithcards.com">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{ .Permalink }}">
     <meta property="fb:app_id" content="879888275511318">
 
     {{ if $.Param "twitter.image" }}
