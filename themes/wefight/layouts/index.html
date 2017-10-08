@@ -8,8 +8,8 @@
 {{ $posts := first 10 (where .Data.Pages.ByPublishDate "Section" "posts") }}
     {{$0 := index $posts 0}}
 {{ $0.Render "list-first" }}
-
-<div class="tile is-ancestor">
+{{ $even := modBool (len $posts) 2 }}
+<div class="tile is-ancestor {{ if $even }}even{{end}}">
     {{ range $i, $posts }}
         {{if not (eq $0 .) }}
             {{ .Render "list" }}

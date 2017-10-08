@@ -416,7 +416,7 @@ h6 {
   min-height: 250px;
 }
 
-.tile > .tile.is-child:last-child {
+.tile.even > .tile.is-child:last-child {
   width: 100%!important;
 }
 

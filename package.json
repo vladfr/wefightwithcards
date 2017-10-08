@@ -8,6 +8,7 @@
   },
   "scripts": {
     "dev": "gulp && gulp watch & hugo server -D && fg",
+    "devp": "gulp watch & hugo serve && fg",
     "test": "echo \"Error: no test specified\" && exit 1",
     "images": "gulp build",
     "prod": "gulp scss && hugo -b https://wefightwithcards.com/"
