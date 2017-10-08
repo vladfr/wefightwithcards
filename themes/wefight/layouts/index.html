@@ -4,7 +4,6 @@
 
 {{ partial "header.html" . }}
 
-
 {{ $posts := first 10 (where .Data.Pages.ByPublishDate "Section" "posts") }}
     {{$0 := index $posts 0}}
 {{ $0.Render "list-first" }}
