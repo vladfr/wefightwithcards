@@ -1,6 +1,5 @@
 {{ $name := .Get 0}}
+{{ $game := .Get 1}}
 <strong class="game-card" data-html="true" data-toggle="popover" data-placement="right"
-        data-content="<img src='/cards/{{ lower $name }}.png' class='gwent-card' />"
->
-    {{ lower $name }}
-</strong>
+        data-content="<img src='/cards/{{lower $game}}/{{ lower $name }}.png' class='{{$game}}-card' />"
+>{{ $name }}</strong>

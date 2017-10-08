@@ -10,6 +10,307 @@
     <atom:link href="http://wefightwithcards.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Magic the Gathering: Arena</title>
+      <link>http://wefightwithcards.com/posts/mtg-arena-intro/</link>
+      <pubDate>Sun, 08 Oct 2017 04:48:45 +0300</pubDate>
+      
+      <guid>http://wefightwithcards.com/posts/mtg-arena-intro/</guid>
+      <description>&lt;p style=&#34;color: #777777&#34;&gt;
+    &lt;em&gt;MTG: Arena is a new digital CCG in Wizard&#39;s Magic: the Gathering family. Here&#39;s all the info we have on the launch, cards and sets, game types, FAQs and more.&lt;/em&gt;
+&lt;/p&gt;
+&lt;p style=&#34;color: #777777&#34;&gt;
+    Jump to: &lt;a href=&#34;#cards&#34;&gt;Cards&lt;/a&gt; - &lt;a href=&#34;#beta&#34;&gt;Beta info&lt;/a&gt; - &lt;a href=&#34;#timeline&#34;&gt;Timeline&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div class=&#34;content is-clearfix&#34;&gt;
+    &lt;div class=&#34;card sidebar inverse&#34;&gt;
+        &lt;div class=&#34;card-image&#34;&gt;
+            &lt;img src=&#34;http://wefightwithcards.com/images/mtg/arena.jpg&#34;&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;card-content&#34;&gt;
+            &lt;ul class=&#34;menu-list&#34;&gt;
+                &lt;li&gt;Closed beta starts in November&lt;/li&gt;
+                &lt;li&gt;PC Only for now&lt;/li&gt;
+                &lt;li&gt;Launches in 2018&lt;/li&gt;
+                &lt;li&gt;All cards from Ixalan set&lt;/li&gt;
+                &lt;li&gt;All Standard sets at launch&lt;/li&gt;
+                &lt;li&gt;Focused on 1v1 battles&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;p class=&#34;first&#34;&gt;
+        Hearthstone took the world by storm and gave new life to what seemed to be an established genre.
+        The past few years saw a ton of big releases in the digital CCG genre, from new players such as Eternal, Shadowverse or Gwent, as well as
+        big franchises such as Elder Scrolls: Legends.
+    &lt;/p&gt;
+
+    &lt;p&gt;
+        Now it&#39;s time for the big one. The one that started it all. Magic is finally entering the modern digital era.
+    &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;content&#34;&gt;
+    &lt;p&gt;
+        &lt;b&gt;MTG: Arena&lt;/b&gt; is a fresh entry in a long-running franchise, and it&#39;s the first title in a new Digital initiative from publisher Wizards of the Coast.
+        It&#39;s a Free-to-Play digital CCG where you battle it out online with the newest Magic cards and planeswalkers.
+    &lt;/p&gt;
+
+    &lt;h2&gt;Magic old and new&lt;/h2&gt;
+    &lt;p&gt;
+        Magic was already playable online &amp;mdash; Magic Online first launched in 2002 and it&#39;s exactly like the tabletop version, trading included.
+        But &lt;b&gt;Arena&lt;/b&gt; is fully embracing the new digital landscape: built for quick play, with a ton of eye-candy for streaming, catering to both casual players and the eSports crowd, it promises an experience on par with other modern CCGs.
+    &lt;/p&gt;
+    &lt;p&gt;
+        If you&#39;re new to Magic, then watch this space: Arena shapes up to be a great intro to this vast world.
+    &lt;/p&gt;
+
+    &lt;div class=&#34;col-lg-12 bleed-mobile&#34;&gt;
+    &lt;div class=&#34;fotorama&#34;
+         data-width=&#34;100%&#34;
+         data-ratio=&#34;1290/730&#34;
+         data-nav=&#34;thumbs&#34;
+         data-allowfullscreen=&#34;native&#34;
+    &gt;
+                &lt;img src=&#34;http://wefightwithcards.com/images/mtg/gallery1/combat1.jpg&#34; /&gt;
+            
+                &lt;img src=&#34;http://wefightwithcards.com/images/mtg/gallery1/jace_2.jpg&#34; /&gt;
+            
+                &lt;img src=&#34;http://wefightwithcards.com/images/mtg/gallery1/mtg1.jpg&#34; /&gt;
+            
+                &lt;img src=&#34;http://wefightwithcards.com/images/mtg/gallery1/walktheplank.jpg&#34; /&gt;
+            
+    &lt;/div&gt;
+&lt;/div&gt;
+
+    &lt;h4 class=&#34;subtitle is-4&#34;&gt;Gameplay&lt;/h4&gt;
+
+    &lt;p&gt;In many aspects, Arena is very much like Hearthstone and similar games: you build decks from a collection, get packs with real money or by just playing the game,
+        and then duke it out in casual or competitive modes. There&#39;s promise of Draft gameplay as well as single-player content, but that&#39;s after Launch, sometime in 2018.
+    &lt;/p&gt;
+
+    &lt;p&gt;
+        Arena will have all cards from the tabletop set, and it will receive new cards at the same time with regular Magic releases.
+        Right now, this means 4 sets per year with a total of over 1000 cards! Yes, that&#39;s a lot, but you should know what you&#39;re getting into!
+    &lt;/p&gt;
+
+    &lt;p&gt;
+        The beta will be PC only, but they&#39;re already thinking on how to bring it to mobile platforms.
+    &lt;/p&gt;
+
+    &lt;a name=&#34;cards&#34;&gt;&lt;/a&gt;
+    &lt;h2&gt;Show me the cards already!&lt;/h2&gt;
+
+    &lt;p&gt;
+        MTG: Arena will start Beta with all cards from the newest Magic set, Ixalan.
+    &lt;/p&gt;
+    &lt;figure class=&#34;image&#34; style=&#34;max-width: 150px; &#34;&gt;
+        &lt;img src=&#34;http://wefightwithcards.com/images/mtg/XLN_Web.png&#34; /&gt;
+    &lt;/figure&gt;
+    &lt;p&gt;The four peoples of &lt;b&gt;Ixalan&lt;/b&gt; are locked in a deadly struggle as they search for the golden city of Orazca.&lt;/p&gt;
+    &lt;p&gt;The set features Pirates, Vampires, Merfolk, Dinosaurs, 3 powerful planeswalkers and more.&lt;/p&gt;
+    &lt;p&gt;Ixalan also adds double-faced cards to Magic: you complete an action and &lt;em&gt;Transform&lt;/em&gt; the card into something new and more powerful.&lt;/p&gt;
+    &lt;p&gt;Enough goodness for you?&lt;/p&gt;
+
+    &lt;div class=&#34;box&#34;&gt;
+        &lt;iframe width=&#34;100%&#34; height=&#34;360&#34; src=&#34;https://www.youtube.com/embed/ZOcCTSL7dmw?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+
+    &lt;div class=&#34;box&#34;&gt;
+        &lt;p&gt;
+            &lt;a href=&#34;https://magic.wizards.com/en/products/ixalan/cards&#34;&gt;Check out the full Ixalan card list&lt;/a&gt;
+        &lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;h2&gt;I know Magic &amp;mdash; what should I expect?&lt;/h2&gt;
+
+    &lt;p&gt;
+        People familiar with Magic gameplay will soon realize that Magic is far more complex than Hearthstone or other digital CCGs out there.
+        Wizards has built a new Rules Engine just for this game. Supposedly, the rules engine can handle everything they throw at it, and can even
+        figure out most new cards on its own. Now that&#39;s forward-thinking!
+    &lt;/p&gt;
+
+    &lt;figure class=&#34;image&#34; style=&#34;width: 250px&#34;&gt;
+        &lt;img src=&#34;http://wefightwithcards.com/cards/mtg/jace cunning castaway.png&#34; /&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;
+        This means that we will get full Magic, and not some watered-down version, like Duels. They have gone on record saying that
+        you can totally build a pro-tour level deck, or that they&#39;ve played a game with over 200 creatures on board (mostly tokens, but still impressive).
+    &lt;/p&gt;
+
+    &lt;p&gt;
+        Combine this with the fact that they&#39;ll have all Standard cards at launch, plus Draft mode, and potential tie-ins to the tabletop game and events like Friday Night Magic, and you get actual, real MTG. Can&#39;t wait!
+    &lt;/p&gt;
+
+    &lt;h4 class=&#34;subtitle is-4&#34;&gt;How will Magic happen?&lt;/h4&gt;
+    &lt;p&gt;
+        Just as you&#39;d expect, you can manually tap for mana, tap cards, select attackers and blockers, get a chance to respond with Instants and abilities.
+        You can also go on autopilot, and have the game do some of these things for you. The new Rules Engine is so smart that it can figure out when it needs to ping you for an action.
+    &lt;/p&gt;
+
+    &lt;figure class=&#34;image&#34; style=&#34;width: 250px&#34;&gt;
+        &lt;img src=&#34;http://wefightwithcards.com/images/mtg/priest of the wakening sun.png&#34; /&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;A good example is 
+
+&lt;strong class=&#34;game-card&#34; data-html=&#34;true&#34; data-toggle=&#34;popover&#34; data-placement=&#34;right&#34;
+        data-content=&#34;&lt;img src=&#39;http://wefightwithcards.com/cards/mtg/priest of the wakening sun.png&#39; class=&#39;mtg-card&#39; /&gt;&#34;
+&gt;Priest of the wakening sun&lt;/strong&gt;: every turn, you &lt;em&gt;may&lt;/em&gt; reveal a Dragon card to gain 2 life. If you don&#39;t have a Dragon in your hand, the game won&#39;t ask you.
+    &lt;/p&gt;
+
+    &lt;a name=&#34;beta&#34;&gt;&lt;/a&gt;
+    &lt;h2&gt;When can I play?&lt;/h2&gt;
+    &lt;p&gt;
+        The closed beta will start in November. Go to &lt;a href=&#34;PlayMTGArena.com&#34;&gt;PlayMTGArena.com&lt;/a&gt; and sign up.
+    &lt;/p&gt;
+    &lt;p&gt;Here&#39;s what you need to know:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;There&#39;s no tutorial in the beta &amp;mdash; you need to know the rules&lt;/li&gt;
+        &lt;li&gt;You&#39;ll be under NDA - cannot stream, write, or publicly talk about Arena&lt;/li&gt;
+        &lt;li&gt;Accounts will be wiped at the end&lt;/li&gt;
+        &lt;li&gt;It&#39;s PC only&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;
+        There is a priority access queue for people who played tabletop or MODO during the Ixalan release, as well as for &lt;b&gt;people who played Duels&lt;/b&gt;.
+        &lt;a href=&#34;https://magic.wizards.com/en/mtgarena-priority-access&#34;&gt;Read more here&lt;/a&gt;
+    &lt;/p&gt;
+
+    &lt;a name=&#34;timeline&#34;&gt;&lt;/a&gt;
+    &lt;h2&gt;What&#39;s next&lt;/h2&gt;
+    &lt;ul class=&#34;timeline&#34;&gt;
+        &lt;li class=&#34;timeline-header&#34;&gt;
+            &lt;span class=&#34;tag is-primary&#34;&gt;PRE-BETA&lt;/span&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-item&#34;&gt;
+            &lt;div class=&#34;timeline-marker&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;timeline-content&#34;&gt;
+                &lt;p class=&#34;heading&#34;&gt;October 8&lt;/p&gt;
+                &lt;p&gt;Gameplay showcase: Merfolk vs Vampires &amp;mdash; &lt;a href=&#34;https://go.twitch.tv/magic&#34;&gt;Live on Twitch&lt;/a&gt;&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-item&#34;&gt;
+            &lt;div class=&#34;timeline-marker&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;timeline-content&#34;&gt;
+                &lt;p class=&#34;heading&#34;&gt;October 11&lt;/p&gt;
+                &lt;p&gt;Visual Design Q&amp;amp;A&lt;/p&gt;
+                &lt;p&gt;Highlight: Why does Tapping look like that??&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-item&#34;&gt;
+            &lt;div class=&#34;timeline-marker&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;timeline-content&#34;&gt;
+                &lt;p class=&#34;heading&#34;&gt;October 18&lt;/p&gt;
+                &lt;p&gt;Community Deck Showdown - Ixalan decks&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-item&#34;&gt;
+            &lt;div class=&#34;timeline-marker&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;timeline-content&#34;&gt;
+                &lt;p class=&#34;heading&#34;&gt;October 25&lt;/p&gt;
+                &lt;p&gt;Closed Beta Q&amp;amp;A&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-header&#34;&gt;
+            &lt;span class=&#34;tag is-primary&#34;&gt;CLOSED BETA&lt;/span&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-item&#34;&gt;
+            &lt;div class=&#34;timeline-marker is-icon&#34;&gt;
+                &lt;i class=&#34;fa fa-flag&#34;&gt;&lt;/i&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;timeline-content&#34;&gt;
+                &lt;p class=&#34;heading&#34;&gt;November 2017&lt;/p&gt;
+                &lt;p&gt;Closed Beta start - under NDA&lt;/p&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Ixalan Constructed&lt;/li&gt;
+                    &lt;li&gt;only 1 v 1 matches&lt;/li&gt;
+                    &lt;li&gt;PC only&lt;/li&gt;
+                &lt;/ul&gt;
+                &lt;p&gt;&lt;a href=&#34;https://magic.wizards.com/en/mtgarena&#34;&gt;Sign up here&lt;/a&gt;&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-header&#34;&gt;
+            &lt;span class=&#34;tag is-primary&#34;&gt;2018&lt;/span&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-item&#34;&gt;
+            &lt;div class=&#34;timeline-content&#34;&gt;
+                &lt;p class=&#34;heading&#34;&gt;Start of 2018&lt;/p&gt;
+                &lt;p&gt;NDA lift on streaming&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-item&#34;&gt;
+            &lt;div class=&#34;timeline-marker is-icon&#34;&gt;
+                &lt;i class=&#34;fa fa-flag&#34;&gt;&lt;/i&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;timeline-content&#34;&gt;
+                &lt;p class=&#34;heading&#34;&gt;TBA&lt;/p&gt;
+                &lt;p&gt;Public Launch&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-item&#34;&gt;
+            &lt;div class=&#34;timeline-marker is-icon&#34;&gt;
+                &lt;i class=&#34;fa fa-flag&#34;&gt;&lt;/i&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;timeline-content&#34;&gt;
+                &lt;p class=&#34;heading&#34;&gt;Set releases&lt;/p&gt;
+                &lt;p&gt;Arena will get new sets at the same time as tabletop Magic&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+    &lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;section class=&#34;hero has-text-centered is-light has-spacing-top&#34; style=&#34;border-top: 3px solid #ccc&#34;&gt;
+    &lt;div class=&#34;hero-body&#34;&gt;
+        &lt;div class=&#34;content&#34;&gt;
+            &lt;p class=&#34;subtitle&#34;&gt;
+                There&#39;s loads more to come on MTG: Arena.&lt;br /&gt; Subscribe now and stay updated.
+            &lt;/p&gt;
+            &lt;form action=&#34;//facebook.us9.list-manage.com/subscribe/post-json?u=a70281e2cd8892265f8028139&amp;amp;id=909bf03ce6&amp;c=?&#34; method=&#34;get&#34; id=&#34;mc-embedded-subscribe-form&#34; name=&#34;mc-embedded-subscribe-form&#34; class=&#34;validate form-subscribe&#34; target=&#34;_blank&#34; novalidate&gt;
+
+    &lt;div class=&#34;field main-email has-addons&#34;&gt;
+        &lt;p class=&#34;control has-icons-left&#34;&gt;
+            &lt;input class=&#34;input required email&#34; type=&#34;email&#34; placeholder=&#34;Your email here *&#34; name=&#34;EMAIL&#34; id=&#34;mce-EMAIL&#34;&gt;
+            &lt;span class=&#34;icon  is-left&#34;&gt;
+                &lt;i class=&#34;fa fa-envelope&#34;&gt;&lt;/i&gt;
+            &lt;/span&gt;
+        &lt;/p&gt;
+        &lt;p class=&#34;control&#34;&gt;
+            &lt;button type=&#34;submit&#34; value=&#34;Subscribe&#34; name=&#34;subscribe&#34; class=&#34;button is-warning&#34;&gt;JOIN!&lt;/button&gt;
+        &lt;/p&gt;
+    &lt;/div&gt;
+
+    
+
+    &lt;div class=&#34;help&#34; role=&#34;alert&#34; id=&#34;mce-error-response&#34; style=&#34;display:none&#34;&gt;&lt;/div&gt;
+
+    &lt;div role=&#34;alert&#34; class=&#34;box media&#34; id=&#34;mce-success-response&#34; style=&#34;display:none&#34;&gt;
+        &lt;div class=&#34;media-left&#34;&gt;
+            &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;http://wefightwithcards.com/vlad.png&#34;&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;media-content&#34;&gt;
+            &lt;p&gt;Thanks for joining us! You&#39;ll receive an email shortly &amp;mdash; please click the link inside to confirm. &lt;/p&gt;
+            &lt;p&gt;You&#39;ll get the newsletter on Mondays. Until then, &lt;a href=&#34;https://twitter.com/fightwithcards&#34;&gt;stay in touch on Twitter!&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;small class=&#34;small text-dim has-text-centered&#34;&gt;* Receive emails every week, no spam, easy to unsubscribe.&lt;br/&gt;You can always change your selected games&lt;/small&gt;
+
+    
+    &lt;div style=&#34;position: absolute; left: -5000px;&#34; aria-hidden=&#34;true&#34;&gt;&lt;input type=&#34;text&#34; name=&#34;b_a70281e2cd8892265f8028139_909bf03ce6&#34; tabindex=&#34;-1&#34; value=&#34;&#34;&gt;&lt;/div&gt;
+&lt;/form&gt;
+
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>A guide to Elder Scrolls: Legends for Hearthstone players</title>
       <link>http://wefightwithcards.com/posts/elder-scrolls-legends-guide-hearthstone-players/</link>
       <pubDate>Sat, 12 Aug 2017 23:48:45 +0300</pubDate>
@@ -348,11 +649,10 @@ With all that in mind, multiplayer should be a total blast! The last beta gave u
 
 &lt;p&gt;
 I loved the fact that new decks emerged every day: at first, the Frog deck ruled. Then, players started countering it with control decks, then by using the best princess there is: 
+
 &lt;strong class=&#34;game-card&#34; data-html=&#34;true&#34; data-toggle=&#34;popover&#34; data-placement=&#34;right&#34;
-        data-content=&#34;&lt;img src=&#39;http://wefightwithcards.com/cards/princess remedy.png&#39; class=&#39;gwent-card&#39; /&gt;&#34;
-&gt;
-    princess remedy
-&lt;/strong&gt;. In the last few days, people noticed that a fatigue archetype is a contender for &#34;top deck&#34;. This can only mean good news for the finished game &amp;mdash; everyone wants a dynamic meta with multiple deck types to explore.
+        data-content=&#34;&lt;img src=&#39;http://wefightwithcards.com/cards/error: index out of range for positional param at position 1/princess remedy.png&#39; class=&#39;error: index out of range for positional param at position 1-card&#39; /&gt;&#34;
+&gt;Princess Remedy&lt;/strong&gt;. In the last few days, people noticed that a fatigue archetype is a contender for &#34;top deck&#34;. This can only mean good news for the finished game &amp;mdash; everyone wants a dynamic meta with multiple deck types to explore.
 &lt;/p&gt;
 
 

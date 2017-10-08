@@ -5,6 +5,8 @@
 @import 'overrides';
 
 @import "leanbox";
+@import "tooltip";
+@import "timeline";
 
 .checkbox {
   display: block;
@@ -52,3 +54,43 @@
   }
 }
 
+.card.sidebar {
+  @media all and (min-width: $tablet) {
+    float: right;
+    margin-left: 20px;
+    margin-right: -150px;
+    max-width: 350px;
+  }
+
+  @media all and (max-width: $tablet) {
+    margin-bottom: 2em!important;
+  }
+
+  .card-content {
+    padding-top: 0;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    font-size: $size-6!important;
+  }
+
+  &.inverse {
+    color: #fff;
+    background: #000;
+    ul li {
+      border-top: 1px solid $white;
+    }
+  }
+}
+
+p.first:first-letter {
+    color: $primary;
+    float: left;
+    font-size: 75px;
+    line-height: 60px;
+    padding-top: 4px;
+    padding-right: 8px;
+    padding-left: 3px;
+}
