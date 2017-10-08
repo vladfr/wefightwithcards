@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="38px" height="30px" viewBox="0 0 38 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
-    <title>arrow</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <g id="Desktop-HD" transform="translate(-1185.000000, -60.000000)" stroke="#3CC36A" stroke-width="5" fill="#3CC36A">
-            <g id="Group-3" transform="translate(1188.367693, 60.770000)">
-                <path d="M0.0584947667,13.79 C0.0584947667,13.79 21.9946736,14.5918919 25.4516706,12.29 C28.9086675,9.9881081 20.2850093,2.29 20.2850093,2.29 L31.8933466,14.1356642 L20.2850093,26.29 C20.2850093,26.29 29.0584948,18.29 25.4516706,16.29 C21.8448463,14.29 0.0584947667,14.1356642 0.0584947667,14.1356642 L0.0584947667,13.79 Z" id="arrow"></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg width="38" height="30" xmlns="http://www.w3.org/2000/svg"><title>arrow</title><path d="M3.426 14.56s21.936.802 25.393-1.5c3.457-2.302-5.166-10-5.166-10L35.26 14.906 23.653 27.06s8.773-8 5.166-10c-3.606-2-25.393-2.154-25.393-2.154v-.346z" stroke="#3CC36A" stroke-width="5" fill="#3CC36A" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"/></svg>
