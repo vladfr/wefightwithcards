@@ -9,14 +9,12 @@
 
 <script src="/js/form.js"></script>
 <script>
-    $(function () {
-        $('[data-toggle="tooltip"]').tooltip()
-    });
-
-    $(function () {
-        $('[data-toggle="popover"]').popover({
-            trigger: 'hover'
-        })
+    jQuery(document).ready(function(){
+        jQuery('.navbar-burger').click(function () {
+            var id = jQuery(this).attr('data-target');
+            jQuery('#'+id).toggleClass('is-active');
+            jQuery(this).toggleClass('is-active');
+        });
     });
 </script>
 
