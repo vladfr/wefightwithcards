@@ -25,11 +25,13 @@
   "homepage": "https://github.com/vladfr/wefightwithcards#readme",
   "dependencies": {
     "bulma": "^0.4.3",
-    "bulmaswatch": "^0.4.2"
+    "bulmaswatch": "^0.4.2",
+    "font-awesome": "^4.7.0"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.0.0",
+    "gulp-imagemin": "^3.4.0",
     "gulp-sass": "^3.1.0",
     "gulp-sourcemaps": "^2.6.0"
   }
