@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>We fight with cards - Weekly newsletter about Digital Card Games</title>
-    <link>http://wefightwithcards.com/index.xml</link>
+    <link>https://wefightwithcards.com/index.xml</link>
     <description>Recent content on We fight with cards - Weekly newsletter about Digital Card Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Oct 2017 04:48:45 +0300</lastBuildDate>
-    <atom:link href="http://wefightwithcards.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wefightwithcards.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Magic the Gathering: Arena</title>
-      <link>http://wefightwithcards.com/posts/mtg-arena-intro/</link>
+      <link>https://wefightwithcards.com/posts/mtg-arena-intro/</link>
       <pubDate>Sun, 08 Oct 2017 04:48:45 +0300</pubDate>
       
-      <guid>http://wefightwithcards.com/posts/mtg-arena-intro/</guid>
+      <guid>https://wefightwithcards.com/posts/mtg-arena-intro/</guid>
       <description>&lt;p style=&#34;color: #777777&#34;&gt;
     &lt;em&gt;MTG: Arena is a new digital CCG in Wizard&#39;s Magic: the Gathering family. Here&#39;s all the info we have on the launch, cards and sets, game types, FAQs and more.&lt;/em&gt;
 &lt;/p&gt;
@@ -25,7 +25,7 @@
 &lt;div class=&#34;content is-clearfix&#34;&gt;
     &lt;div class=&#34;card sidebar inverse&#34;&gt;
         &lt;div class=&#34;card-image&#34;&gt;
-            &lt;img src=&#34;http://wefightwithcards.com/images/mtg/arena.jpg&#34;&gt;
+            &lt;img src=&#34;https://wefightwithcards.com/images/mtg/arena.jpg&#34;&gt;
         &lt;/div&gt;
         &lt;div class=&#34;card-content&#34;&gt;
             &lt;ul class=&#34;menu-list&#34;&gt;
@@ -72,13 +72,13 @@
          data-nav=&#34;thumbs&#34;
          data-allowfullscreen=&#34;native&#34;
     &gt;
-                &lt;img src=&#34;http://wefightwithcards.com/images/mtg/gallery1/combat1.jpg&#34; /&gt;
+                &lt;img src=&#34;https://wefightwithcards.com/images/mtg/gallery1/combat1.jpg&#34; /&gt;
             
-                &lt;img src=&#34;http://wefightwithcards.com/images/mtg/gallery1/jace_2.jpg&#34; /&gt;
+                &lt;img src=&#34;https://wefightwithcards.com/images/mtg/gallery1/jace_2.jpg&#34; /&gt;
             
-                &lt;img src=&#34;http://wefightwithcards.com/images/mtg/gallery1/mtg1.jpg&#34; /&gt;
+                &lt;img src=&#34;https://wefightwithcards.com/images/mtg/gallery1/mtg1.jpg&#34; /&gt;
             
-                &lt;img src=&#34;http://wefightwithcards.com/images/mtg/gallery1/walktheplank.jpg&#34; /&gt;
+                &lt;img src=&#34;https://wefightwithcards.com/images/mtg/gallery1/walktheplank.jpg&#34; /&gt;
             
     &lt;/div&gt;
 &lt;/div&gt;
@@ -105,7 +105,7 @@
         MTG: Arena will start Beta with all cards from the newest Magic set, Ixalan.
     &lt;/p&gt;
     &lt;figure class=&#34;image&#34; style=&#34;max-width: 150px; &#34;&gt;
-        &lt;img src=&#34;http://wefightwithcards.com/images/mtg/XLN_Web.png&#34; /&gt;
+        &lt;img src=&#34;https://wefightwithcards.com/images/mtg/XLN_Web.png&#34; /&gt;
     &lt;/figure&gt;
     &lt;p&gt;The four peoples of &lt;b&gt;Ixalan&lt;/b&gt; are locked in a deadly struggle as they search for the golden city of Orazca.&lt;/p&gt;
     &lt;p&gt;The set features Pirates, Vampires, Merfolk, Dinosaurs, and 3 powerful planeswalkers.&lt;/p&gt;
@@ -131,7 +131,7 @@
     &lt;/p&gt;
 
     &lt;figure class=&#34;image&#34; style=&#34;width: 250px&#34;&gt;
-        &lt;img src=&#34;http://wefightwithcards.com/cards/mtg/jace cunning castaway.png&#34; /&gt;
+        &lt;img src=&#34;https://wefightwithcards.com/cards/mtg/jace cunning castaway.png&#34; /&gt;
     &lt;/figure&gt;
 
     &lt;p&gt;
@@ -150,13 +150,13 @@
     &lt;/p&gt;
 
     &lt;figure class=&#34;image&#34; style=&#34;width: 250px&#34;&gt;
-        &lt;img src=&#34;http://wefightwithcards.com/images/mtg/priest of the wakening sun.png&#34; /&gt;
+        &lt;img src=&#34;https://wefightwithcards.com/images/mtg/priest of the wakening sun.png&#34; /&gt;
     &lt;/figure&gt;
 
     &lt;p&gt;A good example is 
 
 &lt;strong class=&#34;game-card&#34; data-html=&#34;true&#34; data-toggle=&#34;popover&#34; data-placement=&#34;right&#34;
-        data-content=&#34;&lt;img src=&#39;http://wefightwithcards.com/cards/mtg/priest of the wakening sun.png&#39; class=&#39;mtg-card&#39; /&gt;&#34;
+        data-content=&#34;&lt;img src=&#39;https://wefightwithcards.com/cards/mtg/priest of the wakening sun.png&#39; class=&#39;mtg-card&#39; /&gt;&#34;
 &gt;Priest of the wakening sun&lt;/strong&gt;: every turn, you &lt;em&gt;may&lt;/em&gt; reveal a Dragon card to gain 2 life. If you don&#39;t have a Dragon in your hand, the game won&#39;t ask you.
     &lt;/p&gt;
 
@@ -184,19 +184,26 @@
         &lt;li class=&#34;timeline-header&#34;&gt;
             &lt;span class=&#34;tag is-primary&#34;&gt;PRE-BETA&lt;/span&gt;
         &lt;/li&gt;
-        &lt;li class=&#34;timeline-item&#34;&gt;
-            &lt;div class=&#34;timeline-marker&#34;&gt;&lt;/div&gt;
+        &lt;li class=&#34;timeline-item is-primary&#34;&gt;
+            &lt;div class=&#34;timeline-marker is-primary&#34;&gt;&lt;/div&gt;
             &lt;div class=&#34;timeline-content&#34;&gt;
                 &lt;p class=&#34;heading&#34;&gt;October 8&lt;/p&gt;
                 &lt;p&gt;Gameplay showcase: Merfolk vs Vampires &amp;mdash; &lt;a href=&#34;https://go.twitch.tv/videos/180714347&#34;&gt;Live on Twitch&lt;/a&gt; @ 0:21&lt;/p&gt;
             &lt;/div&gt;
         &lt;/li&gt;
-        &lt;li class=&#34;timeline-item&#34;&gt;
-            &lt;div class=&#34;timeline-marker&#34;&gt;&lt;/div&gt;
+        &lt;li class=&#34;timeline-item is-primary&#34;&gt;
+            &lt;div class=&#34;timeline-marker is-primary&#34;&gt;&lt;/div&gt;
             &lt;div class=&#34;timeline-content&#34;&gt;
                 &lt;p class=&#34;heading&#34;&gt;October 11&lt;/p&gt;
-                &lt;p&gt;Visual Design Q&amp;amp;A&lt;/p&gt;
-                &lt;p&gt;Highlight: Why does Tapping look like that??&lt;/p&gt;
+                &lt;p&gt;
+                    &lt;a href=&#34;https://www.twitch.tv/videos/181486316?t=29m30s&#34;&gt;
+                        Visual Design Q&amp;amp;A
+                    &lt;/a&gt;
+                &lt;/p&gt;
+                &lt;p&gt;Highlight: Why does Tapping look like that?
+                &lt;br&gt; &lt;a href=&#34;https://www.reddit.com/r/MagicArena/comments/75s5vf/vod_11th_october_aesthetics_and_visual_design/&#34;&gt;Reddit thread&lt;/a&gt;
+                &lt;/p&gt;
+
             &lt;/div&gt;
         &lt;/li&gt;
         &lt;li class=&#34;timeline-item&#34;&gt;
@@ -288,7 +295,7 @@
 
     &lt;div role=&#34;alert&#34; class=&#34;box media&#34; id=&#34;mce-success-response&#34; style=&#34;display:none&#34;&gt;
         &lt;div class=&#34;media-left&#34;&gt;
-            &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;http://wefightwithcards.com/vlad.png&#34;&gt;
+            &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;https://wefightwithcards.com/vlad.png&#34;&gt;
         &lt;/div&gt;
         &lt;div class=&#34;media-content&#34;&gt;
             &lt;p&gt;Thanks for joining us! You&#39;ll receive an email shortly &amp;mdash; please click the link inside to confirm. &lt;/p&gt;
@@ -311,10 +318,10 @@
     
     <item>
       <title>Issue #18 - A month later</title>
-      <link>http://wefightwithcards.com/archives/issue_18/</link>
+      <link>https://wefightwithcards.com/archives/issue_18/</link>
       <pubDate>Tue, 12 Sep 2017 02:00:11 +0300</pubDate>
       
-      <guid>http://wefightwithcards.com/archives/issue_18/</guid>
+      <guid>https://wefightwithcards.com/archives/issue_18/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
     #outlook a{
         padding:0;
@@ -993,10 +1000,10 @@
     
     <item>
       <title>Issue #17 - Frozen lich</title>
-      <link>http://wefightwithcards.com/archives/issue_17/</link>
+      <link>https://wefightwithcards.com/archives/issue_17/</link>
       <pubDate>Mon, 14 Aug 2017 16:51:11 +0300</pubDate>
       
-      <guid>http://wefightwithcards.com/archives/issue_17/</guid>
+      <guid>https://wefightwithcards.com/archives/issue_17/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
         #outlook a{
             padding:0;
@@ -1690,10 +1697,10 @@
     
     <item>
       <title>A guide to Elder Scrolls: Legends for Hearthstone players</title>
-      <link>http://wefightwithcards.com/posts/elder-scrolls-legends-guide-hearthstone-players/</link>
+      <link>https://wefightwithcards.com/posts/elder-scrolls-legends-guide-hearthstone-players/</link>
       <pubDate>Sat, 12 Aug 2017 23:48:45 +0300</pubDate>
       
-      <guid>http://wefightwithcards.com/posts/elder-scrolls-legends-guide-hearthstone-players/</guid>
+      <guid>https://wefightwithcards.com/posts/elder-scrolls-legends-guide-hearthstone-players/</guid>
       <description>&lt;p&gt;
     &lt;small&gt;original article by &lt;a href=&#34;https://www.reddit.com/user/Karandor&#34;&gt;/u/Karandor&lt;/a&gt;&lt;/small&gt;
 &lt;/p&gt;
@@ -1889,7 +1896,7 @@ Damage dealt also heals you for the same amount. Three things you need to know a
 
     &lt;div role=&#34;alert&#34; class=&#34;box media&#34; id=&#34;mce-success-response&#34; style=&#34;display:none&#34;&gt;
         &lt;div class=&#34;media-left&#34;&gt;
-            &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;http://wefightwithcards.com/vlad.png&#34;&gt;
+            &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;https://wefightwithcards.com/vlad.png&#34;&gt;
         &lt;/div&gt;
         &lt;div class=&#34;media-content&#34;&gt;
             &lt;p&gt;Thanks for joining us! You&#39;ll receive an email shortly &amp;mdash; please click the link inside to confirm. &lt;/p&gt;
@@ -1912,10 +1919,10 @@ Damage dealt also heals you for the same amount. Three things you need to know a
     
     <item>
       <title>Issue #16 - Crafting &amp; dusting!</title>
-      <link>http://wefightwithcards.com/archives/issue_16/</link>
+      <link>https://wefightwithcards.com/archives/issue_16/</link>
       <pubDate>Mon, 07 Aug 2017 16:51:11 +0300</pubDate>
       
-      <guid>http://wefightwithcards.com/archives/issue_16/</guid>
+      <guid>https://wefightwithcards.com/archives/issue_16/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
         #outlook a{
             padding:0;
@@ -2616,10 +2623,10 @@ Damage dealt also heals you for the same amount. Three things you need to know a
     
     <item>
       <title>Issue #15 - First interview!</title>
-      <link>http://wefightwithcards.com/archives/issue_15/</link>
+      <link>https://wefightwithcards.com/archives/issue_15/</link>
       <pubDate>Sat, 29 Jul 2017 16:51:11 +0300</pubDate>
       
-      <guid>http://wefightwithcards.com/archives/issue_15/</guid>
+      <guid>https://wefightwithcards.com/archives/issue_15/</guid>
       <description>&lt;center&gt;
     &lt;table align=&#34;center&#34; border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;bodyTable&#34; style=&#34;height: 100%;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;background-color: #fff;margin: 0;padding: 0;border-collapse: collapse !important;width: 100% !important;&#34;&gt;
         &lt;tr&gt;
@@ -2845,10 +2852,10 @@ Damage dealt also heals you for the same amount. Three things you need to know a
     
     <item>
       <title>Welcome to Frivolity</title>
-      <link>http://wefightwithcards.com/posts/card-city-nights-Ludosity-interview-multiplayer/</link>
+      <link>https://wefightwithcards.com/posts/card-city-nights-Ludosity-interview-multiplayer/</link>
       <pubDate>Tue, 25 Jul 2017 23:48:45 +0300</pubDate>
       
-      <guid>http://wefightwithcards.com/posts/card-city-nights-Ludosity-interview-multiplayer/</guid>
+      <guid>https://wefightwithcards.com/posts/card-city-nights-Ludosity-interview-multiplayer/</guid>
       <description>&lt;article&gt;
 &lt;p&gt;
 If you’re a fan of card games, you probably heard of Card City Nights by now. Released back in 2014, the quirky card game was a mash-up featuring characters from Ludosity’s other games, reimagined as card players. With an interesting core mechanic, stellar soundtrack and spiffy characters, the game was well-received and still provides a refreshing experience 3 years later. So naturally, fans are eagerly awaiting the sequel!
@@ -2859,7 +2866,7 @@ If you’re a fan of card games, you probably heard of Card City Nights by now. 
 
     &lt;div class=&#34;box has-text-centered&#34;&gt;
         &lt;figure class=&#34;image&#34;&gt;
-            &lt;img src=&#34;http://wefightwithcards.com/images/cardcitynights/card-city-nights-board.png&#34; /&gt;
+            &lt;img src=&#34;https://wefightwithcards.com/images/cardcitynights/card-city-nights-board.png&#34; /&gt;
         &lt;/figure&gt;
         &lt;span class=&#34;small&#34;&gt;
             Players will place cards on the same game board.
@@ -2874,7 +2881,7 @@ If you’re a fan of card games, you probably heard of Card City Nights by now. 
 
     &lt;div class=&#34;box has-text-centered&#34;&gt;
         &lt;figure class=&#34;image card&#34;&gt;
-            &lt;img src=&#34;http://wefightwithcards.com/ccn/Potato.png&#34; /&gt;
+            &lt;img src=&#34;https://wefightwithcards.com/ccn/Potato.png&#34; /&gt;
         &lt;/figure&gt;
         &lt;span class=&#34;small&#34;&gt;
             The Potato &amp;mdash; #1 card in the beta
@@ -2951,7 +2958,7 @@ With all that in mind, multiplayer should be a total blast! The last beta gave u
 
     &lt;div class=&#34;box is-pulled-right has-text-centered&#34; style=&#34;width: 250px&#34;&gt;
         &lt;figure class=&#34;image&#34;&gt;
-            &lt;img src=&#34;http://wefightwithcards.com/ccn/Princess Remedy.png&#34; /&gt;
+            &lt;img src=&#34;https://wefightwithcards.com/ccn/Princess Remedy.png&#34; /&gt;
         &lt;/figure&gt;
         &lt;span class=&#34;small&#34;&gt;
             Princess Remedy proved to be a great control card
@@ -2962,7 +2969,7 @@ With all that in mind, multiplayer should be a total blast! The last beta gave u
 I loved the fact that new decks emerged every day: at first, the Frog deck ruled. Then, players started countering it with control decks, then by using the best princess there is: 
 
 &lt;strong class=&#34;game-card&#34; data-html=&#34;true&#34; data-toggle=&#34;popover&#34; data-placement=&#34;right&#34;
-        data-content=&#34;&lt;img src=&#39;http://wefightwithcards.com/cards/error: index out of range for positional param at position 1/princess remedy.png&#39; class=&#39;error: index out of range for positional param at position 1-card&#39; /&gt;&#34;
+        data-content=&#34;&lt;img src=&#39;https://wefightwithcards.com/cards/error: index out of range for positional param at position 1/princess remedy.png&#39; class=&#39;error: index out of range for positional param at position 1-card&#39; /&gt;&#34;
 &gt;Princess Remedy&lt;/strong&gt;. In the last few days, people noticed that a fatigue archetype is a contender for &#34;top deck&#34;. This can only mean good news for the finished game &amp;mdash; everyone wants a dynamic meta with multiple deck types to explore.
 &lt;/p&gt;
 
@@ -3009,7 +3016,7 @@ I loved the fact that new decks emerged every day: at first, the Frog deck ruled
 
                 &lt;div role=&#34;alert&#34; class=&#34;box media&#34; id=&#34;mce-success-response&#34; style=&#34;display:none&#34;&gt;
                     &lt;div class=&#34;media-left&#34;&gt;
-                        &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;http://wefightwithcards.com/vlad.png&#34;&gt;
+                        &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;https://wefightwithcards.com/vlad.png&#34;&gt;
                     &lt;/div&gt;
                     &lt;div class=&#34;media-content&#34;&gt;
                         &lt;p&gt;Thanks for joining us! You&#39;ll receive an email shortly &amp;mdash; please click the link inside to confirm. &lt;/p&gt;
@@ -3045,10 +3052,10 @@ I loved the fact that new decks emerged every day: at first, the Frog deck ruled
     
     <item>
       <title>Issue #14</title>
-      <link>http://wefightwithcards.com/archives/issue_14/</link>
+      <link>https://wefightwithcards.com/archives/issue_14/</link>
       <pubDate>Mon, 17 Jul 2017 16:51:11 +0300</pubDate>
       
-      <guid>http://wefightwithcards.com/archives/issue_14/</guid>
+      <guid>https://wefightwithcards.com/archives/issue_14/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
     #outlook a{
         padding:0;
@@ -3785,10 +3792,10 @@ A Good Saesenthessis Deck?! - Scoia&amp;#39;tael Gameplay&lt;/a&gt;&lt;br&gt;
     
     <item>
       <title>Issue #13</title>
-      <link>http://wefightwithcards.com/archives/issue_13/</link>
+      <link>https://wefightwithcards.com/archives/issue_13/</link>
       <pubDate>Sat, 08 Jul 2017 16:51:11 +0300</pubDate>
       
-      <guid>http://wefightwithcards.com/archives/issue_13/</guid>
+      <guid>https://wefightwithcards.com/archives/issue_13/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
     #outlook a{
         padding:0;
@@ -4540,10 +4547,10 @@ A Good Saesenthessis Deck?! - Scoia&amp;#39;tael Gameplay&lt;/a&gt;&lt;br&gt;
     
     <item>
       <title>Issue #12</title>
-      <link>http://wefightwithcards.com/archives/issue_12/</link>
+      <link>https://wefightwithcards.com/archives/issue_12/</link>
       <pubDate>Mon, 03 Jul 2017 16:51:11 +0300</pubDate>
       
-      <guid>http://wefightwithcards.com/archives/issue_12/</guid>
+      <guid>https://wefightwithcards.com/archives/issue_12/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
     #outlook a{
         padding:0;
@@ -5273,10 +5280,10 @@ A Good Saesenthessis Deck?! - Scoia&amp;#39;tael Gameplay&lt;/a&gt;&lt;br&gt;
     
     <item>
       <title>Issue #11</title>
-      <link>http://wefightwithcards.com/archives/issue_11/</link>
+      <link>https://wefightwithcards.com/archives/issue_11/</link>
       <pubDate>Mon, 26 Jun 2017 16:51:11 +0300</pubDate>
       
-      <guid>http://wefightwithcards.com/archives/issue_11/</guid>
+      <guid>https://wefightwithcards.com/archives/issue_11/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
     #outlook a{
         padding:0;
@@ -5979,10 +5986,10 @@ A Good Saesenthessis Deck?! - Scoia&amp;#39;tael Gameplay&lt;/a&gt;&lt;br&gt;
     
     <item>
       <title>Issue #10</title>
-      <link>http://wefightwithcards.com/archives/issue_10/</link>
+      <link>https://wefightwithcards.com/archives/issue_10/</link>
       <pubDate>Mon, 19 Jun 2017 16:51:11 +0300</pubDate>
       
-      <guid>http://wefightwithcards.com/archives/issue_10/</guid>
+      <guid>https://wefightwithcards.com/archives/issue_10/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
     #outlook a{
         padding:0;
@@ -6703,10 +6710,10 @@ A Good Saesenthessis Deck?! - Scoia&amp;#39;tael Gameplay&lt;/a&gt;&lt;br&gt;
     
     <item>
       <title>Issue #9</title>
-      <link>http://wefightwithcards.com/archives/issue_9/</link>
+      <link>https://wefightwithcards.com/archives/issue_9/</link>
       <pubDate>Mon, 05 Jun 2017 16:51:11 +0300</pubDate>
       
-      <guid>http://wefightwithcards.com/archives/issue_9/</guid>
+      <guid>https://wefightwithcards.com/archives/issue_9/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
     #outlook a{
         padding:0;
@@ -7466,10 +7473,10 @@ A Good Saesenthessis Deck?! - Scoia&amp;#39;tael Gameplay&lt;/a&gt;&lt;br&gt;
     
     <item>
       <title>Issue #8 - Budget decks</title>
-      <link>http://wefightwithcards.com/archives/issue_8/</link>
+      <link>https://wefightwithcards.com/archives/issue_8/</link>
       <pubDate>Tue, 30 May 2017 16:51:11 +0300</pubDate>
       
-      <guid>http://wefightwithcards.com/archives/issue_8/</guid>
+      <guid>https://wefightwithcards.com/archives/issue_8/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
         #outlook a{
             padding:0;
@@ -8209,10 +8216,10 @@ A Good Saesenthessis Deck?! - Scoia&amp;#39;tael Gameplay&lt;/a&gt;&lt;br&gt;
     
     <item>
       <title>Issue #7 - Productivity killer</title>
-      <link>http://wefightwithcards.com/archives/issue_7/</link>
+      <link>https://wefightwithcards.com/archives/issue_7/</link>
       <pubDate>Tue, 23 May 2017 16:51:11 +0300</pubDate>
       
-      <guid>http://wefightwithcards.com/archives/issue_7/</guid>
+      <guid>https://wefightwithcards.com/archives/issue_7/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
     #outlook a{
         padding:0;
