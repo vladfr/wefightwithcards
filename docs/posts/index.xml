@@ -10,6 +10,183 @@
     <atom:link href="https://wefightwithcards.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>MTG Arena beta timeline</title>
+      <link>https://wefightwithcards.com/posts/mtg-arena-timeline/</link>
+      <pubDate>Mon, 16 Oct 2017 04:48:45 +0300</pubDate>
+      
+      <guid>https://wefightwithcards.com/posts/mtg-arena-timeline/</guid>
+      <description>&lt;p style=&#34;color: #777777&#34;&gt;
+    &lt;em&gt;MTG: Arena is a new digital CCG in Wizard&#39;s Magic: the Gathering family. We&#39;re covering all the latest updates in our Arena series.&lt;/em&gt;
+&lt;/p&gt;
+&lt;p style=&#34;color: #777777&#34;&gt;
+    Jump to: &lt;a href=&#34;https://wefightwithcards.com/posts/mtg-arena-intro/#cards&#34;&gt;Cards&lt;/a&gt; - &lt;a href=&#34;https://wefightwithcards.com/posts/mtg-arena-intro/#beta&#34;&gt;Beta info&lt;/a&gt; - Timeline - &lt;a href=&#34;https://wefightwithcards.com/posts/mtg-arena-faq&#34;&gt;FAQs&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div class=&#34;content is-clearfix&#34;&gt;
+    &lt;div class=&#34;card sidebar inverse&#34;&gt;
+        &lt;div class=&#34;card-image&#34;&gt;
+            &lt;img src=&#34;https://wefightwithcards.com/images/mtg/arena.jpg&#34;&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;card-content&#34;&gt;
+            &lt;ul class=&#34;menu-list&#34;&gt;
+                &lt;li&gt;Dev streams in October on Twitch&lt;/li&gt;
+                &lt;li&gt;Closed NDA beta starts in November&lt;/li&gt;
+                &lt;li&gt;Streaming allowed early 2018&lt;/li&gt;
+                &lt;li&gt;PC Only for now&lt;/li&gt;
+                &lt;li&gt;Launches in 2018&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;p class=&#34;first&#34;&gt;
+        The MTG: Arena team is gearing up for the Closed Beta with a series of streams in which they talk more about the game.
+        There&#39;s great gameplay videos as well as pre-alpha footage, some even from before the art team got a chance to work their magic.
+    &lt;/p&gt;
+
+    &lt;p&gt;
+        It&#39;s a game very much under development, but the team has done great work so far and it&#39;s a rewarding experience to follow along with their progress.
+    &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;content&#34;&gt;
+    &lt;p&gt;Here are all the past and upcoming streams: &lt;/p&gt;
+    &lt;ul class=&#34;timeline&#34;&gt;
+        &lt;li class=&#34;timeline-header&#34;&gt;
+            &lt;span class=&#34;tag is-primary&#34;&gt;PRE-BETA&lt;/span&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-item is-primary&#34;&gt;
+            &lt;div class=&#34;timeline-marker is-primary&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;timeline-content&#34;&gt;
+                &lt;p class=&#34;heading&#34;&gt;October 8&lt;/p&gt;
+                &lt;p&gt;Gameplay showcase: Merfolk vs Vampires &amp;mdash; &lt;a href=&#34;https://www.twitch.tv/videos/180714347?t=21m26s&#34;&gt;Watch on Twitch&lt;/a&gt; @ 0:21&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-item is-primary&#34;&gt;
+            &lt;div class=&#34;timeline-marker is-primary&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;timeline-content&#34;&gt;
+                &lt;p class=&#34;heading&#34;&gt;October 11&lt;/p&gt;
+                &lt;p&gt;
+                    &lt;a href=&#34;https://www.twitch.tv/videos/181486316?t=29m30s&#34;&gt;
+                        Visual Design Q&amp;amp;A
+                    &lt;/a&gt;
+                &lt;/p&gt;
+                &lt;p&gt;Highlight: Why does Tapping look like that?
+                    &lt;br&gt; &lt;a href=&#34;https://www.reddit.com/r/MagicArena/comments/75s5vf/vod_11th_october_aesthetics_and_visual_design/&#34;&gt;Reddit thread&lt;/a&gt;
+                &lt;/p&gt;
+
+            &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-item&#34;&gt;
+            &lt;div class=&#34;timeline-marker&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;timeline-content&#34;&gt;
+                &lt;p class=&#34;heading&#34;&gt;October 18&lt;/p&gt;
+                &lt;p&gt;Community Deck Showdown - Ixalan decks&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-item&#34;&gt;
+            &lt;div class=&#34;timeline-marker&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;timeline-content&#34;&gt;
+                &lt;p class=&#34;heading&#34;&gt;October 25&lt;/p&gt;
+                &lt;p&gt;Closed Beta Q&amp;amp;A&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-header&#34;&gt;
+            &lt;span class=&#34;tag is-primary&#34;&gt;CLOSED BETA&lt;/span&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-item&#34;&gt;
+            &lt;div class=&#34;timeline-marker is-icon&#34;&gt;
+                &lt;i class=&#34;fa fa-flag&#34;&gt;&lt;/i&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;timeline-content&#34;&gt;
+                &lt;p class=&#34;heading&#34;&gt;November 2017&lt;/p&gt;
+                &lt;p&gt;Closed Beta start - under NDA&lt;/p&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Ixalan Constructed&lt;/li&gt;
+                    &lt;li&gt;only 1 v 1 matches&lt;/li&gt;
+                    &lt;li&gt;PC only&lt;/li&gt;
+                &lt;/ul&gt;
+                &lt;p&gt;&lt;a href=&#34;https://magic.wizards.com/en/mtgarena&#34;&gt;Sign up here&lt;/a&gt;&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-header&#34;&gt;
+            &lt;span class=&#34;tag is-primary&#34;&gt;2018&lt;/span&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-item&#34;&gt;
+            &lt;div class=&#34;timeline-content&#34;&gt;
+                &lt;p class=&#34;heading&#34;&gt;Start of 2018&lt;/p&gt;
+                &lt;p&gt;NDA lift on streaming&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-item&#34;&gt;
+            &lt;div class=&#34;timeline-marker is-icon&#34;&gt;
+                &lt;i class=&#34;fa fa-flag&#34;&gt;&lt;/i&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;timeline-content&#34;&gt;
+                &lt;p class=&#34;heading&#34;&gt;TBA&lt;/p&gt;
+                &lt;p&gt;Public Launch&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&#34;timeline-item&#34;&gt;
+            &lt;div class=&#34;timeline-marker is-icon&#34;&gt;
+                &lt;i class=&#34;fa fa-flag&#34;&gt;&lt;/i&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;timeline-content&#34;&gt;
+                &lt;p class=&#34;heading&#34;&gt;Set releases&lt;/p&gt;
+                &lt;p&gt;Arena will get new sets at the same time as tabletop Magic&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+    &lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;section class=&#34;hero has-text-centered is-light has-spacing-top&#34; style=&#34;border-top: 3px solid #ccc&#34;&gt;
+    &lt;div class=&#34;hero-body&#34;&gt;
+        &lt;div class=&#34;content&#34;&gt;
+            &lt;p class=&#34;subtitle&#34;&gt;
+                There&#39;s loads more to come on MTG: Arena.&lt;br /&gt; Subscribe now and stay updated.
+            &lt;/p&gt;
+            &lt;form action=&#34;//facebook.us9.list-manage.com/subscribe/post-json?u=a70281e2cd8892265f8028139&amp;amp;id=909bf03ce6&amp;c=?&#34; method=&#34;get&#34; id=&#34;mc-embedded-subscribe-form&#34; name=&#34;mc-embedded-subscribe-form&#34; class=&#34;validate form-subscribe&#34; target=&#34;_blank&#34; novalidate&gt;
+
+    &lt;div class=&#34;field main-email has-addons&#34;&gt;
+        &lt;p class=&#34;control has-icons-left&#34;&gt;
+            &lt;input class=&#34;input required email&#34; type=&#34;email&#34; placeholder=&#34;Your email here *&#34; name=&#34;EMAIL&#34; id=&#34;mce-EMAIL&#34;&gt;
+            &lt;span class=&#34;icon  is-left&#34;&gt;
+                &lt;i class=&#34;fa fa-envelope&#34;&gt;&lt;/i&gt;
+            &lt;/span&gt;
+        &lt;/p&gt;
+        &lt;p class=&#34;control&#34;&gt;
+            &lt;button type=&#34;submit&#34; value=&#34;Subscribe&#34; name=&#34;subscribe&#34; class=&#34;button is-warning&#34;&gt;JOIN!&lt;/button&gt;
+        &lt;/p&gt;
+    &lt;/div&gt;
+
+    
+
+    &lt;div class=&#34;help&#34; role=&#34;alert&#34; id=&#34;mce-error-response&#34; style=&#34;display:none&#34;&gt;&lt;/div&gt;
+
+    &lt;div role=&#34;alert&#34; class=&#34;box media&#34; id=&#34;mce-success-response&#34; style=&#34;display:none&#34;&gt;
+        &lt;div class=&#34;media-left&#34;&gt;
+            &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;https://wefightwithcards.com/vlad.png&#34;&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;media-content&#34;&gt;
+            &lt;p&gt;Thanks for joining us! You&#39;ll receive an email shortly &amp;mdash; please click the link inside to confirm. &lt;/p&gt;
+            &lt;p&gt;You&#39;ll get the newsletter on Mondays. Until then, &lt;a href=&#34;https://twitter.com/fightwithcards&#34;&gt;stay in touch on Twitter!&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;small class=&#34;small text-dim has-text-centered&#34;&gt;* Receive emails every week, no spam, easy to unsubscribe.&lt;br/&gt;You can always change your selected games&lt;/small&gt;
+
+    
+    &lt;div style=&#34;position: absolute; left: -5000px;&#34; aria-hidden=&#34;true&#34;&gt;&lt;input type=&#34;text&#34; name=&#34;b_a70281e2cd8892265f8028139_909bf03ce6&#34; tabindex=&#34;-1&#34; value=&#34;&#34;&gt;&lt;/div&gt;
+&lt;/form&gt;
+
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Magic the Gathering: Arena</title>
       <link>https://wefightwithcards.com/posts/mtg-arena-intro/</link>
       <pubDate>Sun, 08 Oct 2017 04:48:45 +0300</pubDate>
@@ -19,7 +196,7 @@
     &lt;em&gt;MTG: Arena is a new digital CCG in Wizard&#39;s Magic: the Gathering family. Here&#39;s all the info we have on the launch, cards and sets, game types, FAQs and more.&lt;/em&gt;
 &lt;/p&gt;
 &lt;p style=&#34;color: #777777&#34;&gt;
-    Jump to: &lt;a href=&#34;#cards&#34;&gt;Cards&lt;/a&gt; - &lt;a href=&#34;#beta&#34;&gt;Beta info&lt;/a&gt; - &lt;a href=&#34;#timeline&#34;&gt;Timeline&lt;/a&gt;
+    Jump to: &lt;a href=&#34;#cards&#34;&gt;Cards&lt;/a&gt; - &lt;a href=&#34;#beta&#34;&gt;Beta info&lt;/a&gt; - &lt;a href=&#34;https://wefightwithcards.com/posts/mtg-arena-timeline/&#34;&gt;Timeline&lt;/a&gt; - &lt;a href=&#34;https://wefightwithcards.com/posts/mtg-arena-faq&#34;&gt;FAQs&lt;/a&gt;
 &lt;/p&gt;
 
 &lt;div class=&#34;content is-clearfix&#34;&gt;
@@ -180,92 +357,14 @@
 
     &lt;a name=&#34;timeline&#34;&gt;&lt;/a&gt;
     &lt;h2&gt;What&#39;s next&lt;/h2&gt;
-    &lt;ul class=&#34;timeline&#34;&gt;
-        &lt;li class=&#34;timeline-header&#34;&gt;
-            &lt;span class=&#34;tag is-primary&#34;&gt;PRE-BETA&lt;/span&gt;
-        &lt;/li&gt;
-        &lt;li class=&#34;timeline-item is-primary&#34;&gt;
-            &lt;div class=&#34;timeline-marker is-primary&#34;&gt;&lt;/div&gt;
-            &lt;div class=&#34;timeline-content&#34;&gt;
-                &lt;p class=&#34;heading&#34;&gt;October 8&lt;/p&gt;
-                &lt;p&gt;Gameplay showcase: Merfolk vs Vampires &amp;mdash; &lt;a href=&#34;https://www.twitch.tv/videos/180714347?t=21m26s&#34;&gt;Watch on Twitch&lt;/a&gt; @ 0:21&lt;/p&gt;
-            &lt;/div&gt;
-        &lt;/li&gt;
-        &lt;li class=&#34;timeline-item is-primary&#34;&gt;
-            &lt;div class=&#34;timeline-marker is-primary&#34;&gt;&lt;/div&gt;
-            &lt;div class=&#34;timeline-content&#34;&gt;
-                &lt;p class=&#34;heading&#34;&gt;October 11&lt;/p&gt;
-                &lt;p&gt;
-                    &lt;a href=&#34;https://www.twitch.tv/videos/181486316?t=29m30s&#34;&gt;
-                        Visual Design Q&amp;amp;A
-                    &lt;/a&gt;
-                &lt;/p&gt;
-                &lt;p&gt;Highlight: Why does Tapping look like that?
-                &lt;br&gt; &lt;a href=&#34;https://www.reddit.com/r/MagicArena/comments/75s5vf/vod_11th_october_aesthetics_and_visual_design/&#34;&gt;Reddit thread&lt;/a&gt;
-                &lt;/p&gt;
 
-            &lt;/div&gt;
-        &lt;/li&gt;
-        &lt;li class=&#34;timeline-item&#34;&gt;
-            &lt;div class=&#34;timeline-marker&#34;&gt;&lt;/div&gt;
-            &lt;div class=&#34;timeline-content&#34;&gt;
-                &lt;p class=&#34;heading&#34;&gt;October 18&lt;/p&gt;
-                &lt;p&gt;Community Deck Showdown - Ixalan decks&lt;/p&gt;
-            &lt;/div&gt;
-        &lt;/li&gt;
-        &lt;li class=&#34;timeline-item&#34;&gt;
-            &lt;div class=&#34;timeline-marker&#34;&gt;&lt;/div&gt;
-            &lt;div class=&#34;timeline-content&#34;&gt;
-                &lt;p class=&#34;heading&#34;&gt;October 25&lt;/p&gt;
-                &lt;p&gt;Closed Beta Q&amp;amp;A&lt;/p&gt;
-            &lt;/div&gt;
-        &lt;/li&gt;
-        &lt;li class=&#34;timeline-header&#34;&gt;
-            &lt;span class=&#34;tag is-primary&#34;&gt;CLOSED BETA&lt;/span&gt;
-        &lt;/li&gt;
-        &lt;li class=&#34;timeline-item&#34;&gt;
-            &lt;div class=&#34;timeline-marker is-icon&#34;&gt;
-                &lt;i class=&#34;fa fa-flag&#34;&gt;&lt;/i&gt;
-            &lt;/div&gt;
-            &lt;div class=&#34;timeline-content&#34;&gt;
-                &lt;p class=&#34;heading&#34;&gt;November 2017&lt;/p&gt;
-                &lt;p&gt;Closed Beta start - under NDA&lt;/p&gt;
-                &lt;ul&gt;
-                    &lt;li&gt;Ixalan Constructed&lt;/li&gt;
-                    &lt;li&gt;only 1 v 1 matches&lt;/li&gt;
-                    &lt;li&gt;PC only&lt;/li&gt;
-                &lt;/ul&gt;
-                &lt;p&gt;&lt;a href=&#34;https://magic.wizards.com/en/mtgarena&#34;&gt;Sign up here&lt;/a&gt;&lt;/p&gt;
-            &lt;/div&gt;
-        &lt;/li&gt;
-        &lt;li class=&#34;timeline-header&#34;&gt;
-            &lt;span class=&#34;tag is-primary&#34;&gt;2018&lt;/span&gt;
-        &lt;/li&gt;
-        &lt;li class=&#34;timeline-item&#34;&gt;
-            &lt;div class=&#34;timeline-content&#34;&gt;
-                &lt;p class=&#34;heading&#34;&gt;Start of 2018&lt;/p&gt;
-                &lt;p&gt;NDA lift on streaming&lt;/p&gt;
-            &lt;/div&gt;
-        &lt;/li&gt;
-        &lt;li class=&#34;timeline-item&#34;&gt;
-            &lt;div class=&#34;timeline-marker is-icon&#34;&gt;
-                &lt;i class=&#34;fa fa-flag&#34;&gt;&lt;/i&gt;
-            &lt;/div&gt;
-            &lt;div class=&#34;timeline-content&#34;&gt;
-                &lt;p class=&#34;heading&#34;&gt;TBA&lt;/p&gt;
-                &lt;p&gt;Public Launch&lt;/p&gt;
-            &lt;/div&gt;
-        &lt;/li&gt;
-        &lt;li class=&#34;timeline-item&#34;&gt;
-            &lt;div class=&#34;timeline-marker is-icon&#34;&gt;
-                &lt;i class=&#34;fa fa-flag&#34;&gt;&lt;/i&gt;
-            &lt;/div&gt;
-            &lt;div class=&#34;timeline-content&#34;&gt;
-                &lt;p class=&#34;heading&#34;&gt;Set releases&lt;/p&gt;
-                &lt;p&gt;Arena will get new sets at the same time as tabletop Magic&lt;/p&gt;
-            &lt;/div&gt;
-        &lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;
+        The MTG: Arena team is gearing up for the Closed Beta with a series of streams in October and November, in which they talk more about the game.
+    &lt;/p&gt;
+    &lt;p&gt;
+        &lt;a href=&#34;https://wefightwithcards.com/posts/mtg-arena-timeline&#34;&gt;See the updated stream list here.&lt;/a&gt;
+
+    &lt;/p&gt;
 
 &lt;/div&gt;
 
