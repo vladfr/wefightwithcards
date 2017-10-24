@@ -2,30 +2,700 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>We fight with cards - Weekly newsletter about Digital Card Games</title>
-    <link>https://wefightwithcards.com/index.xml</link>
+    <link>http://wefightwithcards.com/index.xml</link>
     <description>Recent content on We fight with cards - Weekly newsletter about Digital Card Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Oct 2017 04:48:45 +0300</lastBuildDate>
-    <atom:link href="https://wefightwithcards.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Oct 2017 02:00:11 +0300</lastBuildDate>
+    <atom:link href="http://wefightwithcards.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Issue #20 - Here&#39;s to twenty more!</title>
+      <link>http://wefightwithcards.com/archives/issue_20/</link>
+      <pubDate>Wed, 25 Oct 2017 02:00:11 +0300</pubDate>
+      
+      <guid>http://wefightwithcards.com/archives/issue_20/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+    #outlook a{
+        padding:0;
+    }
+    .ReadMsgBody{
+        width:100%;
+    }
+    .ExternalClass{
+        width:100%;
+    }
+    .ExternalClass,.ExternalClass p,.ExternalClass span,.ExternalClass font,.ExternalClass td,.ExternalClass div{
+        line-height:100%;
+    }
+    body,table,td,p,a,li,blockquote{
+        -webkit-text-size-adjust:100%;
+        -ms-text-size-adjust:100%;
+    }
+    table,td{
+        mso-table-lspace:0;
+        mso-table-rspace:0;
+    }
+    img{
+        -ms-interpolation-mode:bicubic;
+    }
+    body{
+        margin:0;
+        padding:0;
+    }
+    img{
+        border:0;
+        height:auto;
+        line-height:100%;
+        outline:none;
+        text-decoration:none;
+    }
+    table{
+        border-collapse:collapse !important;
+    }
+    body,#bodyTable,#bodyCell{
+        height:100% !important;
+        margin:0;
+        padding:0;
+        width:100% !important;
+    }
+    #templateContainer{
+        width:100%;
+        max-width:600px;
+    }
+    #templateSummary{
+        background-color:#efefef;
+        color:#666;
+        border-top:3px solid #28C762;
+    }
+    #templateSummary .bodyContent{
+        color:#666;
+    }
+    #templateSummary a{
+        color:#28C762;
+    }
+    /*
+    @tab Page
+    @section heading 1
+    @tip Set the styling for all first-level headings in your emails. These should be the largest of your headings.
+    @style heading 1
+    */
+    h1{
+        /*@editable*/color:#202020 !important;
+        border-bottom:1px solid #ccc;
+        padding-bottom:10px;
+        display:block;
+        /*@editable*/font-family:Helvetica;
+        /*@editable*/font-size:16px;
+        /*@editable*/font-style:normal;
+        /*@editable*/font-weight:bold;
+        /*@editable*/line-height:100%;
+        /*@editable*/letter-spacing:normal;
+        margin-top:0;
+        margin-right:0;
+        margin-bottom:10px;
+        margin-left:0;
+        /*@editable*/text-align:left;
+    }
+    /*
+    @tab Page
+    @section heading 2
+    @tip Set the styling for all second-level headings in your emails.
+    @style heading 2
+    */
+    h2{
+        /*@editable*/color:#404040 !important;
+        display:block;
+        /*@editable*/font-family:Helvetica;
+        /*@editable*/font-size:20px;
+        /*@editable*/font-style:normal;
+        /*@editable*/font-weight:bold;
+        /*@editable*/line-height:100%;
+        /*@editable*/letter-spacing:normal;
+        margin-top:0;
+        margin-right:0;
+        margin-bottom:10px;
+        margin-left:0;
+        /*@editable*/text-align:left;
+    }
+    /*
+    @tab Page
+    @section heading 3
+    @tip Set the styling for all third-level headings in your emails.
+    @style heading 3
+    */
+    h3{
+        /*@editable*/color:#606060 !important;
+        display:block;
+        /*@editable*/font-family:Helvetica;
+        /*@editable*/font-size:16px;
+        /*@editable*/font-style:italic;
+        /*@editable*/font-weight:normal;
+        /*@editable*/line-height:100%;
+        /*@editable*/letter-spacing:normal;
+        margin-top:0;
+        margin-right:0;
+        margin-bottom:10px;
+        margin-left:0;
+        /*@editable*/text-align:left;
+    }
+    /*
+    @tab Page
+    @section heading 4
+    @tip Set the styling for all fourth-level headings in your emails. These should be the smallest of your headings.
+    @style heading 4
+    */
+    h4{
+        /*@editable*/color:#808080 !important;
+        display:block;
+        /*@editable*/font-family:Helvetica;
+        /*@editable*/font-size:14px;
+        /*@editable*/font-style:italic;
+        /*@editable*/font-weight:normal;
+        /*@editable*/line-height:100%;
+        /*@editable*/letter-spacing:normal;
+        margin-top:0;
+        margin-right:0;
+        margin-bottom:10px;
+        margin-left:0;
+        /*@editable*/text-align:left;
+    }
+    /*
+    @tab Header
+    @section preheader style
+    @tip Set the background color and bottom border for your email&#39;s preheader area.
+    @theme header
+    */
+    #templatePreheader{
+        /*@editable*/background-color:#fff;
+    }
+    /*
+    @tab Header
+    @section preheader text
+    @tip Set the styling for your email&#39;s preheader text. Choose a size and color that is easy to read.
+    */
+    .preheaderContent{
+        /*@editable*/color:#808080;
+        /*@editable*/font-family:Helvetica;
+        /*@editable*/font-size:11px;
+        /*@editable*/line-height:125%;
+        /*@editable*/text-align:left;
+    }
+    /*
+    @tab Header
+    @section preheader link
+    @tip Set the styling for your email&#39;s preheader links. Choose a color that helps them stand out from your text.
+    */
+    .preheaderContent a:link,.preheaderContent a:visited,.preheaderContent a .yshortcuts{
+        /*@editable*/color:#606060;
+        /*@editable*/font-weight:normal;
+        /*@editable*/text-decoration:underline;
+    }
+    /*
+    @tab Header
+    @section header style
+    @tip Set the background color and borders for your email&#39;s header area.
+    @theme header
+    */
+    #templateHeader{
+        /*@editable*/background-color:#fff;
+    }
+    /*
+    @tab Header
+    @section header text
+    @tip Set the styling for your email&#39;s header text. Choose a size and color that is easy to read.
+    */
+    .headerContentImg{
+        /*@tab Header
+@section header text
+@tip Set the styling for your email&#39;s header text. Choose a size and color that is easy to read.*/text-align:right;
+        padding-right:20px;
+        padding:20px;
+    }
+    .headerContentImg img{
+        width:48px;
+        height:48px;
+    }
+    .headerContent{
+        /*@editable*/color:#000;
+        /*@editable*/font-family:Helvetica,Arial,sans-serif;
+        /*@editable*/font-size:24px;
+        /*@editable*/font-weight:bold;
+        /*@editable*/line-height:100%;
+        /*@editable*/padding-top:0;
+        /*@editable*/padding-right:0;
+        /*@editable*/padding-bottom:20px;
+        /*@editable*/padding-left:20px;
+        /*@editable*/text-align:left;
+        /*@editable*/vertical-align:bottom;
+    }
+    .headerContent small{
+        /*@editable*/color:#575757;
+        /*@editable*/font-size:11px;
+        /*@editable*/font-weight:100;
+        /*@editable*/line-height:155%;
+    }
+    /*
+    @tab Header
+    @section header link
+    @tip Set the styling for your email&#39;s header links. Choose a color that helps them stand out from your text.
+    */
+    .headerContent a:link,.headerContent a:visited,.headerContent a .yshortcuts{
+        /*@editable*/color:#1866df;
+        /*@editable*/font-weight:normal;
+        /*@editable*/text-decoration:underline;
+    }
+    #headerImage{
+        height:auto;
+        max-width:600px;
+    }
+    /*
+    @tab Body
+    @section body style
+    @tip Set the background color and borders for your email&#39;s body area.
+    */
+    table{
+        /*@editable*/background-color:#fff;
+    }
+    /*
+    @tab Body
+    @section body text
+    @tip Set the styling for your email&#39;s main content text. Choose a size and color that is easy to read.
+    @theme main
+    */
+    .bodyContent{
+        /*@editable*/color:#505050;
+        /*@editable*/font-family:Helvetica;
+        /*@editable*/font-size:14px;
+        /*@editable*/line-height:150%;
+        padding-top:20px;
+        padding-right:20px;
+        padding-bottom:20px;
+        padding-left:20px;
+        /*@editable*/text-align:left;
+    }
+    /*
+    @tab Body
+    @section body link
+    @tip Set the styling for your email&#39;s main content links. Choose a color that helps them stand out from your text.
+    */
+    .bodyContent a:link,.bodyContent a:visited,.bodyContent a .yshortcuts{
+        /*@editable*/color:#1866df;
+        /*@editable*/font-weight:normal;
+        /*@editable*/text-decoration:underline;
+    }
+    .bodyContent img{
+        display:inline;
+        height:auto;
+        max-width:560px;
+    }
+    .bodyContent ul{
+        margin:0 0 0 16px;
+        padding:0;
+    }
+    .bodyContent ul li{
+        margin:14px 0;
+    }
+    #yourGames span{
+        margin:0;
+        padding:0 10px 0 0;
+    }
+    /*
+    @tab Footer
+    @section footer style
+    @tip Set the background color and borders for your email&#39;s footer area.
+    @theme footer
+    */
+    #templateFooter{
+        /*@tab Footer
+@section footer style
+@tip Set the background color and borders for your email&#39;s footer area.
+@theme footer*/width:100%;
+        max-width:600px;
+        /*@editable*/background-color:#F4F4F4;
+    }
+    /*
+    @tab Footer
+    @section footer text
+    @tip Set the styling for your email&#39;s footer text. Choose a size and color that is easy to read.
+    @theme footer
+    */
+    .footerContent{
+        /*@editable*/color:#808080;
+        /*@editable*/font-family:Helvetica;
+        /*@editable*/font-size:10px;
+        /*@editable*/line-height:150%;
+        padding-top:20px;
+        padding-right:20px;
+        padding-bottom:20px;
+        padding-left:20px;
+        /*@editable*/text-align:left;
+    }
+    /*
+    @tab Footer
+    @section footer link
+    @tip Set the styling for your email&#39;s footer links. Choose a color that helps them stand out from your text.
+    */
+    .footerContent a:link,.footerContent a:visited,.footerContent a .yshortcuts,.footerContent a span{
+        /*@editable*/color:#606060;
+        /*@editable*/font-weight:normal;
+        /*@editable*/text-decoration:underline;
+    }
+    @media only screen and (max-width: 480px){
+        body,table,td,p,a,li,blockquote{
+            -webkit-text-size-adjust:none !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        body{
+            width:100% !important;
+            min-width:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        /*
+        @tab Mobile Styles
+        @section template width
+        @tip Make the template fluid for portrait or landscape view adaptability. If a fluid layout doesn&#39;t work for you, set the width to 300px instead.
+        */
+        #templateContainer{
+            /*@tab Mobile Styles
+@section template width
+@tip Make the template fluid for portrait or landscape view adaptability. If a fluid layout doesn&#39;t work for you, set the width to 300px instead.*/max-width:600px !important;
+            /*@editable*/width:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        /*
+        @tab Mobile Styles
+        @section heading 1
+        @tip Make the first-level headings larger in size for better readability on small screens.
+        */
+        h1{
+            /*@editable*/font-size:14px !important;
+            /*@editable*/line-height:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        /*
+        @tab Mobile Styles
+        @section heading 2
+        @tip Make the second-level headings larger in size for better readability on small screens.
+        */
+        h2{
+            /*@editable*/font-size:20px !important;
+            /*@editable*/line-height:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        /*
+        @tab Mobile Styles
+        @section heading 3
+        @tip Make the third-level headings larger in size for better readability on small screens.
+        */
+        h3{
+            /*@editable*/font-size:18px !important;
+            /*@editable*/line-height:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        /*
+        @tab Mobile Styles
+        @section heading 4
+        @tip Make the fourth-level headings larger in size for better readability on small screens.
+        */
+        h4{
+            /*@editable*/font-size:16px !important;
+            /*@editable*/line-height:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        #templatePreheader{
+            display:none !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        /*
+        @tab Mobile Styles
+        @section header image
+        @tip Make the main header image fluid for portrait or landscape view adaptability, and set the image&#39;s original width as the max-width. If a fluid setting doesn&#39;t work, set the image width to half its original size instead.
+        */
+        #headerImage{
+            /*@tab Mobile Styles
+@section header image
+@tip Make the main header image fluid for portrait or landscape view adaptability, and set the image&#39;s original width as the max-width. If a fluid setting doesn&#39;t work, set the image width to half its original size instead.*/height:auto !important;
+            /*@editable*/max-width:600px !important;
+            /*@editable*/width:100% !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        /*
+        @tab Mobile Styles
+        @section header text
+        @tip Make the header content text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+        */
+        .headerContent{
+            /*@editable*/font-size:18px !important;
+            /*@editable*/line-height:24px !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        .headerContent small a{
+            display:block;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        /*
+        @tab Mobile Styles
+        @section body text
+        @tip Make the body content text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+        */
+        .bodyContent{
+            /*@editable*/font-size:16px !important;
+            /*@editable*/line-height:24px !important;
+        }
+
+    }	@media only screen and (max-width: 480px){
+        /*
+        @tab Mobile Styles
+        @section footer text
+        @tip Make the body content text larger in size for better readability on small screens.
+        */
+        .footerContent{
+            /*@editable*/font-size:12px !important;
+            /*@editable*/line-height:14px !important;
+        }
+
+    }&lt;/style&gt;
+&lt;center&gt;
+    &lt;table align=&#34;center&#34; border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;bodyTable&#34; style=&#34;height:100%;&#34;&gt;
+        &lt;tr&gt;
+            &lt;td align=&#34;center&#34; valign=&#34;top&#34; id=&#34;bodyCell&#34;&gt;
+                &lt;!-- BEGIN TEMPLATE // --&gt;
+                &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; id=&#34;templateContainer&#34;&gt;
+                    &lt;tr&gt;
+                        &lt;td align=&#34;center&#34; valign=&#34;top&#34;&gt;
+                            &lt;!-- BEGIN PREHEADER // --&gt;
+                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templatePreheader&#34;&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;preheaderContent&#34; style=&#34;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;&#34; mc:edit=&#34;preheader_content00&#34;&gt;guest editor / new CCGs / great kikcstarters / free HS packs&lt;/td&gt;
+                                &lt;/tr&gt;
+                            &lt;/table&gt;
+                            &lt;!-- // END PREHEADER --&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td align=&#34;center&#34; valign=&#34;top&#34;&gt;
+                            &lt;!-- BEGIN HEADER // --&gt;
+                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templateHeader&#34;&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;bottom&#34; class=&#34;headerContent&#34; mc:edit=&#34;main_header&#34;&gt;We fight with cards&lt;br&gt;
+                                        &lt;small&gt;Issue #20 / October 25, 2017 // &lt;!--  --&gt; &lt;a href=&#34;https://wefightwithcards.com/archives/issue_20&#34; target=&#34;_blank&#34;&gt;View in your browser&lt;/a&gt; &lt;!--  --&gt; &lt;/small&gt;&lt;/td&gt;
+                                    &lt;td class=&#34;headerContentImg&#34;&gt;
+                                        &lt;img src=&#34;https://wefightwithcards.com/images/new_icon.png&#34; width=&#34;64&#34; height=&#34;64&#34; alt=&#34;new_icon.png&#34;&gt;
+                                    &lt;/td&gt;
+                                &lt;/tr&gt;
+                            &lt;/table&gt;
+                            &lt;!-- // END HEADER --&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td align=&#34;center&#34; valign=&#34;top&#34;&gt;
+                            &lt;!-- BEGIN BODY // --&gt;
+                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templateSummary&#34;&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_summary&#34;&gt;Wow! 20 issues and counting! A big &lt;em&gt;Thank You&lt;/em&gt;&amp;nbsp;to everyone for your support and feedback. I learned a lot from doing this, and I&amp;#39;m looking forward to the next 20.
+
+                                        &lt;div&gt;&lt;br&gt;
+                                            To celebrate, we have&amp;nbsp;&lt;strong&gt;&lt;em&gt;Leo&lt;/em&gt;&lt;/strong&gt; as our&amp;nbsp;guest editor to talk a bit about his latest passion: Krosmaga.&lt;br&gt;
+                                            &lt;br&gt;
+                                            Have a nice week!&lt;br&gt;
+                                            Vlad&lt;/div&gt;
+                                    &lt;/td&gt;
+                                &lt;/tr&gt;
+                            &lt;/table&gt;
+                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34;&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_news&#34;&gt;&lt;h1 class=&#34;null&#34;&gt;&lt;span style=&#34;color:#008000&#34;&gt;&lt;strong&gt;&lt;span style=&#34;font-size:16px&#34;&gt;&lt;span style=&#34;font-family:tahoma,verdana,segoe,sans-serif&#34;&gt;&lt;span class=&#34;mc-toc-title&#34;&gt;#d&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;iscover&lt;/span&gt;&lt;/h1&gt;
+                                        &lt;strong&gt;&lt;span style=&#34;font-size:16px&#34;&gt;Krosmaga&lt;/span&gt;&lt;/strong&gt;&lt;br&gt;
+                                        &lt;a href=&#34;http://store.steampowered.com/app/609940/KROSMAGA/&#34; target=&#34;_blank&#34;&gt;Steam/PC+Mac&lt;/a&gt;&amp;nbsp;/ &lt;a href=&#34;https://itunes.apple.com/fr/app/krosmaga/id1100204286&#34; target=&#34;_blank&#34;&gt;iOS&lt;/a&gt; /&amp;nbsp;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.ankama.krosmaga&#34; target=&#34;_blank&#34;&gt;Android&lt;/a&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;img data-file-id=&#34;5141633&#34; height=&#34;95&#34; src=&#34;https://gallery.mailchimp.com/a70281e2cd8892265f8028139/images/a52c00a7-3070-4b79-8051-bd968a018d46.jpg&#34; style=&#34;border: 0px  ; width: 150px; height: 95px; float: right; margin: 0px 0px 10px 20px;&#34; width=&#34;150&#34;&gt;A lane-based tactical collectible card game set in the universe of Dofus / Wakfu. This game is reminiscent of the lane-based card game Scrolls from Mojang (Microsoft) and is extremely well polished with great gameplay and strategy. It&amp;#39;s Free-to-Play, but you can spend money as well. All content is available through daily quests and a limited arena mode with a guaranteed card of the highest rarity for going undefeated. It also has an &lt;strong&gt;interesting twist for CCGs&lt;/strong&gt;: your highest rarity cards gain experience and level up as you play with them, which often keeps me excited to play just one more.&lt;br&gt;
+                                        &lt;br&gt;
+                                        The release of &lt;a href=&#34;https://www.krosmaga.com/en&#34; target=&#34;_blank&#34;&gt;Krosmaga&amp;#39;s first expansion&lt;/a&gt; saw not just new cards but entirely new ways to win the game. &lt;strong&gt;More new cards&lt;/strong&gt; will be introduced soon in a Halloween pack and there are plans to create an &lt;strong&gt;official e-sports circuit&lt;/strong&gt;. This is my current favorite lesser known CCG and I think it has amazing potential. It&amp;#39;s truly a blast to play casually, even without great e-sports support.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;em&gt;&lt;span style=&#34;color:#696969&#34;&gt;Today&amp;#39;s guest editor is&amp;nbsp;Ryan &amp;quot;Leo&amp;quot; Elworth / reach out to him at&amp;nbsp;&lt;/span&gt;&lt;a href=&#34;mailto:CHILLEO@GMAIL.COM&#34; target=&#34;_blank&#34;&gt;&lt;span style=&#34;color:#696969&#34;&gt;CHILLEO@GMAIL.COM&lt;/span&gt;&lt;/a&gt;&lt;/em&gt;&lt;br&gt;
+                                        &amp;nbsp;
+                                        &lt;hr&gt;&lt;br&gt;
+                                        &lt;strong&gt;&lt;span style=&#34;font-size:16px&#34;&gt;Underhand&lt;/span&gt;&lt;/strong&gt;&lt;br&gt;
+                                        &lt;a href=&#34;https://itunes.apple.com/us/app/underhand-by-spoopy-squad/id1229861414?mt=8&#34; target=&#34;_blank&#34;&gt;iOS&amp;nbsp;&lt;/a&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/underhand-by-spoopy-squad/id1229861414?mt=8&#34; target=&#34;_blank&#34;&gt;A&lt;/a&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/underhand-by-spoopy-squad/id1229861414?mt=8&#34;&gt;ppStore&lt;/a&gt; / &lt;a href=&#34;https://play.google.com/store/apps/details?id=edu.cornell.gdiac.underhand&#34; target=&#34;_blank&#34;&gt;Android&lt;/a&gt;&amp;nbsp;/&amp;nbsp;&lt;span style=&#34;color:#FFFFFF&#34;&gt;&lt;span style=&#34;font-size:12px&#34;&gt;&lt;strong&gt;&lt;span style=&#34;background-color:#800000&#34;&gt;FREE&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;img data-file-id=&#34;5141653&#34; height=&#34;120&#34; src=&#34;https://gallery.mailchimp.com/a70281e2cd8892265f8028139/images/712497c1-3c05-4343-8dbb-e2a84e552365.png&#34; style=&#34;border: 0px; width: 120px; height: 120px; margin: 0px 0px 15px 15px; float: right;&#34; width=&#34;120&#34;&gt;&lt;br&gt;
+                                        I loved this little Cultist Card Game for its Lovecraftian feel and solo play experience. You&amp;#39;re building your own cult, with the sole purpose of summoning an ancient demon. You need to respond to event cards and manage your resources in order to complete rituals. You can recruit cultists, read old books, trade food, rob banks, and do it all like a boss while fooling the police.&amp;nbsp;&lt;/td&gt;
+                                &lt;/tr&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_raffle&#34;&gt;&lt;h1 class=&#34;null&#34; style=&#34;text-align: left;&#34;&gt;&lt;span style=&#34;font-family:verdana,geneva,sans-serif&#34;&gt;#&lt;/span&gt;&lt;span style=&#34;font-family:arial,helvetica neue,helvetica,sans-serif&#34;&gt;news&lt;/span&gt;&lt;/h1&gt;
+                                        &lt;strong&gt;&lt;a href=&#34;https://www.christiantoday.com/article/duelyst.gameplay.update.news.100.new.cards.being.added.in.game.along.with.new.generals/116686.htm&#34; target=&#34;_blank&#34;&gt;Duelyst: Immortal Vanguards&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;adds over 100 new cards and new mechanics to the popular CCG. It&amp;#39;s out on November 14 for PC on &lt;a href=&#34;http://store.steampowered.com/app/291410/Duelyst/&#34; target=&#34;_blank&#34;&gt;Steam&lt;/a&gt;.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;strong&gt;&lt;a href=&#34;https://dallasinnovates.com/plano-game-developer-calls-upon-stem-superheroes-in-new-card-game/&#34; target=&#34;_blank&#34;&gt;Stem: Epic Heroes&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;is a new physical game for kids. It&amp;#39;s a 2-4 player game with famous scientists playing the role of super-heroes who help you discover and learn science. It &lt;a href=&#34;https://www.kickstarter.com/projects/hologrin/stem-epic-heroes&#34; target=&#34;_blank&#34;&gt;launched on Kickstarter&lt;/a&gt;&amp;nbsp;and was an instant hit, and looks like a great gift.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;strong&gt;&lt;a href=&#34;https://techraptor.net/content/crowdfunding-spotlight-doomtrooper&#34; target=&#34;_blank&#34;&gt;Doomtrooper&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;is an old paper CCG getting a new life as a digital version in another &lt;a href=&#34;https://www.kickstarter.com/projects/framerate/doomtrooper-digital-collectible-card-game&#34; target=&#34;_blank&#34;&gt;successful Kickstarter&lt;/a&gt;. It&amp;#39;s legitimate cyber-punk alien warfare with cards, so if that strikes your fancy, hurry up because the campaign &lt;strong&gt;ends tomorrow morning: &lt;/strong&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/framerate/doomtrooper-digital-collectible-card-game&#34; target=&#34;_blank&#34;&gt;Kickstarter page here.&lt;/a&gt;&lt;/td&gt;
+                                &lt;/tr&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_hearth&#34;&gt;&lt;h1&gt;&lt;span style=&#34;color:#DAA520&#34;&gt;&lt;strong&gt;&lt;span style=&#34;font-size:16px&#34;&gt;&lt;span style=&#34;font-family:tahoma,verdana,segoe,sans-serif&#34;&gt;&lt;span class=&#34;mc-toc-title&#34;&gt;#&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color:#C99122&#34;&gt;hearthstone&lt;/span&gt;&lt;/h1&gt;
+
+                                        &lt;p style=&#34;background: #f3f3f3; padding: 10px&#34;&gt;&lt;strong&gt;&lt;img data-file-id=&#34;5130085&#34; height=&#34;21&#34; src=&#34;https://gallery.mailchimp.com/a70281e2cd8892265f8028139/images/f9b82156-d9cf-4e2a-9ea6-6d799c5bb8d1.png&#34; style=&#34;vertical-align: text-bottom&#34; width=&#34;16&#34;&gt;&amp;nbsp;Hallow&amp;#39;s End&lt;/strong&gt; - Login this week and the next to get free packs and arena runs.&lt;/p&gt;
+                                        &lt;strong&gt;&lt;span style=&#34;font-size:12px&#34;&gt;ARENA&lt;/span&gt;&lt;/strong&gt;&lt;br&gt;
+                                        &lt;a href=&#34;http://www.hearthhead.com/news/four-of-the-most-deadly-multi-class-combos-for-hallow-s-end&#34; target=&#34;_blank&#34;&gt;What to draft in multi-class arena&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//hearthhead&lt;/span&gt;&lt;br&gt;
+                                        I was intrigued to find out that Arena will feature 2-class Arena runs during Hallow&amp;#39;s end. The good folks over at hearthhead put together a guide on the most useful combos.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;http://www.hearthstonetopdecks.com/hearthstone-top-decks-f2p-btw-challenge-week-3-update/&#34; target=&#34;_blank&#34;&gt;The F2P Challenge week 3&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//hstopdecks&lt;/span&gt;&lt;br&gt;
+                                        Ok so Rank 4 is quite impressive!&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://www.youtube.com/watch?v=Fs-vupZbZZc&#34; target=&#34;_blank&#34;&gt;Deck Doctor C&amp;#39;Thun Warrior&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
+                                        Firebat is back with a huge deck doctor. I miss C&amp;#39;Thun!&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;strong&gt;&lt;span style=&#34;font-size:12px&#34;&gt;FUN STUFF&lt;/span&gt;&lt;/strong&gt;&lt;br&gt;
+                                        &lt;a href=&#34;http://www.hearthpwn.com/news/3424-5-miracle-moments-from-the-hct-summer-championship&#34; target=&#34;_blank&#34;&gt;5 best clips from the last #HCT&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://www.youtube.com/watch?time_continue=3&amp;amp;v=PFaeVbNKDro&#34; target=&#34;_blank&#34;&gt;Kripp on the Nemsy debacle&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
+                                        If you&amp;#39;re going to recap the whole Nemsy thing, there&amp;#39;s no better way than Kripp&amp;#39;s way.&lt;br&gt;
+                                        &lt;/td&gt;
+                                &lt;/tr&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_gwent&#34;&gt;&lt;h1&gt;&lt;span style=&#34;color:#16C95D&#34;&gt;&lt;span style=&#34;font-family:tahoma,verdana,segoe,sans-serif&#34;&gt;&lt;span style=&#34;font-size:14px&#34;&gt;#&lt;/span&gt;&lt;/span&gt;gwent&lt;/span&gt;&lt;/h1&gt;
+
+                                        &lt;p style=&#34;background: #f3f3f3; padding: 10px&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=iZGC6jc-HV4&#34; target=&#34;_blank&#34;&gt;A Round of Gwent ep 3&lt;/a&gt; - CDPR history and how Gwent became a standalone game.&lt;/p&gt;
+                                        &lt;a href=&#34;https://blog.gamersensei.com/article/gwent-getting-2-new-faction-leaders/&#34; target=&#34;_blank&#34;&gt;Interview with Pawel Burza&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//gamersensei&lt;/span&gt;&lt;br&gt;
+                                        Two new faction leaders are coming!&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://www.youtube.com/watch?v=dEEEQ26pwH8&#34; target=&#34;_blank&#34;&gt;How to tackle Emhyr Spies&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
+                                        Spies decks are quite popular - so we always welcome a good counter strategy.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;span style=&#34;font-size:12px&#34;&gt;&lt;strong&gt;&lt;span style=&#34;font-family:verdana,geneva,sans-serif&#34;&gt;FUN&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;br&gt;
+                                        &lt;a href=&#34;https://clips.twitch.tv/UglyBusyBadgerDxCat&#34; target=&#34;_blank&#34;&gt;Dudu with the clutch win&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[clip]&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://clips.twitch.tv/AbstruseCulturedMarjoramNerfBlueBlaster&#34; target=&#34;_blank&#34;&gt;There is no RNG in Gwent&lt;/a&gt;&lt;br&gt;
+[clip]&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &amp;nbsp;&lt;/td&gt;
+                                &lt;/tr&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_tes&#34;&gt;&lt;h1&gt;&lt;span style=&#34;color:#926F47&#34;&gt;&lt;strong&gt;&lt;span style=&#34;font-size:16px&#34;&gt;&lt;span style=&#34;font-family:tahoma,verdana,segoe,sans-serif&#34;&gt;&lt;span class=&#34;mc-toc-title&#34;&gt;#&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color:#926F47&#34;&gt;TES: Legends&lt;/span&gt;&lt;/h1&gt;
+                                        &lt;a href=&#34;https://betweenthelanes.net/2017/10/24/five-thoughts-about-gauntlet-mode-and-its-future/&#34; target=&#34;_blank&#34;&gt;A round-up of all Gauntlets so far&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//BTL&lt;/span&gt;&lt;br&gt;
+                                        Legends&amp;#39; Gauntlet mode has a lot of fun variants - here&amp;#39;s a rundown on what happened so far, and on stuff to come.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://legends.bethesda.net/articles/Go4-Global-Touraments?locale=en&#34; target=&#34;_blank&#34;&gt;Go4 TESL goes Global&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//bethesda&lt;/span&gt;&lt;br&gt;
+                                        The TES championship is expanding to cover more regions in the near future.&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://clips.twitch.tv/ShyFineOpossumBigBrother&#34; target=&#34;_blank&#34;&gt;That&amp;#39;s one big mammoth&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[clip]&lt;/span&gt;&lt;br&gt;
+                                        &lt;/td&gt;
+                                &lt;/tr&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_shadow&#34;&gt;&lt;/td&gt;
+                                &lt;/tr&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_eternal&#34;&gt;&lt;h1 class=&#34;null&#34;&gt;&lt;span style=&#34;font-family:verdana,geneva,sans-serif&#34;&gt;#&lt;/span&gt;eternal&lt;/h1&gt;
+                                        &lt;a href=&#34;http://www.numotgaming.com/well-eternal-stonescar-burn/&#34; target=&#34;_blank&#34;&gt;Stonescar Burn Deck Guide&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//numotgaming&lt;/span&gt;&lt;br&gt;
+                                        &lt;br&gt;
+                                        &lt;a href=&#34;https://rngeternal.com/2017/10/23/stealing-fire-from-the-gods-the-ond-flame-story/&#34; target=&#34;_blank&#34;&gt;ETS Team League finals&lt;/a&gt;&lt;br&gt;
+                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//rngeternal&lt;/span&gt;&lt;br&gt;
+                                        Congrats to the winners, OND Flame. In the groups, Flame was the only team to go 0 &amp;ndash; 2, and a single loss would eliminate them from playoff contention. This is the story of how they got back in it and eventually won,&amp;nbsp;&lt;br&gt;
+                                        &lt;/td&gt;
+                                &lt;/tr&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_discover&#34;&gt;&lt;/td&gt;
+                                &lt;/tr&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_fun&#34;&gt;&lt;/td&gt;
+                                &lt;/tr&gt;
+                            &lt;/table&gt;
+                            &lt;div&gt;
+                            &lt;/div&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_streamers&#34;&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34;&gt;
+                            &lt;p style=&#34;color:#A9A9A9;font-weight:bold;&#34;&gt;
+                                __DONE__
+                            &lt;/p&gt;
+                            &lt;div mc:edit=&#34;body_end&#34;&gt;&lt;/div&gt;
+                            &lt;p mc:edit=&#34;yourgames&#34;&gt;&lt;strong&gt;PS: Did you know&lt;/strong&gt; - you can pick&amp;nbsp;your favourite games and get the scoop on them&amp;nbsp;every week? &lt;a href=&#34;&#34; target=&#34;_blank&#34;&gt;Just&amp;nbsp;click here and pick&amp;nbsp;your games&lt;/a&gt;&lt;/p&gt;
+                            &lt;p id=&#34;yourGames&#34;&gt;
+                                &lt;span&gt;Your games:&lt;/span&gt;
+                                &lt;span&gt;Hearthstone&lt;/span&gt;
+                                &lt;span&gt;Gwent&lt;/span&gt;
+                                &lt;span&gt;Eternal&lt;/span&gt;
+                                &lt;span&gt;Shadowverse&lt;/span&gt;
+                                &lt;span&gt;Elder Scrolls Legends&lt;/span&gt;
+                            &lt;/p&gt;
+                            &lt;p&gt;Not a subscriber? Join us at &lt;a href=&#34;https://wefightwithcards.com/&#34;&gt;https://wefightwithcards.com/&lt;/a&gt;
+                            &lt;/p&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+                &lt;!-- // END BODY --&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td align=&#34;center&#34; valign=&#34;top&#34;&gt;
+                &lt;!-- BEGIN FOOTER // --&gt;
+                &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templateFooter&#34;&gt;
+                    &lt;tr&gt;
+                        &lt;td valign=&#34;top&#34; class=&#34;footerContent&#34; mc:edit=&#34;footer_content00&#34;&gt;Stay in touch! You can &lt;a href=&#34;https://twitter.com/fightwithcards&#34; target=&#34;_blank&#34;&gt;Follow us on Twitter&lt;/a&gt;, or &lt;a href=&#34;https://www.facebook.com/wefightwithcards/&#34; target=&#34;_blank&#34;&gt;Like us on Facebook&lt;/a&gt;.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td valign=&#34;top&#34; class=&#34;footerContent&#34; style=&#34;padding-top:0;&#34; mc:edit=&#34;footer_content01&#34;&gt;
+                             
+                            &lt;br&gt;&lt;strong&gt;Our mailing address is:&lt;/strong&gt;
+                            &lt;br&gt; 
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td valign=&#34;top&#34; class=&#34;footerContent&#34; style=&#34;padding-top:0;&#34; mc:edit=&#34;footer_content02&#34;&gt;You can&amp;nbsp;&lt;a href=&#34;&#34;&gt;unsubscribe&lt;/a&gt;&amp;nbsp;or&amp;nbsp;&lt;a href=&#34;&#34;&gt;update&amp;nbsp;&lt;/a&gt;&lt;a href=&#34;&#34; target=&#34;_blank&#34;&gt;your games&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+                &lt;!-- // END FOOTER --&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+    &lt;!-- // END TEMPLATE --&gt;
+&lt;/center&gt;</description>
+    </item>
     
     <item>
       <title>MTG Arena beta timeline</title>
-      <link>https://wefightwithcards.com/posts/mtg-arena-timeline/</link>
+      <link>http://wefightwithcards.com/posts/mtg-arena-timeline/</link>
       <pubDate>Mon, 16 Oct 2017 04:48:45 +0300</pubDate>
       
-      <guid>https://wefightwithcards.com/posts/mtg-arena-timeline/</guid>
+      <guid>http://wefightwithcards.com/posts/mtg-arena-timeline/</guid>
       <description>&lt;p style=&#34;color: #777777&#34;&gt;
     &lt;em&gt;MTG: Arena is a new digital CCG in Wizard&#39;s Magic: the Gathering family. We&#39;re covering all the latest updates in our Arena series.&lt;/em&gt;
 &lt;/p&gt;
 &lt;p style=&#34;color: #777777&#34;&gt;
-    Jump to: &lt;a href=&#34;https://wefightwithcards.com/posts/mtg-arena-intro/#cards&#34;&gt;Cards&lt;/a&gt; - &lt;a href=&#34;https://wefightwithcards.com/posts/mtg-arena-intro/#beta&#34;&gt;Beta info&lt;/a&gt; - Timeline - &lt;a href=&#34;https://wefightwithcards.com/posts/mtg-arena-faq&#34;&gt;FAQs&lt;/a&gt;
+    Jump to: &lt;a href=&#34;http://wefightwithcards.com/posts/mtg-arena-intro/#cards&#34;&gt;Cards&lt;/a&gt; - &lt;a href=&#34;http://wefightwithcards.com/posts/mtg-arena-intro/#beta&#34;&gt;Beta info&lt;/a&gt; - Timeline - &lt;a href=&#34;http://wefightwithcards.com/posts/mtg-arena-faq&#34;&gt;FAQs&lt;/a&gt;
 &lt;/p&gt;
 
 &lt;div class=&#34;content is-clearfix&#34;&gt;
     &lt;div class=&#34;card sidebar inverse&#34;&gt;
         &lt;div class=&#34;card-image&#34;&gt;
-            &lt;img src=&#34;https://wefightwithcards.com/images/mtg/arena.jpg&#34;&gt;
+            &lt;img src=&#34;http://wefightwithcards.com/images/mtg/arena.jpg&#34;&gt;
         &lt;/div&gt;
         &lt;div class=&#34;card-content&#34;&gt;
             &lt;ul class=&#34;menu-list&#34;&gt;
@@ -165,7 +835,7 @@
 
     &lt;div role=&#34;alert&#34; class=&#34;box media&#34; id=&#34;mce-success-response&#34; style=&#34;display:none&#34;&gt;
         &lt;div class=&#34;media-left&#34;&gt;
-            &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;https://wefightwithcards.com/vlad.png&#34;&gt;
+            &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;http://wefightwithcards.com/vlad.png&#34;&gt;
         &lt;/div&gt;
         &lt;div class=&#34;media-content&#34;&gt;
             &lt;p&gt;Thanks for joining us! You&#39;ll receive an email shortly &amp;mdash; please click the link inside to confirm. &lt;/p&gt;
@@ -188,10 +858,10 @@
     
     <item>
       <title>Issue #19 - New content</title>
-      <link>https://wefightwithcards.com/archives/issue_19/</link>
+      <link>http://wefightwithcards.com/archives/issue_19/</link>
       <pubDate>Mon, 16 Oct 2017 02:00:11 +0300</pubDate>
       
-      <guid>https://wefightwithcards.com/archives/issue_19/</guid>
+      <guid>http://wefightwithcards.com/archives/issue_19/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
     #outlook a{
         padding:0;
@@ -861,21 +1531,21 @@
     
     <item>
       <title>Magic the Gathering: Arena</title>
-      <link>https://wefightwithcards.com/posts/mtg-arena-intro/</link>
+      <link>http://wefightwithcards.com/posts/mtg-arena-intro/</link>
       <pubDate>Sun, 08 Oct 2017 04:48:45 +0300</pubDate>
       
-      <guid>https://wefightwithcards.com/posts/mtg-arena-intro/</guid>
+      <guid>http://wefightwithcards.com/posts/mtg-arena-intro/</guid>
       <description>&lt;p style=&#34;color: #777777&#34;&gt;
     &lt;em&gt;MTG: Arena is a new digital CCG in Wizard&#39;s Magic: the Gathering family. Here&#39;s all the info we have on the launch, cards and sets, game types, FAQs and more.&lt;/em&gt;
 &lt;/p&gt;
 &lt;p style=&#34;color: #777777&#34;&gt;
-    Jump to: &lt;a href=&#34;#cards&#34;&gt;Cards&lt;/a&gt; - &lt;a href=&#34;#beta&#34;&gt;Beta info&lt;/a&gt; - &lt;a href=&#34;https://wefightwithcards.com/posts/mtg-arena-timeline/&#34;&gt;Timeline&lt;/a&gt; - &lt;a href=&#34;https://wefightwithcards.com/posts/mtg-arena-faq&#34;&gt;FAQs&lt;/a&gt;
+    Jump to: &lt;a href=&#34;#cards&#34;&gt;Cards&lt;/a&gt; - &lt;a href=&#34;#beta&#34;&gt;Beta info&lt;/a&gt; - &lt;a href=&#34;http://wefightwithcards.com/posts/mtg-arena-timeline/&#34;&gt;Timeline&lt;/a&gt; - &lt;a href=&#34;http://wefightwithcards.com/posts/mtg-arena-faq&#34;&gt;FAQs&lt;/a&gt;
 &lt;/p&gt;
 
 &lt;div class=&#34;content is-clearfix&#34;&gt;
     &lt;div class=&#34;card sidebar inverse&#34;&gt;
         &lt;div class=&#34;card-image&#34;&gt;
-            &lt;img src=&#34;https://wefightwithcards.com/images/mtg/arena.jpg&#34;&gt;
+            &lt;img src=&#34;http://wefightwithcards.com/images/mtg/arena.jpg&#34;&gt;
         &lt;/div&gt;
         &lt;div class=&#34;card-content&#34;&gt;
             &lt;ul class=&#34;menu-list&#34;&gt;
@@ -922,13 +1592,13 @@
          data-nav=&#34;thumbs&#34;
          data-allowfullscreen=&#34;native&#34;
     &gt;
-                &lt;img src=&#34;https://wefightwithcards.com/images/mtg/gallery1/combat1.jpg&#34; /&gt;
+                &lt;img src=&#34;http://wefightwithcards.com/images/mtg/gallery1/combat1.jpg&#34; /&gt;
             
-                &lt;img src=&#34;https://wefightwithcards.com/images/mtg/gallery1/jace_2.jpg&#34; /&gt;
+                &lt;img src=&#34;http://wefightwithcards.com/images/mtg/gallery1/jace_2.jpg&#34; /&gt;
             
-                &lt;img src=&#34;https://wefightwithcards.com/images/mtg/gallery1/mtg1.jpg&#34; /&gt;
+                &lt;img src=&#34;http://wefightwithcards.com/images/mtg/gallery1/mtg1.jpg&#34; /&gt;
             
-                &lt;img src=&#34;https://wefightwithcards.com/images/mtg/gallery1/walktheplank.jpg&#34; /&gt;
+                &lt;img src=&#34;http://wefightwithcards.com/images/mtg/gallery1/walktheplank.jpg&#34; /&gt;
             
     &lt;/div&gt;
 &lt;/div&gt;
@@ -955,7 +1625,7 @@
         MTG: Arena will start Beta with all cards from the newest Magic set, Ixalan.
     &lt;/p&gt;
     &lt;figure class=&#34;image&#34; style=&#34;max-width: 150px; &#34;&gt;
-        &lt;img src=&#34;https://wefightwithcards.com/images/mtg/XLN_Web.png&#34; /&gt;
+        &lt;img src=&#34;http://wefightwithcards.com/images/mtg/XLN_Web.png&#34; /&gt;
     &lt;/figure&gt;
     &lt;p&gt;The four peoples of &lt;b&gt;Ixalan&lt;/b&gt; are locked in a deadly struggle as they search for the golden city of Orazca.&lt;/p&gt;
     &lt;p&gt;The set features Pirates, Vampires, Merfolk, Dinosaurs, and 3 powerful planeswalkers.&lt;/p&gt;
@@ -981,7 +1651,7 @@
     &lt;/p&gt;
 
     &lt;figure class=&#34;image&#34; style=&#34;width: 250px&#34;&gt;
-        &lt;img src=&#34;https://wefightwithcards.com/cards/mtg/jace cunning castaway.png&#34; /&gt;
+        &lt;img src=&#34;http://wefightwithcards.com/cards/mtg/jace cunning castaway.png&#34; /&gt;
     &lt;/figure&gt;
 
     &lt;p&gt;
@@ -1000,13 +1670,13 @@
     &lt;/p&gt;
 
     &lt;figure class=&#34;image&#34; style=&#34;width: 250px&#34;&gt;
-        &lt;img src=&#34;https://wefightwithcards.com/images/mtg/priest of the wakening sun.png&#34; /&gt;
+        &lt;img src=&#34;http://wefightwithcards.com/images/mtg/priest of the wakening sun.png&#34; /&gt;
     &lt;/figure&gt;
 
     &lt;p&gt;A good example is 
 
 &lt;strong class=&#34;game-card&#34; data-html=&#34;true&#34; data-toggle=&#34;popover&#34; data-placement=&#34;right&#34;
-        data-content=&#34;&lt;img src=&#39;https://wefightwithcards.com/cards/mtg/priest of the wakening sun.png&#39; class=&#39;mtg-card&#39; /&gt;&#34;
+        data-content=&#34;&lt;img src=&#39;http://wefightwithcards.com/cards/mtg/priest of the wakening sun.png&#39; class=&#39;mtg-card&#39; /&gt;&#34;
 &gt;Priest of the wakening sun&lt;/strong&gt;: every turn, you &lt;em&gt;may&lt;/em&gt; reveal a Dinosaur card to gain 2 life. If you don&#39;t have a Dinosaur in your hand, the game won&#39;t ask you.
     &lt;/p&gt;
 
@@ -1035,7 +1705,7 @@
         The MTG: Arena team is gearing up for the Closed Beta with a series of streams in October and November, in which they talk more about the game.
     &lt;/p&gt;
     &lt;p&gt;
-        &lt;a href=&#34;https://wefightwithcards.com/posts/mtg-arena-timeline&#34;&gt;See the updated stream list here.&lt;/a&gt;
+        &lt;a href=&#34;http://wefightwithcards.com/posts/mtg-arena-timeline&#34;&gt;See the updated stream list here.&lt;/a&gt;
 
     &lt;/p&gt;
 
@@ -1067,7 +1737,7 @@
 
     &lt;div role=&#34;alert&#34; class=&#34;box media&#34; id=&#34;mce-success-response&#34; style=&#34;display:none&#34;&gt;
         &lt;div class=&#34;media-left&#34;&gt;
-            &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;https://wefightwithcards.com/vlad.png&#34;&gt;
+            &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;http://wefightwithcards.com/vlad.png&#34;&gt;
         &lt;/div&gt;
         &lt;div class=&#34;media-content&#34;&gt;
             &lt;p&gt;Thanks for joining us! You&#39;ll receive an email shortly &amp;mdash; please click the link inside to confirm. &lt;/p&gt;
@@ -1090,10 +1760,10 @@
     
     <item>
       <title>Issue #18 - A month later</title>
-      <link>https://wefightwithcards.com/archives/issue_18/</link>
+      <link>http://wefightwithcards.com/archives/issue_18/</link>
       <pubDate>Tue, 12 Sep 2017 02:00:11 +0300</pubDate>
       
-      <guid>https://wefightwithcards.com/archives/issue_18/</guid>
+      <guid>http://wefightwithcards.com/archives/issue_18/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
     #outlook a{
         padding:0;
@@ -1772,10 +2442,10 @@
     
     <item>
       <title>Issue #17 - Frozen lich</title>
-      <link>https://wefightwithcards.com/archives/issue_17/</link>
+      <link>http://wefightwithcards.com/archives/issue_17/</link>
       <pubDate>Mon, 14 Aug 2017 16:51:11 +0300</pubDate>
       
-      <guid>https://wefightwithcards.com/archives/issue_17/</guid>
+      <guid>http://wefightwithcards.com/archives/issue_17/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
         #outlook a{
             padding:0;
@@ -2469,10 +3139,10 @@
     
     <item>
       <title>A guide to Elder Scrolls: Legends for Hearthstone players</title>
-      <link>https://wefightwithcards.com/posts/elder-scrolls-legends-guide-hearthstone-players/</link>
+      <link>http://wefightwithcards.com/posts/elder-scrolls-legends-guide-hearthstone-players/</link>
       <pubDate>Sat, 12 Aug 2017 23:48:45 +0300</pubDate>
       
-      <guid>https://wefightwithcards.com/posts/elder-scrolls-legends-guide-hearthstone-players/</guid>
+      <guid>http://wefightwithcards.com/posts/elder-scrolls-legends-guide-hearthstone-players/</guid>
       <description>&lt;p&gt;
     &lt;small&gt;original article by &lt;a href=&#34;https://www.reddit.com/user/Karandor&#34;&gt;/u/Karandor&lt;/a&gt;&lt;/small&gt;
 &lt;/p&gt;
@@ -2668,7 +3338,7 @@ Damage dealt also heals you for the same amount. Three things you need to know a
 
     &lt;div role=&#34;alert&#34; class=&#34;box media&#34; id=&#34;mce-success-response&#34; style=&#34;display:none&#34;&gt;
         &lt;div class=&#34;media-left&#34;&gt;
-            &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;https://wefightwithcards.com/vlad.png&#34;&gt;
+            &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;http://wefightwithcards.com/vlad.png&#34;&gt;
         &lt;/div&gt;
         &lt;div class=&#34;media-content&#34;&gt;
             &lt;p&gt;Thanks for joining us! You&#39;ll receive an email shortly &amp;mdash; please click the link inside to confirm. &lt;/p&gt;
@@ -2691,10 +3361,10 @@ Damage dealt also heals you for the same amount. Three things you need to know a
     
     <item>
       <title>Issue #16 - Crafting &amp; dusting!</title>
-      <link>https://wefightwithcards.com/archives/issue_16/</link>
+      <link>http://wefightwithcards.com/archives/issue_16/</link>
       <pubDate>Mon, 07 Aug 2017 16:51:11 +0300</pubDate>
       
-      <guid>https://wefightwithcards.com/archives/issue_16/</guid>
+      <guid>http://wefightwithcards.com/archives/issue_16/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
         #outlook a{
             padding:0;
@@ -3395,10 +4065,10 @@ Damage dealt also heals you for the same amount. Three things you need to know a
     
     <item>
       <title>Issue #15 - First interview!</title>
-      <link>https://wefightwithcards.com/archives/issue_15/</link>
+      <link>http://wefightwithcards.com/archives/issue_15/</link>
       <pubDate>Sat, 29 Jul 2017 16:51:11 +0300</pubDate>
       
-      <guid>https://wefightwithcards.com/archives/issue_15/</guid>
+      <guid>http://wefightwithcards.com/archives/issue_15/</guid>
       <description>&lt;center&gt;
     &lt;table align=&#34;center&#34; border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;bodyTable&#34; style=&#34;height: 100%;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0;mso-table-rspace: 0;background-color: #fff;margin: 0;padding: 0;border-collapse: collapse !important;width: 100% !important;&#34;&gt;
         &lt;tr&gt;
@@ -3624,10 +4294,10 @@ Damage dealt also heals you for the same amount. Three things you need to know a
     
     <item>
       <title>Welcome to Frivolity</title>
-      <link>https://wefightwithcards.com/posts/card-city-nights-Ludosity-interview-multiplayer/</link>
+      <link>http://wefightwithcards.com/posts/card-city-nights-Ludosity-interview-multiplayer/</link>
       <pubDate>Tue, 25 Jul 2017 23:48:45 +0300</pubDate>
       
-      <guid>https://wefightwithcards.com/posts/card-city-nights-Ludosity-interview-multiplayer/</guid>
+      <guid>http://wefightwithcards.com/posts/card-city-nights-Ludosity-interview-multiplayer/</guid>
       <description>&lt;article&gt;
 &lt;p&gt;
 If you’re a fan of card games, you probably heard of Card City Nights by now. Released back in 2014, the quirky card game was a mash-up featuring characters from Ludosity’s other games, reimagined as card players. With an interesting core mechanic, stellar soundtrack and spiffy characters, the game was well-received and still provides a refreshing experience 3 years later. So naturally, fans are eagerly awaiting the sequel!
@@ -3638,7 +4308,7 @@ If you’re a fan of card games, you probably heard of Card City Nights by now. 
 
     &lt;div class=&#34;box has-text-centered&#34;&gt;
         &lt;figure class=&#34;image&#34;&gt;
-            &lt;img src=&#34;https://wefightwithcards.com/images/cardcitynights/card-city-nights-board.png&#34; /&gt;
+            &lt;img src=&#34;http://wefightwithcards.com/images/cardcitynights/card-city-nights-board.png&#34; /&gt;
         &lt;/figure&gt;
         &lt;span class=&#34;small&#34;&gt;
             Players will place cards on the same game board.
@@ -3653,7 +4323,7 @@ If you’re a fan of card games, you probably heard of Card City Nights by now. 
 
     &lt;div class=&#34;box has-text-centered&#34;&gt;
         &lt;figure class=&#34;image card&#34;&gt;
-            &lt;img src=&#34;https://wefightwithcards.com/ccn/Potato.png&#34; /&gt;
+            &lt;img src=&#34;http://wefightwithcards.com/ccn/Potato.png&#34; /&gt;
         &lt;/figure&gt;
         &lt;span class=&#34;small&#34;&gt;
             The Potato &amp;mdash; #1 card in the beta
@@ -3730,7 +4400,7 @@ With all that in mind, multiplayer should be a total blast! The last beta gave u
 
     &lt;div class=&#34;box is-pulled-right has-text-centered&#34; style=&#34;width: 250px&#34;&gt;
         &lt;figure class=&#34;image&#34;&gt;
-            &lt;img src=&#34;https://wefightwithcards.com/ccn/Princess Remedy.png&#34; /&gt;
+            &lt;img src=&#34;http://wefightwithcards.com/ccn/Princess Remedy.png&#34; /&gt;
         &lt;/figure&gt;
         &lt;span class=&#34;small&#34;&gt;
             Princess Remedy proved to be a great control card
@@ -3741,7 +4411,7 @@ With all that in mind, multiplayer should be a total blast! The last beta gave u
 I loved the fact that new decks emerged every day: at first, the Frog deck ruled. Then, players started countering it with control decks, then by using the best princess there is: 
 
 &lt;strong class=&#34;game-card&#34; data-html=&#34;true&#34; data-toggle=&#34;popover&#34; data-placement=&#34;right&#34;
-        data-content=&#34;&lt;img src=&#39;https://wefightwithcards.com/cards/error: index out of range for positional param at position 1/princess remedy.png&#39; class=&#39;error: index out of range for positional param at position 1-card&#39; /&gt;&#34;
+        data-content=&#34;&lt;img src=&#39;http://wefightwithcards.com/cards/error: index out of range for positional param at position 1/princess remedy.png&#39; class=&#39;error: index out of range for positional param at position 1-card&#39; /&gt;&#34;
 &gt;Princess Remedy&lt;/strong&gt;. In the last few days, people noticed that a fatigue archetype is a contender for &#34;top deck&#34;. This can only mean good news for the finished game &amp;mdash; everyone wants a dynamic meta with multiple deck types to explore.
 &lt;/p&gt;
 
@@ -3788,7 +4458,7 @@ I loved the fact that new decks emerged every day: at first, the Frog deck ruled
 
                 &lt;div role=&#34;alert&#34; class=&#34;box media&#34; id=&#34;mce-success-response&#34; style=&#34;display:none&#34;&gt;
                     &lt;div class=&#34;media-left&#34;&gt;
-                        &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;https://wefightwithcards.com/vlad.png&#34;&gt;
+                        &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;http://wefightwithcards.com/vlad.png&#34;&gt;
                     &lt;/div&gt;
                     &lt;div class=&#34;media-content&#34;&gt;
                         &lt;p&gt;Thanks for joining us! You&#39;ll receive an email shortly &amp;mdash; please click the link inside to confirm. &lt;/p&gt;
@@ -3824,10 +4494,10 @@ I loved the fact that new decks emerged every day: at first, the Frog deck ruled
     
     <item>
       <title>Issue #14</title>
-      <link>https://wefightwithcards.com/archives/issue_14/</link>
+      <link>http://wefightwithcards.com/archives/issue_14/</link>
       <pubDate>Mon, 17 Jul 2017 16:51:11 +0300</pubDate>
       
-      <guid>https://wefightwithcards.com/archives/issue_14/</guid>
+      <guid>http://wefightwithcards.com/archives/issue_14/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
     #outlook a{
         padding:0;
@@ -4564,10 +5234,10 @@ A Good Saesenthessis Deck?! - Scoia&amp;#39;tael Gameplay&lt;/a&gt;&lt;br&gt;
     
     <item>
       <title>Issue #13</title>
-      <link>https://wefightwithcards.com/archives/issue_13/</link>
+      <link>http://wefightwithcards.com/archives/issue_13/</link>
       <pubDate>Sat, 08 Jul 2017 16:51:11 +0300</pubDate>
       
-      <guid>https://wefightwithcards.com/archives/issue_13/</guid>
+      <guid>http://wefightwithcards.com/archives/issue_13/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
     #outlook a{
         padding:0;
@@ -5319,10 +5989,10 @@ A Good Saesenthessis Deck?! - Scoia&amp;#39;tael Gameplay&lt;/a&gt;&lt;br&gt;
     
     <item>
       <title>Issue #12</title>
-      <link>https://wefightwithcards.com/archives/issue_12/</link>
+      <link>http://wefightwithcards.com/archives/issue_12/</link>
       <pubDate>Mon, 03 Jul 2017 16:51:11 +0300</pubDate>
       
-      <guid>https://wefightwithcards.com/archives/issue_12/</guid>
+      <guid>http://wefightwithcards.com/archives/issue_12/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
     #outlook a{
         padding:0;
@@ -6052,10 +6722,10 @@ A Good Saesenthessis Deck?! - Scoia&amp;#39;tael Gameplay&lt;/a&gt;&lt;br&gt;
     
     <item>
       <title>Issue #11</title>
-      <link>https://wefightwithcards.com/archives/issue_11/</link>
+      <link>http://wefightwithcards.com/archives/issue_11/</link>
       <pubDate>Mon, 26 Jun 2017 16:51:11 +0300</pubDate>
       
-      <guid>https://wefightwithcards.com/archives/issue_11/</guid>
+      <guid>http://wefightwithcards.com/archives/issue_11/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
     #outlook a{
         padding:0;
@@ -6758,10 +7428,10 @@ A Good Saesenthessis Deck?! - Scoia&amp;#39;tael Gameplay&lt;/a&gt;&lt;br&gt;
     
     <item>
       <title>Issue #10</title>
-      <link>https://wefightwithcards.com/archives/issue_10/</link>
+      <link>http://wefightwithcards.com/archives/issue_10/</link>
       <pubDate>Mon, 19 Jun 2017 16:51:11 +0300</pubDate>
       
-      <guid>https://wefightwithcards.com/archives/issue_10/</guid>
+      <guid>http://wefightwithcards.com/archives/issue_10/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
     #outlook a{
         padding:0;
@@ -7427,769 +8097,6 @@ A Good Saesenthessis Deck?! - Scoia&amp;#39;tael Gameplay&lt;/a&gt;&lt;br&gt;
                             &lt;/p&gt;
                             &lt;div mc:edit=&#34;body_end&#34;&gt;&lt;/div&gt;
                             
-                            &lt;p&gt;Not a subscriber? Join us at &lt;a href=&#34;https://wefightwithcards.com/&#34;&gt;https://wefightwithcards.com/&lt;/a&gt;
-                            &lt;/p&gt;
-                        &lt;/td&gt;
-                    &lt;/tr&gt;
-                &lt;/table&gt;
-                &lt;!-- // END BODY --&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td align=&#34;center&#34; valign=&#34;top&#34;&gt;
-                &lt;!-- BEGIN FOOTER // --&gt;
-                &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templateFooter&#34;&gt;
-                    &lt;tr&gt;
-                        &lt;td valign=&#34;top&#34; class=&#34;footerContent&#34; mc:edit=&#34;footer_content00&#34;&gt;Stay in touch! You can &lt;a href=&#34;https://twitter.com/fightwithcards&#34; target=&#34;_blank&#34;&gt;Follow us on Twitter&lt;/a&gt;, or &lt;a href=&#34;https://www.facebook.com/wefightwithcards/&#34; target=&#34;_blank&#34;&gt;Like us on Facebook&lt;/a&gt;.&lt;/td&gt;
-                    &lt;/tr&gt;
-                    &lt;tr&gt;
-                        &lt;td valign=&#34;top&#34; class=&#34;footerContent&#34; style=&#34;padding-top:0;&#34; mc:edit=&#34;footer_content01&#34;&gt;
-                             
-                            &lt;br&gt;&lt;strong&gt;Our mailing address is:&lt;/strong&gt;
-                            &lt;br&gt; 
-                        &lt;/td&gt;
-                    &lt;/tr&gt;
-                    &lt;tr&gt;
-                        &lt;td valign=&#34;top&#34; class=&#34;footerContent&#34; style=&#34;padding-top:0;&#34; mc:edit=&#34;footer_content02&#34;&gt;You can&amp;nbsp;&lt;a href=&#34;&#34;&gt;unsubscribe&lt;/a&gt;&amp;nbsp;or&amp;nbsp;&lt;a href=&#34;&#34;&gt;update&amp;nbsp;&lt;/a&gt;&lt;a href=&#34;&#34; target=&#34;_blank&#34;&gt;your games&lt;/a&gt;&lt;/td&gt;
-                    &lt;/tr&gt;
-                &lt;/table&gt;
-                &lt;!-- // END FOOTER --&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-    &lt;!-- // END TEMPLATE --&gt;
-&lt;/center&gt;
-&lt;div itemscope=&#34;&#34; itemtype=&#34;http://schema.org/EmailMessage&#34;&gt;
-    &lt;div itemprop=&#34;publisher&#34; itemscope=&#34;&#34; itemtype=&#34;http://schema.org/Organization&#34;&gt;
-        &lt;meta itemprop=&#34;name&#34; content=&#34;We fight with cards&#34;&gt;
-        &lt;meta itemprop=&#34;telephone&#34; content=&#34;(+40) 723-684192&#34;&gt;
-        &lt;link itemprop=&#34;url&#34; href=&#34;https://www.wefightwithcards.com&#34;&gt;
-        &lt;link itemprop=&#34;logo&#34; href=&#34;http://wefightwithcards.com/vlad.png/&#34;&gt;
-        &lt;link itemprop=&#34;url/googlePlus&#34; href=&#34;https://plus.google.com/+FightWithCards/&#34;&gt;
-        &lt;link itemprop=&#34;url/facebook&#34; href=&#34;https://www.facebook.com/wefightwithcards&#34;&gt;
-        &lt;link itemprop=&#34;url/twitter&#34; href=&#34;https://twitter.com/FightWithCards&#34;&gt;
-        &lt;div itemprop=&#34;address&#34; itemscope=&#34;&#34; itemtype=&#34;http://schema.org/PostalAddress&#34;&gt;
-            &lt;meta itemprop=&#34;streetAddress&#34; content=&#34;Ramnicu Valce 27&#34;&gt;
-            &lt;meta itemprop=&#34;addressLocality&#34; content=&#34;Bucharest&#34;&gt;
-            &lt;meta itemprop=&#34;addressRegion&#34; content=&#34;Bucharest&#34;&gt;
-            &lt;meta itemprop=&#34;postalCode&#34; content=&#34;031805&#34;&gt;
-            &lt;meta itemprop=&#34;addressCountry&#34; content=&#34;Romania&#34;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Issue #9</title>
-      <link>https://wefightwithcards.com/archives/issue_9/</link>
-      <pubDate>Mon, 05 Jun 2017 16:51:11 +0300</pubDate>
-      
-      <guid>https://wefightwithcards.com/archives/issue_9/</guid>
-      <description>&lt;style type=&#34;text/css&#34;&gt;
-    #outlook a{
-        padding:0;
-    }
-    .ReadMsgBody{
-        width:100%;
-    }
-    .ExternalClass{
-        width:100%;
-    }
-    .ExternalClass,.ExternalClass p,.ExternalClass span,.ExternalClass font,.ExternalClass td,.ExternalClass div{
-        line-height:100%;
-    }
-    body,table,td,p,a,li,blockquote{
-        -webkit-text-size-adjust:100%;
-        -ms-text-size-adjust:100%;
-    }
-    table,td{
-        mso-table-lspace:0;
-        mso-table-rspace:0;
-    }
-    img{
-        -ms-interpolation-mode:bicubic;
-    }
-    body{
-        margin:0;
-        padding:0;
-    }
-    img{
-        border:0;
-        height:auto;
-        line-height:100%;
-        outline:none;
-        text-decoration:none;
-    }
-    table{
-        border-collapse:collapse !important;
-    }
-    body,#bodyTable,#bodyCell{
-        height:100% !important;
-        margin:0;
-        padding:0;
-        width:100% !important;
-    }
-    #templateContainer{
-        width:100%;
-        max-width:600px;
-    }
-    #templateSummary{
-        background-color:#070530;
-        color:#fff;
-        border-top:3px solid #28C762;
-    }
-    #templateSummary .bodyContent{
-        color:#fff;
-    }
-    #templateSummary a{
-        color:#28C762;
-    }
-    /*
-    @tab Page
-    @section heading 1
-    @tip Set the styling for all first-level headings in your emails. These should be the largest of your headings.
-    @style heading 1
-    */
-    h1{
-        /*@editable*/color:#202020 !important;
-        border-bottom:1px solid #ccc;
-        padding-bottom:10px;
-        display:block;
-        /*@editable*/font-family:Helvetica;
-        /*@editable*/font-size:16px;
-        /*@editable*/font-style:normal;
-        /*@editable*/font-weight:bold;
-        /*@editable*/line-height:100%;
-        /*@editable*/letter-spacing:normal;
-        margin-top:0;
-        margin-right:0;
-        margin-bottom:10px;
-        margin-left:0;
-        /*@editable*/text-align:left;
-    }
-    h1:before{
-        content:&#39;#&#39;;
-        color:#28C762;
-        font-family:Verdana,Arial,sans-serif;
-    }
-    /*
-    @tab Page
-    @section heading 2
-    @tip Set the styling for all second-level headings in your emails.
-    @style heading 2
-    */
-    h2{
-        /*@editable*/color:#404040 !important;
-        display:block;
-        /*@editable*/font-family:Helvetica;
-        /*@editable*/font-size:20px;
-        /*@editable*/font-style:normal;
-        /*@editable*/font-weight:bold;
-        /*@editable*/line-height:100%;
-        /*@editable*/letter-spacing:normal;
-        margin-top:0;
-        margin-right:0;
-        margin-bottom:10px;
-        margin-left:0;
-        /*@editable*/text-align:left;
-    }
-    /*
-    @tab Page
-    @section heading 3
-    @tip Set the styling for all third-level headings in your emails.
-    @style heading 3
-    */
-    h3{
-        /*@editable*/color:#606060 !important;
-        display:block;
-        /*@editable*/font-family:Helvetica;
-        /*@editable*/font-size:16px;
-        /*@editable*/font-style:italic;
-        /*@editable*/font-weight:normal;
-        /*@editable*/line-height:100%;
-        /*@editable*/letter-spacing:normal;
-        margin-top:0;
-        margin-right:0;
-        margin-bottom:10px;
-        margin-left:0;
-        /*@editable*/text-align:left;
-    }
-    /*
-    @tab Page
-    @section heading 4
-    @tip Set the styling for all fourth-level headings in your emails. These should be the smallest of your headings.
-    @style heading 4
-    */
-    h4{
-        /*@editable*/color:#808080 !important;
-        display:block;
-        /*@editable*/font-family:Helvetica;
-        /*@editable*/font-size:14px;
-        /*@editable*/font-style:italic;
-        /*@editable*/font-weight:normal;
-        /*@editable*/line-height:100%;
-        /*@editable*/letter-spacing:normal;
-        margin-top:0;
-        margin-right:0;
-        margin-bottom:10px;
-        margin-left:0;
-        /*@editable*/text-align:left;
-    }
-    /*
-    @tab Header
-    @section preheader style
-    @tip Set the background color and bottom border for your email&#39;s preheader area.
-    @theme header
-    */
-    #templatePreheader{
-        /*@editable*/background-color:#fff;
-    }
-    /*
-    @tab Header
-    @section preheader text
-    @tip Set the styling for your email&#39;s preheader text. Choose a size and color that is easy to read.
-    */
-    .preheaderContent{
-        /*@editable*/color:#808080;
-        /*@editable*/font-family:Helvetica;
-        /*@editable*/font-size:11px;
-        /*@editable*/line-height:125%;
-        /*@editable*/text-align:left;
-    }
-    /*
-    @tab Header
-    @section preheader link
-    @tip Set the styling for your email&#39;s preheader links. Choose a color that helps them stand out from your text.
-    */
-    .preheaderContent a:link,.preheaderContent a:visited,.preheaderContent a .yshortcuts{
-        /*@editable*/color:#606060;
-        /*@editable*/font-weight:normal;
-        /*@editable*/text-decoration:underline;
-    }
-    /*
-    @tab Header
-    @section header style
-    @tip Set the background color and borders for your email&#39;s header area.
-    @theme header
-    */
-    #templateHeader{
-        /*@editable*/background-color:#fff;
-    }
-    /*
-    @tab Header
-    @section header text
-    @tip Set the styling for your email&#39;s header text. Choose a size and color that is easy to read.
-    */
-    .headerContentImg{
-        /*@tab Header
-@section header text
-@tip Set the styling for your email&#39;s header text. Choose a size and color that is easy to read.*/text-align:right;
-        padding-right:20px;
-        padding:20px;
-    }
-    .headerContentImg img{
-        width:48px;
-        height:48px;
-    }
-    .headerContent{
-        /*@editable*/color:#000;
-        /*@editable*/font-family:Helvetica,Arial,sans-serif;
-        /*@editable*/font-size:24px;
-        /*@editable*/font-weight:bold;
-        /*@editable*/line-height:100%;
-        /*@editable*/padding-top:0;
-        /*@editable*/padding-right:0;
-        /*@editable*/padding-bottom:20px;
-        /*@editable*/padding-left:20px;
-        /*@editable*/text-align:left;
-        /*@editable*/vertical-align:bottom;
-    }
-    .headerContent small{
-        /*@editable*/color:#575757;
-        /*@editable*/font-size:11px;
-        /*@editable*/font-weight:100;
-        /*@editable*/line-height:155%;
-    }
-    /*
-    @tab Header
-    @section header link
-    @tip Set the styling for your email&#39;s header links. Choose a color that helps them stand out from your text.
-    */
-    .headerContent a:link,.headerContent a:visited,.headerContent a .yshortcuts{
-        /*@editable*/color:#1866df;
-        /*@editable*/font-weight:normal;
-        /*@editable*/text-decoration:underline;
-    }
-    #headerImage{
-        height:auto;
-        max-width:600px;
-    }
-    /*
-    @tab Body
-    @section body style
-    @tip Set the background color and borders for your email&#39;s body area.
-    */
-    table{
-        /*@editable*/background-color:#fff;
-    }
-    /*
-    @tab Body
-    @section body text
-    @tip Set the styling for your email&#39;s main content text. Choose a size and color that is easy to read.
-    @theme main
-    */
-    .bodyContent{
-        /*@editable*/color:#505050;
-        /*@editable*/font-family:Helvetica;
-        /*@editable*/font-size:14px;
-        /*@editable*/line-height:150%;
-        padding-top:20px;
-        padding-right:20px;
-        padding-bottom:20px;
-        padding-left:20px;
-        /*@editable*/text-align:left;
-    }
-    /*
-    @tab Body
-    @section body link
-    @tip Set the styling for your email&#39;s main content links. Choose a color that helps them stand out from your text.
-    */
-    .bodyContent a:link,.bodyContent a:visited,.bodyContent a .yshortcuts{
-        /*@editable*/color:#1866df;
-        /*@editable*/font-weight:normal;
-        /*@editable*/text-decoration:underline;
-    }
-    .bodyContent img{
-        display:inline;
-        height:auto;
-        max-width:560px;
-    }
-    .bodyContent ul{
-        margin:0 0 0 16px;
-        padding:0;
-    }
-    .bodyContent ul li{
-        margin:14px 0;
-    }
-    #yourGames span{
-        margin:0;
-        padding:0 10px 0 0;
-    }
-    /*
-    @tab Footer
-    @section footer style
-    @tip Set the background color and borders for your email&#39;s footer area.
-    @theme footer
-    */
-    #templateFooter{
-        /*@tab Footer
-@section footer style
-@tip Set the background color and borders for your email&#39;s footer area.
-@theme footer*/width:100%;
-        max-width:600px;
-        /*@editable*/background-color:#F4F4F4;
-    }
-    /*
-    @tab Footer
-    @section footer text
-    @tip Set the styling for your email&#39;s footer text. Choose a size and color that is easy to read.
-    @theme footer
-    */
-    .footerContent{
-        /*@editable*/color:#808080;
-        /*@editable*/font-family:Helvetica;
-        /*@editable*/font-size:10px;
-        /*@editable*/line-height:150%;
-        padding-top:20px;
-        padding-right:20px;
-        padding-bottom:20px;
-        padding-left:20px;
-        /*@editable*/text-align:left;
-    }
-    /*
-    @tab Footer
-    @section footer link
-    @tip Set the styling for your email&#39;s footer links. Choose a color that helps them stand out from your text.
-    */
-    .footerContent a:link,.footerContent a:visited,.footerContent a .yshortcuts,.footerContent a span{
-        /*@editable*/color:#606060;
-        /*@editable*/font-weight:normal;
-        /*@editable*/text-decoration:underline;
-    }
-    @media only screen and (max-width: 480px){
-        body,table,td,p,a,li,blockquote{
-            -webkit-text-size-adjust:none !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        body{
-            width:100% !important;
-            min-width:100% !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        /*
-        @tab Mobile Styles
-        @section template width
-        @tip Make the template fluid for portrait or landscape view adaptability. If a fluid layout doesn&#39;t work for you, set the width to 300px instead.
-        */
-        #templateContainer{
-            /*@tab Mobile Styles
-@section template width
-@tip Make the template fluid for portrait or landscape view adaptability. If a fluid layout doesn&#39;t work for you, set the width to 300px instead.*/max-width:600px !important;
-            /*@editable*/width:100% !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        /*
-        @tab Mobile Styles
-        @section heading 1
-        @tip Make the first-level headings larger in size for better readability on small screens.
-        */
-        h1{
-            /*@editable*/font-size:14px !important;
-            /*@editable*/line-height:100% !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        /*
-        @tab Mobile Styles
-        @section heading 2
-        @tip Make the second-level headings larger in size for better readability on small screens.
-        */
-        h2{
-            /*@editable*/font-size:20px !important;
-            /*@editable*/line-height:100% !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        /*
-        @tab Mobile Styles
-        @section heading 3
-        @tip Make the third-level headings larger in size for better readability on small screens.
-        */
-        h3{
-            /*@editable*/font-size:18px !important;
-            /*@editable*/line-height:100% !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        /*
-        @tab Mobile Styles
-        @section heading 4
-        @tip Make the fourth-level headings larger in size for better readability on small screens.
-        */
-        h4{
-            /*@editable*/font-size:16px !important;
-            /*@editable*/line-height:100% !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        #templatePreheader{
-            display:none !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        /*
-        @tab Mobile Styles
-        @section header image
-        @tip Make the main header image fluid for portrait or landscape view adaptability, and set the image&#39;s original width as the max-width. If a fluid setting doesn&#39;t work, set the image width to half its original size instead.
-        */
-        #headerImage{
-            /*@tab Mobile Styles
-@section header image
-@tip Make the main header image fluid for portrait or landscape view adaptability, and set the image&#39;s original width as the max-width. If a fluid setting doesn&#39;t work, set the image width to half its original size instead.*/height:auto !important;
-            /*@editable*/max-width:600px !important;
-            /*@editable*/width:100% !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        /*
-        @tab Mobile Styles
-        @section header text
-        @tip Make the header content text larger in size for better readability on small screens. We recommend a font size of at least 16px.
-        */
-        .headerContent{
-            /*@editable*/font-size:18px !important;
-            /*@editable*/line-height:24px !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        .headerContent small a{
-            display:block;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        /*
-        @tab Mobile Styles
-        @section body text
-        @tip Make the body content text larger in size for better readability on small screens. We recommend a font size of at least 16px.
-        */
-        .bodyContent{
-            /*@editable*/font-size:16px !important;
-            /*@editable*/line-height:24px !important;
-        }
-
-    }	@media only screen and (max-width: 480px){
-        /*
-        @tab Mobile Styles
-        @section footer text
-        @tip Make the body content text larger in size for better readability on small screens.
-        */
-        .footerContent{
-            /*@editable*/font-size:12px !important;
-            /*@editable*/line-height:14px !important;
-        }
-
-    }&lt;/style&gt;
-&lt;center&gt;
-    &lt;table align=&#34;center&#34; border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;bodyTable&#34; style=&#34;height:100%;&#34;&gt;
-        &lt;tr&gt;
-            &lt;td align=&#34;center&#34; valign=&#34;top&#34; id=&#34;bodyCell&#34;&gt;
-                &lt;!-- BEGIN TEMPLATE // --&gt;
-                &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; id=&#34;templateContainer&#34;&gt;
-                    &lt;tr&gt;
-                        &lt;td align=&#34;center&#34; valign=&#34;top&#34;&gt;
-                            &lt;!-- BEGIN PREHEADER // --&gt;
-                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templatePreheader&#34;&gt;
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;preheaderContent&#34; style=&#34;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;&#34; mc:edit=&#34;preheader_content00&#34;&gt;New TCGs! / TES Legends now on Steam / Class check: Mage / More Gwent decks&lt;/td&gt;
-                                &lt;/tr&gt;
-                            &lt;/table&gt;
-                            &lt;!-- // END PREHEADER --&gt;
-                        &lt;/td&gt;
-                    &lt;/tr&gt;
-                    &lt;tr&gt;
-                        &lt;td align=&#34;center&#34; valign=&#34;top&#34;&gt;
-                            &lt;!-- BEGIN HEADER // --&gt;
-                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templateHeader&#34;&gt;
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;bottom&#34; class=&#34;headerContent&#34; mc:edit=&#34;main_header&#34;&gt;We fight with cards&lt;br&gt;
-                                        &lt;small&gt;Issue #9 / June 5, 2017 // &lt;!--  --&gt; &lt;a href=&#34;https://wefightwithcards.com/archives/issue_9/&#34; target=&#34;_blank&#34;&gt;View in your browser&lt;/a&gt; &lt;!--  --&gt; &lt;/small&gt;&lt;/td&gt;
-                                    &lt;td class=&#34;headerContentImg&#34;&gt;
-                                        &lt;img src=&#34;https://wefightwithcards.com/images/new_icon.png&#34; width=&#34;64&#34; height=&#34;64&#34; alt=&#34;new_icon.png&#34;&gt;
-                                    &lt;/td&gt;
-                                &lt;/tr&gt;
-                            &lt;/table&gt;
-                            &lt;!-- // END HEADER --&gt;
-                        &lt;/td&gt;
-                    &lt;/tr&gt;
-                    &lt;tr&gt;
-                        &lt;td align=&#34;center&#34; valign=&#34;top&#34;&gt;
-                            &lt;!-- BEGIN BODY // --&gt;
-                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34; id=&#34;templateSummary&#34;&gt;
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_summary&#34;&gt;Hey there! Getting ready for the summer &amp;nbsp;- we have some cool new TCGs to Discover, plus TES Legends is out on PC, Mac, and Android tablets.&lt;br&gt;
-                                        &lt;br&gt;
-                                        May the RNGsus be ever in your favor&amp;mdash;Vlad&lt;/td&gt;
-                                &lt;/tr&gt;
-                            &lt;/table&gt;
-                            &lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; width=&#34;100%&#34;&gt;
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_news&#34;&gt;&lt;/td&gt;
-                                &lt;/tr&gt;
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_hearth&#34;&gt;&lt;h1&gt;&lt;span style=&#34;color:#C99122&#34;&gt;Hearthstone&lt;/span&gt;&lt;/h1&gt;
-                                        The new Hearthstone patch is out, brings deck import &amp;amp; export, and now you can finish Quests while challenging friends. Ben Brode &lt;a href=&#34;http://www.hearthstonetopdecks.com/ben-brode-discusses-current-ranked-system-tournament-mode/&#34; target=&#34;_blank&#34;&gt;took to Reddit&lt;/a&gt;&amp;nbsp;to talk about more changes in the form of a Tournament mode.
-
-                                        &lt;ul&gt;
-                                            &lt;li&gt;the Wild tournament kicks off this month, with the live finals on July 2. &lt;a href=&#34;http://us.battle.net/hearthstone/en/blog/20797724/&#34; target=&#34;_blank&#34;&gt;more details&lt;/a&gt;&lt;/li&gt;
-                                            &lt;li&gt;&lt;a href=&#34;http://www.gosugamers.net/hearthstone/news/44549-ukraine-joins-usa-italy-canada-in-the-next-round-of-the-global-games&#34; target=&#34;_blank&#34;&gt;Ukraine qualifies&lt;/a&gt; for the next round in #HGG, following USA, Canada and Italy&lt;/li&gt;
-                                        &lt;/ul&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;http://www.hearthstonetopdecks.com/decks/budget-ungoro-aggro-pirate-warrior-april-2017-season-37/&#34; target=&#34;_blank&#34;&gt;Budget Pirate Warrior&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//hstopdecks&lt;/span&gt;&lt;br&gt;
-                                        It&amp;#39;s back at it! You know what they say: if you can&amp;#39;t beat them, join them.&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;http://www.gosugamers.net/hearthstone/features/44636-a-month-in-the-wild-week-one-n-zoth-reno-shaman&#34; target=&#34;_blank&#34;&gt;A month in the wild - week 1&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//gosu&lt;/span&gt;&lt;br&gt;
-                                        Gosu dives deep into the wild metagame this month, and they kick it off with&amp;nbsp;N&amp;#39;Zoth Reno Shaman.&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://clips.twitch.tv/ColorfulRelatedClamStinkyCheese&#34; target=&#34;_blank&#34;&gt;Combo Priest is Combo&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[clip]&lt;/span&gt;&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://giphy.com/gifs/3ohzdJedKFkdvCKcak&#34; target=&#34;_blank&#34;&gt;Deathwing new animation&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[gif]&lt;/span&gt;&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://clips.twitch.tv/TacitRelentlessLobsterNotATK&#34; target=&#34;_blank&#34;&gt;Yogg is back!&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[clip]&lt;/span&gt;&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://clips.twitch.tv/SmilingSourLampTBCheesePull&#34; target=&#34;_blank&#34;&gt;Infinite Dmg Priest Combo&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[clip]&lt;/span&gt;&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://clips.twitch.tv/RelatedAmericanCarrotPeteZaroll&#34; target=&#34;_blank&#34;&gt;Just Amaz predicting the future&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[clip]&lt;/span&gt;&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;strong&gt;Class Check: Mage&lt;/strong&gt;&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;img align=&#34;left&#34; data-file-id=&#34;4951649&#34; height=&#34;50&#34; src=&#34;https://gallery.mailchimp.com/a70281e2cd8892265f8028139/images/855baed8-b057-4ba7-800f-cd6738900e08.jpeg&#34; style=&#34;border: 0px initial ; width: 50px; height: 50px; margin: 5px 15px 0px 0px;&#34; width=&#34;50&#34;&gt;Mage is a staple class: it&amp;#39;s easy to pick up, has powerful Classic cards, and there&amp;#39;s always a top-tier viable archetype. Tempo dominated at various times, and freeze mage is always a challenge for experienced players.&lt;br&gt;
-                                        &lt;br&gt;
-                                        Once the &lt;em&gt;Un&amp;#39;Goro&lt;/em&gt; meta settled, Mage started to dominate in the ladder. Control/Burn Mage and Secret Mage are two anti-meta decks that are very powerful right now. Mages are even playing Eater of Secrets to &lt;a href=&#34;https://www.reddit.com/r/hearthstone/comments/6e14fh/playing_eater_of_secrets_as_a_mage_to_counter/&#34; target=&#34;_blank&#34;&gt;counter their fellow Mages&lt;/a&gt;!&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;http://www.hearthstonetopdecks.com/decks/secret-mage-deck-list-guide-may-2017-standard/&#34; target=&#34;_blank&#34;&gt;Secret Mage&lt;/a&gt; is the deck most poised to strike fear into the current meta. Yogg makes a comeback here, but it&amp;#39;s not needed: any alt-win would do (I miss Rag!).&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;http://www.hearthhead.com/news/hearthstone-pro-deck-comparison-secret-mage&#34; target=&#34;_blank&#34;&gt;Secret Mage Pro deck comparison&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//hearthhead&lt;/span&gt;&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;http://www.hearthpwn.com/decks/817550-legend-value-control-mage&#34; target=&#34;_blank&#34;&gt;This Control Mage&lt;/a&gt;&amp;nbsp;list still looks strong for June. Some players replace &lt;em&gt;Kabal Courier&lt;/em&gt; with &lt;em&gt;Acolyte of Pain&lt;/em&gt;, arguing that your cards are better than any discovered cards. Same goes for the &lt;em&gt;Babbling Books &lt;/em&gt;(if you&amp;#39;re not Pavel) -&amp;nbsp;a great replacement is 2 x &lt;em&gt;Volcanic Potion&lt;/em&gt;.&lt;br&gt;
-                                        &lt;br&gt;
-                                        In &lt;strong&gt;Wild&lt;/strong&gt;, you can&amp;#39;t go wrong with &lt;a href=&#34;http://www.hearthstonetopdecks.com/decks/thijs-12-win-freeze-mage-wild-heroic-tavern-brawl/&#34; target=&#34;_blank&#34;&gt;Freeze Mage&lt;/a&gt;, but you should also check out this &lt;a href=&#34;http://www.metabomb.net/hearthstone/deck-guides/wild-tempo-mage-deck-list-guide-hearthstone-ung&#34; target=&#34;_blank&#34;&gt;wild Tempo Mage guide&lt;/a&gt;. If you also have &lt;em&gt;Kazakus&lt;/em&gt;, take a peek at the&amp;nbsp;&lt;a href=&#34;http://www.hearthstonetopdecks.com/decks/abars-wild-reno-mage-1-legend-may-2017-season-38/&#34; target=&#34;_blank&#34;&gt;Kazakus Mage list&lt;/a&gt; that Abaz took to #1 Legend in May.&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://www.icy-veins.com/hearthstone/cheap-mech-mage-wild-deck&#34; target=&#34;_blank&#34;&gt;Mech Mage&lt;/a&gt; is a viable option if you don&amp;#39;t care for all those flashy Legendaries.&lt;br&gt;
-                                        &lt;br&gt;
-                                        If you&amp;#39;re just getting into Wild, here&amp;#39;s &lt;a href=&#34;http://hsdecksandguides.com/wild-tier-list-may-2017-best-wild-format-decks/&#34; target=&#34;_blank&#34;&gt;the current tier list at a glance.&lt;/a&gt;&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://www.youtube.com/watch?v=rJOyfeREjbk&#34; target=&#34;_blank&#34;&gt;Thijs playing Secret Mage&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
-                                        If you&amp;#39;re gonna watch someone play Mage, it has to be Thijs.&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://www.youtube.com/watch?v=C3PCTDLUk8U&#34; target=&#34;_blank&#34;&gt;When minions are winions&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
-                                        Great vs Quest Rogue: &lt;a href=&#34;https://youtu.be/C3PCTDLUk8U?t=465&#34; target=&#34;_blank&#34;&gt;here&amp;#39;s the moment of win&lt;/a&gt;. And then, a disputed mirror match.&lt;br&gt;
-                                        &lt;/td&gt;
-                                &lt;/tr&gt;
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_gwent&#34;&gt;&lt;h1&gt;&lt;span style=&#34;color:#16C95D&#34;&gt;Gwent&lt;/span&gt;&lt;/h1&gt;
-                                        &lt;a href=&#34;http://gwentlemen.com.s3-website.eu-central-1.amazonaws.com/deck-guide-monster-starter-deck/&#34; target=&#34;_blank&#34;&gt;Monster starter deck guide&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//gwentelmen&lt;/span&gt;&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;http://wefightwithcards.com/intro_to_gwent/&#34; target=&#34;_blank&#34;&gt;G&lt;/a&gt;&lt;a href=&#34;http://gwentify.com/gwent-community-videos-decks-and-guides-of-the-week-1/&#34; target=&#34;_blank&#34;&gt;went Decks of the week&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//gwentify&lt;/span&gt;&lt;br&gt;
-                                        Top Calveit &amp;amp; Scoia&amp;#39;tael builds to start the week.&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://www.youtube.com/watch?v=RFMnaFHBovw&#34; target=&#34;_blank&#34;&gt;Nilfgaard Calveit deck guide&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://clips.twitch.tv/ElatedIntelligentCobraPermaSmug&#34; target=&#34;_blank&#34;&gt;Never forget round 1&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[clip]&lt;/span&gt;&lt;br&gt;
-                                        If you lose round 1, it&amp;#39;s best to keep that in mind!&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://www.twitch.tv/directory/game/Gwent:%20The%20Witcher%20Card%20Game/clips&#34; target=&#34;_blank&#34;&gt;Play Gwent, they said, no RNG they said&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[clip]&lt;/span&gt;&lt;br&gt;
-                                        Still fun to watch!&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://clips.twitch.tv/LittleDelightfulCakePMSTwin&#34; target=&#34;_blank&#34;&gt;Nilfgaard player gets punished by his own Tiobr&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[clip]&lt;/span&gt;&lt;br&gt;
-                                        &lt;/td&gt;
-                                &lt;/tr&gt;
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_tes&#34;&gt;&lt;h1&gt;&lt;span style=&#34;color:#926F47&#34;&gt;TES: Legends&lt;/span&gt;&lt;/h1&gt;
-                                        TES Legends is now available on &lt;a href=&#34;http://store.steampowered.com/app/364470/&#34; target=&#34;_blank&#34;&gt;Steam for PC and Mac&lt;/a&gt;&amp;nbsp;and on &lt;a href=&#34;https://app.appsflyer.com/com.bethsoft.theelderscrollslegends?pid=Bethesda?locale=en&#34; target=&#34;_blank&#34;&gt;Google Play&lt;/a&gt; for tablets with Android 4.4+. If you play on Steam you&amp;#39;ll get &lt;strong&gt;5 free packs&lt;/strong&gt; on June 14.&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://legends.bethesda.net/articles/beginners-guide-to-attributes-and-classes?locale=en&#34; target=&#34;_blank&#34;&gt;Official beginner&amp;#39;s guide&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//official&lt;/span&gt;&lt;br&gt;
-                                        If you want to dig in, be sure to check the official game guide.&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://betweenthelanes.net/2017/06/03/pdmds-beginners-guide-to-legends/&#34; target=&#34;_blank&#34;&gt;In-depth beginner/f2p guide&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//betweenthelanes&lt;/span&gt;&lt;br&gt;
-                                        The definite guide to starting out in Legends: what decks, cards to play, what to do to stay in F2P land &amp;amp; more.&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://www.youtube.com/watch?v=XMnXUoE2_sQ&#34; target=&#34;_blank&#34;&gt;PC Gameplay &amp;amp; First impressions&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://www.youtube.com/watch?v=-g5CnakskmI&#34; target=&#34;_blank&#34;&gt;Essential Legendaries&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
-                                        CVH goes into what legendary cards to craft.&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://www.reddit.com/r/elderscrollslegends/comments/6ew87v/how_to_beat_control_mage/&#34; target=&#34;_blank&#34;&gt;How to beat Control Mage&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//reddit&lt;/span&gt;&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://www.youtube.com/watch?v=CRk4f2bcGJE&#34; target=&#34;_blank&#34;&gt;Thijs plays Legends&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
-                                        &lt;/td&gt;
-                                &lt;/tr&gt;
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_shadow&#34;&gt;&lt;h1&gt;&lt;span style=&#34;color:#007DD0&#34;&gt;Shadowverse&lt;/span&gt;&lt;/h1&gt;
-                                        It&amp;#39;s the 1-year anniversary of Shadowverse this month. The official date is June 17, but the &lt;a href=&#34;http://www.siliconera.com/2017/06/01/shadowverse-celebrates-1st-birthday-40-card-packs-rewards/&#34; target=&#34;_blank&#34;&gt;rewards already started&lt;/a&gt;. Login to claim up to 40 packs.&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://shadowverse.com/cardpack/wonderlanddreams/&#34; target=&#34;_blank&#34;&gt;Wonderland Dreams will have 104 new cards&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//shadowverse&lt;/span&gt;&lt;br&gt;
-                                        See all of the revealed cards of the upcoming expansion.&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://battlefy.com/the-shadow-nexus/shadowverse-1st-year-anniversary-wonderland-dreams-release-event/5932c133f1d2d80333f9b58d/info?infoTab=details&#34; target=&#34;_blank&#34;&gt;First Wonderland tournament announced&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//shadow-nexus&lt;/span&gt;&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;http://www.theshadownexus.com/as-you-wish-vengeance-blood-totg/&#34; target=&#34;_blank&#34;&gt;Vengeance Blood deck &amp;amp; guide&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//shadow-nexus&lt;/span&gt;&lt;br&gt;
-                                        Aya is back with this recent Bloodcraft gem.&lt;br&gt;
-                                        &lt;/td&gt;
-                                &lt;/tr&gt;
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_eternal&#34;&gt;
-                                        &lt;h1&gt;Eternal&lt;/h1&gt;
-                                        &lt;a href=&#34;https://clips.twitch.tv/CreativeFlaccidPepperHassaanChop&#34; target=&#34;_blank&#34;&gt;Mana un-screwed&lt;/a&gt;!&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[clip]&lt;/span&gt;&lt;br&gt;
-                                        &lt;/td&gt;
-                                &lt;/tr&gt;
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_discover&#34;&gt;&lt;h1&gt;Discover&lt;/h1&gt;
-                                        &lt;a href=&#34;https://www.lightseekers.com/about/cards/&#34; target=&#34;_blank&#34;&gt;Lightseekers: Augmented Reality TCG&lt;br&gt;
-                                            &lt;img data-file-id=&#34;4952321&#34; height=&#34;45&#34; src=&#34;https://gallery.mailchimp.com/a70281e2cd8892265f8028139/images/a15be804-994a-4fa4-9d84-df630e81741f.png&#34; style=&#34;border: 0px  ; width: 110px; height: 45px; float: right; margin: 0px 0px 0px 20px;&#34; width=&#34;110&#34;&gt;&lt;/a&gt;&lt;span style=&#34;color:#A9A9A9&#34;&gt;//official&lt;/span&gt;&lt;br&gt;
-                                        Lightseekers is a franchise that sports smart action figures, mobile games, and next year they&amp;#39;re launching an augmented-reality TCG.&lt;br&gt;
-                                        &lt;br&gt;
-                                        Control one of the 6 Orders, build decks and watch your cards come alive in the app. Pretty cool stuff - the next pokemon go?&amp;nbsp;&lt;a href=&#34;https://www.lightseekers.com/about/cards/&#34; target=&#34;_blank&#34;&gt;Click through to see videos.&lt;/a&gt;&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://www.kickstarter.com/projects/catchtimestudio/take-the-galaxy&#34; target=&#34;_blank&#34;&gt;Take the Galaxy: space exploration card game&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//kickstarter&lt;/span&gt;&lt;br&gt;
-                                        &lt;a href=&#34;https://www.kickstarter.com/projects/catchtimestudio/take-the-galaxy&#34; target=&#34;_blank&#34;&gt;&lt;img data-file-id=&#34;4952329&#34; height=&#34;53&#34; src=&#34;https://gallery.mailchimp.com/a70281e2cd8892265f8028139/images/85ed87e7-0604-4100-8444-d1ed54834479.png&#34; style=&#34;border: 0px initial ; width: 110px; height: 53px; float: right; margin: 0px 0px 0px 20px;&#34; width=&#34;110&#34;&gt;&lt;/a&gt;
-
-                                        &lt;div style=&#34;text-align: left;&#34;&gt;Colonize a new galaxy in this 1-4 player card game about space exploration. It&amp;#39;s available now on &lt;a href=&#34;https://www.kickstarter.com/projects/catchtimestudio/take-the-galaxy&#34; target=&#34;_blank&#34;&gt;Kickstarter&lt;/a&gt;&amp;nbsp;for 35 - 50 Eur (incl shipping) and you&amp;#39;ll get it in November - just in time for Xmas.&lt;br&gt;
-                                            &lt;br&gt;
-                                            &lt;a href=&#34;https://www.pcgamesn.com/pathfinder-adventure/pathfinder-adventure-pc&#34; target=&#34;_blank&#34;&gt;Pathfinder Adventure card RPG coming to PC&lt;/a&gt;&lt;br&gt;
-                                            &lt;span style=&#34;color:#A9A9A9&#34;&gt;//pcgamesn&lt;/span&gt;&lt;br&gt;
-                                            Pathfinder blends a compelling story with solid gameplay; after astounding reviews on mobile, it&amp;#39;s coming on GoG and Steam on June 15.&lt;/div&gt;
-                                    &lt;/td&gt;
-                                &lt;/tr&gt;
-                                &lt;tr&gt;
-                                    &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_fun&#34;&gt;&lt;h1&gt;Fun&lt;/h1&gt;
-                                        &lt;a href=&#34;https://clips.twitch.tv/SuaveJoyousWormCopyThis&#34; target=&#34;_blank&#34;&gt;Kripp presses the button&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[clip]&lt;/span&gt;&lt;br&gt;
-                                        What does disenchanting 600k dust look like? (spoiler: not much)&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://www.youtube.com/watch?v=tYjhHuY-kHY&#34; target=&#34;_blank&#34;&gt;Un&amp;#39;Goro Trip&lt;/a&gt;&amp;nbsp;- A Hearthstone cartoon&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://www.youtube.com/watch?v=rHybGlGVFK8&amp;amp;feature=youtu.be&#34; target=&#34;_blank&#34;&gt;Uther v Uther - Hearthstone song&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://www.youtube.com/watch?v=7S9wvwQlWDQ&#34; target=&#34;_blank&#34;&gt;Another round of Gwent - Gwent Song&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;[video]&lt;/span&gt;&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://www.reddit.com/r/gwent/comments/6fcd82/how_many_northern_realms_player_does_it_need_to/&#34; target=&#34;_blank&#34;&gt;How many NR players does it take to change a lightbulb?&lt;/a&gt;&lt;br&gt;
-                                        &lt;span style=&#34;color:#A9A9A9&#34;&gt;//reddit&lt;/span&gt;&lt;br&gt;
-                                        I LOL&amp;#39;ed :)&lt;br&gt;
-                                        &lt;br&gt;
-                                        &lt;a href=&#34;https://clips.twitch.tv/BashfulDarkOrcaDoritosChip&#34; target=&#34;_blank&#34;&gt;Meme stream - BradfordLee shows us how it&amp;#39;s done&lt;/a&gt;&lt;br&gt;
-                                        [clip]&lt;/td&gt;
-                                &lt;/tr&gt;
-                            &lt;/table&gt;
-                            &lt;div&gt;
-                            &lt;/div&gt;
-                        &lt;/td&gt;
-                    &lt;/tr&gt;
-                    &lt;tr&gt;
-                        &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;bodyContent&#34; mc:edit=&#34;body_streamers&#34;&gt;&lt;/td&gt;
-                    &lt;/tr&gt;
-                    &lt;tr&gt;
-                        &lt;td valign=&#34;top&#34; class=&#34;bodyContent&#34;&gt;
-                            &lt;p style=&#34;color:#A9A9A9;font-weight:bold;&#34;&gt;
-                                __DONE__
-                            &lt;/p&gt;
-                            &lt;div mc:edit=&#34;body_end&#34;&gt;&lt;/div&gt;
-                            &lt;p mc:edit=&#34;yourgames&#34;&gt;&lt;strong&gt;PS: Did you know&lt;/strong&gt; - you can pick&amp;nbsp;your favourite games and get the scoop on them&amp;nbsp;every week? &lt;a href=&#34;&#34;&gt;Just&amp;nbsp;click here and pick&amp;nbsp;your games&lt;/a&gt;&lt;/p&gt;
-                            &lt;p id=&#34;yourGames&#34;&gt;
-                                &lt;span&gt;Your games:&lt;/span&gt;
-                                &lt;span&gt;Hearthstone&lt;/span&gt;
-                                &lt;span&gt;Gwent&lt;/span&gt;
-                                &lt;span&gt;Eternal&lt;/span&gt;
-                                &lt;span&gt;Shadowverse&lt;/span&gt;
-                                &lt;span&gt;Elder Scrolls Legends&lt;/span&gt;
-                            &lt;/p&gt;
                             &lt;p&gt;Not a subscriber? Join us at &lt;a href=&#34;https://wefightwithcards.com/&#34;&gt;https://wefightwithcards.com/&lt;/a&gt;
                             &lt;/p&gt;
                         &lt;/td&gt;

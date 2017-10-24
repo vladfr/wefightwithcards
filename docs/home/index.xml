@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on We fight with cards - Weekly newsletter about Digital Card Games</title>
-    <link>https://wefightwithcards.com/home/index.xml</link>
+    <link>http://wefightwithcards.com/home/index.xml</link>
     <description>Recent content in Homes on We fight with cards - Weekly newsletter about Digital Card Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://wefightwithcards.com/home/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://wefightwithcards.com/home/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About - We fight with cards</title>
-      <link>https://wefightwithcards.com/home/</link>
+      <link>http://wefightwithcards.com/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wefightwithcards.com/home/</guid>
+      <guid>http://wefightwithcards.com/home/</guid>
       <description>&lt;div class=&#34;columns&#34;&gt;
     &lt;div class=&#34;column&#34;&gt;
         
@@ -42,7 +42,7 @@
 
                 &lt;div role=&#34;alert&#34; class=&#34;box media&#34; id=&#34;mce-success-response&#34; style=&#34;display:none&#34;&gt;
                     &lt;div class=&#34;media-left&#34;&gt;
-                        &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;https://wefightwithcards.com/vlad.png&#34;&gt;
+                        &lt;img class=&#34;&#34; width=&#34;75&#34; height=&#34;75&#34; src=&#34;http://wefightwithcards.com/vlad.png&#34;&gt;
                     &lt;/div&gt;
                     &lt;div class=&#34;media-content&#34;&gt;
                         &lt;p&gt;Thanks for joining us! You&#39;ll receive an email shortly &amp;mdash; please click the link inside to confirm. &lt;/p&gt;
@@ -143,7 +143,7 @@
     &lt;/div&gt;
 
     &lt;div class=&#34;column is-6-desktop is-12-tablet is-grouped-right&#34; style=&#34;text-align: right&#34;&gt;
-        &lt;a class=&#34;button is-primary is-inverted is-outlined&#34; href=&#34;https://wefightwithcards.com/archives/latest&#34;&gt;
+        &lt;a class=&#34;button is-primary is-inverted is-outlined&#34; href=&#34;http://wefightwithcards.com/archives/latest&#34;&gt;
             &lt;span&gt;See the latest issue&lt;/span&gt;
             &lt;span class=&#34;icon&#34;&gt;
                 &lt;i class=&#34;fa fa-arrow-right&#34;&gt;&lt;/i&gt;
