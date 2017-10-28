@@ -55,6 +55,10 @@
 }
 
 .card.sidebar {
+  .menu-list a {
+    color: $primary;
+    background: #f5f5f5;
+  }
   @media all and (min-width: $tablet) {
     float: right;
     margin-left: 20px;
