@@ -166,20 +166,16 @@
   </url>
   
   <url>
+    <loc>https://wefightwithcards.com/</loc>
+    <lastmod>2017-11-14T04:48:45+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wefightwithcards.com/about/</loc>
   </url>
   
   <url>
-    <loc>https://wefightwithcards.com/home/</loc>
-  </url>
-  
-  <url>
     <loc>https://wefightwithcards.com/card-city-nights/</loc>
-  </url>
-  
-  <url>
-    <loc>https://wefightwithcards.com/home/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -192,12 +188,6 @@
   
   <url>
     <loc>https://wefightwithcards.com/thankyou/</loc>
-  </url>
-  
-  <url>
-    <loc>https://wefightwithcards.com/</loc>
-    <lastmod>2017-11-14T04:48:45+03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

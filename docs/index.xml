@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>We fight with cards - Weekly newsletter about Digital Card Games</title>
+    <title>About - We fight with cards on We fight with cards - Weekly newsletter about Digital Card Games</title>
     <link>https://wefightwithcards.com/index.xml</link>
-    <description>Recent content on We fight with cards - Weekly newsletter about Digital Card Games</description>
+    <description>Recent content in About - We fight with cards on We fight with cards - Weekly newsletter about Digital Card Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Nov 2017 04:48:45 +0300</lastBuildDate>
@@ -2902,10 +2902,10 @@ This really hints at the fact that they are fully committed to replicating Magic
     &lt;/figure&gt;
 
     &lt;p&gt;A good example is 
-
 &lt;strong class=&#34;game-card&#34; data-html=&#34;true&#34; data-toggle=&#34;popover&#34; data-placement=&#34;right&#34;
         data-content=&#34;&lt;img src=&#39;https://wefightwithcards.com/cards/mtg/priest of the wakening sun.png&#39; class=&#39;mtg-card&#39; /&gt;&#34;
-&gt;Priest of the wakening sun&lt;/strong&gt;: every turn, you &lt;em&gt;may&lt;/em&gt; reveal a Dinosaur card to gain 2 life. If you don&#39;t have a Dinosaur in your hand, the game won&#39;t ask you.
+&gt;Priest of the wakening sun&lt;/strong&gt;
+: every turn, you &lt;em&gt;may&lt;/em&gt; reveal a Dinosaur card to gain 2 life. If you don&#39;t have a Dinosaur in your hand, the game won&#39;t ask you.
     &lt;/p&gt;
 
     &lt;a name=&#34;beta&#34;&gt;&lt;/a&gt;
@@ -5637,10 +5637,10 @@ With all that in mind, multiplayer should be a total blast! The last beta gave u
 
 &lt;p&gt;
 I loved the fact that new decks emerged every day: at first, the Frog deck ruled. Then, players started countering it with control decks, then by using the best princess there is: 
-
 &lt;strong class=&#34;game-card&#34; data-html=&#34;true&#34; data-toggle=&#34;popover&#34; data-placement=&#34;right&#34;
-        data-content=&#34;&lt;img src=&#39;https://wefightwithcards.com/cards/error: index out of range for positional param at position 1/princess remedy.png&#39; class=&#39;error: index out of range for positional param at position 1-card&#39; /&gt;&#34;
-&gt;Princess Remedy&lt;/strong&gt;. In the last few days, people noticed that a fatigue archetype is a contender for &#34;top deck&#34;. This can only mean good news for the finished game &amp;mdash; everyone wants a dynamic meta with multiple deck types to explore.
+        data-content=&#34;&lt;img src=&#39;https://wefightwithcards.com/cards/ccn/princess remedy.png&#39; class=&#39;ccn-card&#39; /&gt;&#34;
+&gt;Princess Remedy&lt;/strong&gt;
+. In the last few days, people noticed that a fatigue archetype is a contender for &#34;top deck&#34;. This can only mean good news for the finished game &amp;mdash; everyone wants a dynamic meta with multiple deck types to explore.
 &lt;/p&gt;
 
 
