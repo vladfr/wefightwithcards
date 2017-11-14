@@ -1,5 +1,4 @@
-{{ $name := .Get 0}}
-{{ $game := .Get 1}}
+{{ $name := .Get 0 }}
 <strong class="game-card" data-html="true" data-toggle="popover" data-placement="right"
-        data-content="<img src='/cards/{{lower $game}}/{{ lower $name }}.png' class='{{$game}}-card' />"
+        data-content="<img src='/cards/{{with .Get 1}}{{lower .}}/{{end}}{{ lower $name }}.png' class='{{with .Get 1}}{{.}}-{{end}}card' />"
 >{{ $name }}</strong>

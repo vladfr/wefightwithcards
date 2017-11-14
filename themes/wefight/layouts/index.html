@@ -28,8 +28,6 @@
     </div>
 </div>
 
-{{ range .Site.Sections.home.Pages }}
-    {{ .Render "empty" }}
-{{ end }}
+{{.Content}}
 
 {{ partial "footer.html" . }}
