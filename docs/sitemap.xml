@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://wefightwithcards.com/posts/entropia-new-card-game-kickstarter/</loc>
+    <lastmod>2017-11-14T04:48:45+03:00</lastmod>
+  </url>
   
   <url>
     <loc>https://wefightwithcards.com/posts/shadowverse-news-portalcraft-rotation/</loc>
@@ -68,7 +72,7 @@
   </url>
   
   <url>
-    <loc>https://wefightwithcards.com/posts/card-city-nights-ludosity-interview-multiplayer/</loc>
+    <loc>https://wefightwithcards.com/posts/card-city-nights-Ludosity-interview-multiplayer/</loc>
     <lastmod>2017-07-25T23:48:45+03:00</lastmod>
   </url>
   
@@ -162,12 +166,11 @@
   </url>
   
   <url>
-    <loc>https://wefightwithcards.com/</loc>
-    <lastmod>2017-11-01T04:48:45+03:00</lastmod>
+    <loc>https://wefightwithcards.com/about/</loc>
   </url>
   
   <url>
-    <loc>https://wefightwithcards.com/about/</loc>
+    <loc>https://wefightwithcards.com/home/</loc>
   </url>
   
   <url>
@@ -175,7 +178,7 @@
   </url>
   
   <url>
-    <loc>https://wefightwithcards.com/categories/</loc>
+    <loc>https://wefightwithcards.com/home/</loc>
     <priority>0</priority>
   </url>
   
@@ -184,16 +187,17 @@
   </url>
   
   <url>
-    <loc>https://wefightwithcards.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://wefightwithcards.com/confirm/</loc>
   </url>
   
   <url>
     <loc>https://wefightwithcards.com/thankyou/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wefightwithcards.com/</loc>
+    <lastmod>2017-11-14T04:48:45+03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
